@@ -1,6 +1,7 @@
 #!/bin/bash
 # Piccola E-commerce - 生产环境启动脚本
 # 用法: ./scripts/start.sh [端口]
+# 优先使用 PM2 管理进程，回退到 nohup 模式
 
 set -e
 
@@ -11,18 +12,21 @@ cd "$PROJECT_DIR"
 # 配置
 PORT=${1:-3000}
 HOST="0.0.0.0"
-NODE_ENV=production
 PID_FILE="$PROJECT_DIR/.next.pid"
 LOG_FILE="$PROJECT_DIR/logs/app.log"
 
 # 检查是否已在运行
+if command -v pm2 &> /dev/null && pm2 list 2>/dev/null | grep -q "piccola.*online"; then
+  echo "⚠️  服务已在运行 (PM2: piccola)"
+  exit 0
+fi
+
 if [ -f "$PID_FILE" ]; then
   PID=$(cat "$PID_FILE")
   if kill -0 "$PID" 2>/dev/null; then
     echo "⚠️  服务已在运行 (PID: $PID)"
     exit 1
   else
-    echo "🧹 清理过期的 PID 文件..."
     rm -f "$PID_FILE"
   fi
 fi
@@ -37,30 +41,45 @@ if [ ! -d "frontend/.next/standalone" ]; then
 fi
 
 echo "🚀 启动 Piccola 电商平台..."
-echo "   - 环境: $NODE_ENV"
+echo "   - 环境: production"
 echo "   - 地址: http://$HOST:$PORT"
-echo "   - 日志: $LOG_FILE"
 echo ""
 
-# 启动 Next.js (standalone 模式)
-cd frontend
+# 优先使用 PM2
+if command -v pm2 &> /dev/null; then
+  echo "📦 使用 PM2 管理进程..."
+  cd "$PROJECT_DIR"
 
-NODE_ENV=$NODE_ENV \
-PORT=$PORT \
-HOSTNAME=$HOST \
-nohup node .next/standalone/server.js > "$LOG_FILE" 2>&1 &
+  PORT=$PORT HOSTNAME=$HOST \
+  pm2 startOrReload ecosystem.config.json --env production
 
-PID=$!
-echo $PID > "$PID_FILE"
+  pm2 save 2>/dev/null || true
 
-# 等待服务启动
-sleep 2
-
-if kill -0 "$PID" 2>/dev/null; then
-  echo "✅ 服务启动成功! PID: $PID"
-  echo "   访问地址: http://$HOST:$PORT"
+  echo ""
+  echo "✅ 服务启动成功! (PM2: piccola)"
+  echo "   查看日志: pm2 logs piccola"
+  echo "   查看状态: pm2 status"
 else
-  echo "❌ 服务启动失败，请查看日志: $LOG_FILE"
-  rm -f "$PID_FILE"
-  exit 1
+  echo "📦 使用 nohup 模式..."
+  cd frontend
+
+  NODE_ENV=production \
+  PORT=$PORT \
+  HOSTNAME=$HOST \
+  nohup node .next/standalone/server.js > "$LOG_FILE" 2>&1 &
+
+  PID=$!
+  echo $PID > "$PID_FILE"
+
+  sleep 2
+
+  if kill -0 "$PID" 2>/dev/null; then
+    echo ""
+    echo "✅ 服务启动成功! PID: $PID"
+    echo "   访问地址: http://$HOST:$PORT"
+  else
+    echo "❌ 服务启动失败，请查看日志: $LOG_FILE"
+    rm -f "$PID_FILE"
+    exit 1
+  fi
 fi

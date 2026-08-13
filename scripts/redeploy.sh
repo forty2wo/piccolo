@@ -16,22 +16,18 @@ if [ -d ".git" ]; then
   git pull
 fi
 
-# 停止服务
-if [ -f "scripts/stop.sh" ]; then
-  echo ""
-  echo "🛑 停止当前服务..."
-  bash scripts/stop.sh || true
-fi
-
 # 构建
 echo ""
 echo "🔨 构建生产版本..."
 bash scripts/deploy.sh
 
-# 启动
+# 重启
 echo ""
-echo "🚀 启动服务..."
+echo "🚀 重启服务..."
+bash scripts/stop.sh || true
 bash scripts/start.sh
 
 echo ""
 echo "✅ 重新部署完成!"
+echo ""
+bash scripts/status.sh
