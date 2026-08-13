@@ -34,8 +34,8 @@ fi
 # 确保日志目录存在
 mkdir -p "$(dirname "$LOG_FILE")"
 
-# 检查构建产物
-if [ ! -d "frontend/.next/standalone" ]; then
+# 检查是否已构建
+if [ ! -d "frontend/.next" ]; then
   echo "❌ 未找到构建产物，请先运行: ./scripts/deploy.sh"
   exit 1
 fi
@@ -50,7 +50,7 @@ if command -v pm2 &> /dev/null; then
   echo "📦 使用 PM2 管理进程..."
   cd "$PROJECT_DIR"
 
-  # 删除旧进程（如果配置方式不同）
+  # 删除旧进程（确保配置更新生效）
   pm2 delete piccola 2>/dev/null || true
 
   PORT=$PORT HOSTNAME=$HOST \
@@ -69,12 +69,12 @@ else
   NODE_ENV=production \
   PORT=$PORT \
   HOSTNAME=$HOST \
-  nohup node .next/standalone/server.js > "$LOG_FILE" 2>&1 &
+  nohup npx next start > "$LOG_FILE" 2>&1 &
 
   PID=$!
   echo $PID > "$PID_FILE"
 
-  sleep 2
+  sleep 3
 
   if kill -0 "$PID" 2>/dev/null; then
     echo ""
