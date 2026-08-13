@@ -1,0 +1,437 @@
+{
+  "meta": {
+    "source": "41zero42 S.r.l.",
+    "exportDate": "2026-04-06",
+    "version": "1.0",
+    "status": "Partial - Awaiting partner data",
+    "totalCollections": 14,
+    "estimatedSKUs": 360,
+    "confirmedSKUs": 0
+  },
+  "collections": [
+    {
+      "id": "stories",
+      "name": "Stories",
+      "nameCn": "故事系列",
+      "designConcept": "A box full of wonders.",
+      "technology": "HD DIGITAL GLAZED PORCELAIN",
+      "finishes": ["MATTE", "GLOSSY"],
+      "thickness": "8mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["多彩系"],
+      "applications": ["客厅", "商业空间", "墙面装饰"],
+      "style": ["创意艺术", "现代"],
+      "images": {
+        "cover": "/images/41zero42/stories/cover.webp",
+        "details": [
+          "/images/41zero42/stories/detail-01.webp",
+          "/images/41zero42/stories/detail-02.webp"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/stories-en/",
+      "skus": [
+        {
+          "skuCode": "STO-MAT-01-60x60",
+          "sizeCm": "60x60",
+          "sizeInches": "24\"x24\"",
+          "colorName": "Multicolor A",
+          "colorNameCn": "多彩 A",
+          "finish": "MATTE",
+          "priceEUR": null,
+          "moq": null,
+          "stockStatus": "TBD",
+          "leadTimeWeeks": null,
+          "piecesPerBox": null,
+          "sqmPerBox": null,
+          "kgPerBox": null,
+          "boxesPerPallet": null,
+          "sqmPerPallet": null,
+          "indoorFloor": true,
+          "indoorWall": true,
+          "outdoorFloor": false,
+          "commercial": true,
+          "residential": true
+        }
+      ],
+      "status": "active",
+      "dataCompleteness": "20%"
+    },
+    {
+      "id": "nok",
+      "name": "Nok",
+      "nameCn": "诺克系列",
+      "designConcept": "A new earthen matter.",
+      "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+      "finishes": ["RECTIFIED", "NATURAL", "GRAINS"],
+      "thickness": "9mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["大地色系"],
+      "applications": ["客厅", "商业空间", "户外"],
+      "style": ["工业风", "现代"],
+      "images": {
+        "cover": "/images/41zero42/nok/cover.jpg",
+        "details": [
+          "/images/41zero42/nok/detail-01.jpg",
+          "/images/41zero42/nok/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/nok-en/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "biscuit",
+      "name": "Biscuit",
+      "nameCn": "饼干系列",
+      "designConcept": "Choose your recipe.",
+      "technology": "WHITE BODY SINGLE-FIRED WALL TILE",
+      "finishes": ["MATTE"],
+      "thickness": "8mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["多彩系"],
+      "applications": ["浴室", "厨房", "墙面装饰"],
+      "style": ["经典优雅", "现代"],
+      "images": {
+        "cover": "/images/41zero42/biscuit/cover.jpg",
+        "details": [
+          "/images/41zero42/biscuit/detail-01.jpg",
+          "/images/41zero42/biscuit/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/biscuit-eng/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "futura",
+      "name": "Futura",
+      "nameCn": "未来系列",
+      "designConcept": "An alphabet of basic shapes.",
+      "technology": "HD DIGITAL GLAZED PORCELAIN",
+      "finishes": ["NATURAL"],
+      "thickness": "10mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["灰色系", "白色系"],
+      "applications": ["客厅", "商业空间", "厨房"],
+      "style": ["现代极简"],
+      "images": {
+        "cover": "/images/41zero42/futura/cover.jpg",
+        "details": [
+          "/images/41zero42/futura/detail-01.jpg",
+          "/images/41zero42/futura/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/futura-eng/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "dandy",
+      "name": "Dandy",
+      "nameCn": "丹迪系列",
+      "designConcept": "An elegance icon.",
+      "technology": "HD DIGITAL GLAZED PORCELAIN",
+      "finishes": ["NATURAL"],
+      "thickness": "8.5mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["多彩系"],
+      "applications": ["客厅", "商业空间", "浴室"],
+      "style": ["经典优雅"],
+      "images": {
+        "cover": "/images/41zero42/dandy/cover.jpg",
+        "details": [
+          "/images/41zero42/dandy/detail-01.jpg",
+          "/images/41zero42/dandy/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/dandy-en/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "mou",
+      "name": "Mou",
+      "nameCn": "慕系列",
+      "designConcept": "An unmistakable taste.",
+      "technology": "WHITE BODY SINGLE-FIRED WALL TILE",
+      "finishes": ["MATTE", "GLOSSY"],
+      "thickness": "8.5mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["大地色系", "米色系"],
+      "applications": ["浴室", "厨房", "墙面装饰"],
+      "style": ["经典优雅"],
+      "images": {
+        "cover": "/images/41zero42/mou/cover.jpg",
+        "details": [
+          "/images/41zero42/mou/detail-01.jpg",
+          "/images/41zero42/mou/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/mou-en/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "spectre",
+      "name": "Spectre",
+      "nameCn": "幻影系列",
+      "designConcept": "How prism works.",
+      "technology": "WHITE BODY SINGLE-FIRED WALL TILE",
+      "finishes": ["MATTE", "GLOSSY", "HOLOGRAM"],
+      "thickness": "8mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["多彩系", "特殊效果"],
+      "applications": ["浴室", "墙面装饰", "商业空间"],
+      "style": ["创意艺术"],
+      "images": {
+        "cover": "/images/41zero42/spectre/cover.jpg",
+        "details": [
+          "/images/41zero42/spectre/detail-01.jpg",
+          "/images/41zero42/spectre/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/spectre-eng/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "superclassica-scw",
+      "name": "Superclassica SCW",
+      "nameCn": "超级经典白色系列",
+      "designConcept": "White is my sugar!",
+      "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+      "finishes": ["RECTIFIED", "NATURAL", "FLAMED", "HAMMERED", "HONED", "GROOVED", "CHEVRON", "POLISHED", "HAPPY"],
+      "thickness": "9mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["白色系"],
+      "applications": ["厨房", "客厅", "浴室", "户外", "商业空间"],
+      "style": ["现代极简"],
+      "images": {
+        "cover": "/images/41zero42/superclassica-scw/cover.jpg",
+        "details": [
+          "/images/41zero42/superclassica-scw/detail-01.jpg",
+          "/images/41zero42/superclassica-scw/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/superclassica-scw-en/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "superclassica-scg",
+      "name": "Superclassica SCG",
+      "nameCn": "超级经典灰色系列",
+      "designConcept": "My grey made your day!",
+      "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+      "finishes": ["RECTIFIED", "NATURAL", "FLAMED", "HAMMERED", "CRACK", "GROOVED", "CHEVRON", "POLISHED", "PATCHY"],
+      "thickness": "9mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["灰色系"],
+      "applications": ["厨房", "客厅", "浴室", "户外", "商业空间"],
+      "style": ["现代极简"],
+      "images": {
+        "cover": "/images/41zero42/superclassica-scg/cover.jpg",
+        "details": [
+          "/images/41zero42/superclassica-scg/detail-01.jpg",
+          "/images/41zero42/superclassica-scg/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/superclassica-scg-en/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "brutus",
+      "name": "Brutus",
+      "nameCn": "布鲁特斯系列",
+      "designConcept": "Unpretty, unfiltered, unforgettable.",
+      "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+      "finishes": ["RECTIFIED", "NATURAL", "RUGGED"],
+      "thickness": "9mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["大地色系"],
+      "applications": ["客厅", "商业空间", "户外"],
+      "style": ["工业风"],
+      "images": {
+        "cover": "/images/41zero42/brutus/cover.webp",
+        "details": [
+          "/images/41zero42/brutus/detail-01.webp",
+          "/images/41zero42/brutus/detail-02.webp"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/brutus-en/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "paper41-pro",
+      "name": "Paper41 Pro",
+      "nameCn": "纸 41 专业系列",
+      "designConcept": "Contemporary frescoes.",
+      "technology": "HD COLD GLAZING DIGITAL PORCELAIN",
+      "finishes": ["MATTE", "RECTIFIED"],
+      "thickness": "3.5mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["蓝色系", "多彩系"],
+      "applications": ["浴室", "墙面装饰", "商业空间"],
+      "style": ["当代艺术"],
+      "images": {
+        "cover": "/images/41zero42/paper41-pro/cover.jpg",
+        "details": [
+          "/images/41zero42/paper41-pro/detail-01.jpg",
+          "/images/41zero42/paper41-pro/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/paper41-pro-en/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "chicco",
+      "name": "Chicco",
+      "nameCn": "奇科系列",
+      "designConcept": "An italian pop bead.",
+      "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+      "finishes": ["NATURAL", "RECTIFIED"],
+      "thickness": "9mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["多彩系"],
+      "applications": ["客厅", "商业空间", "墙面装饰"],
+      "style": ["当代艺术"],
+      "images": {
+        "cover": "/images/41zero42/chicco/cover.webp",
+        "details": [
+          "/images/41zero42/chicco/detail-01.webp",
+          "/images/41zero42/chicco/detail-02.webp"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/chicco-en/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "pixel41",
+      "name": "Pixel41",
+      "nameCn": "像素 41 系列",
+      "designConcept": "Don't forget to play.",
+      "technology": "GLAZED PORCELAIN",
+      "finishes": ["NATURAL"],
+      "thickness": "10mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["多彩系"],
+      "applications": ["客厅", "商业空间", "儿童房"],
+      "style": ["创意艺术"],
+      "images": {
+        "cover": "/images/41zero42/pixel41/cover.jpg",
+        "details": [
+          "/images/41zero42/pixel41/detail-01.jpg",
+          "/images/41zero42/pixel41/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/pixel41-en/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    },
+    {
+      "id": "otto",
+      "name": "Otto",
+      "nameCn": "奥托系列",
+      "designConcept": "The complex simplicity of a stone from the nordic lakes.",
+      "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+      "finishes": ["RECTIFIED", "NATURAL", "GOCCIA", "GRAFFIO"],
+      "thickness": "9mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": ["灰色系"],
+      "applications": ["客厅", "商业空间", "户外", "浴室"],
+      "style": ["现代极简", "自然"],
+      "images": {
+        "cover": "/images/41zero42/otto/cover.jpg",
+        "details": [
+          "/images/41zero42/otto/detail-01.jpg",
+          "/images/41zero42/otto/detail-02.jpg"
+        ]
+      },
+      "sourceUrl": "https://www.41zero42.com/collections/otto-eng/",
+      "skus": [],
+      "status": "active",
+      "dataCompleteness": "15%"
+    }
+  ],
+  "dataFields": {
+    "required": [
+      "skuCode",
+      "sizeCm",
+      "colorName",
+      "finish",
+      "priceEUR",
+      "moq"
+    ],
+    "recommended": [
+      "stockStatus",
+      "leadTimeWeeks",
+      "piecesPerBox",
+      "sqmPerBox",
+      "kgPerBox",
+      "indoorFloor",
+      "indoorWall",
+      "outdoorFloor"
+    ],
+    "optional": [
+      "sizeInches",
+      "colorNameCn",
+      "boxesPerPallet",
+      "sqmPerPallet",
+      "commercial",
+      "residential"
+    ]
+  },
+  "nextSteps": [
+    {
+      "step": 1,
+      "action": "Contact 41zero42",
+      "description": "Send data request email to info@41zero42.com",
+      "priority": "high",
+      "deadline": "2026-04-07"
+    },
+    {
+      "step": 2,
+      "action": "Receive SKU data",
+      "description": "Expect Excel/CSV file with complete SKU list",
+      "priority": "high",
+      "deadline": "2026-04-10"
+    },
+    {
+      "step": 3,
+      "action": "Import to database",
+      "description": "Parse and import SKU data to Piccola system",
+      "priority": "high",
+      "deadline": "2026-04-12"
+    },
+    {
+      "step": 4,
+      "action": "Data validation",
+      "description": "Verify all SKUs, prices, and stock status",
+      "priority": "medium",
+      "deadline": "2026-04-14"
+    },
+    {
+      "step": 5,
+      "action": "Launch product pages",
+      "description": "Publish 41zero42 collections on Piccola website",
+      "priority": "high",
+      "deadline": "2026-04-17"
+    }
+  ]
+}

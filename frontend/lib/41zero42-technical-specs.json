@@ -1,0 +1,452 @@
+{
+  "biscuit": {
+    "technology": "WHITE BODY SINGLE-FIRED WALL TILE",
+    "finish": "OPACO - MATTE",
+    "sizes": "5x20 2”x8”",
+    "thickness": "8 mm",
+    "rectified": false,
+    "material": "Ceramic (wall)"
+  },
+  "brutus": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "RETTIFICATO - RECTIFIED",
+    "sizes": "BRUTUS CODES",
+    "thickness": "9 mm",
+    "waterAbsorption": "≤ 0.5%",
+    "slipRating": "R10",
+    "peiRating": "PEI 1",
+    "frostResistant": true,
+    "rectified": true,
+    "material": "Porcelain"
+  },
+  "chicco": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "OPACO RETTIFICATO - NATURAL RECTIFIED",
+    "sizes": "CHICCO CODES",
+    "thickness": "9 mm",
+    "waterAbsorption": "≤ 0.5%",
+    "slipRating": "R10",
+    "peiRating": "PEI 1",
+    "frostResistant": true,
+    "rectified": true,
+    "material": "Porcelain"
+  },
+  "dandy": {
+    "technology": "HD DIGITAL GLAZED PORCELAIN",
+    "finish": "OPACO - NATURAL",
+    "sizes": "18,6x18,6 7”x7”",
+    "thickness": "8.5 mm",
+    "waterAbsorption": "≤ 0.5%",
+    "slipRating": "R10",
+    "peiRating": "PEI IV",
+    "frostResistant": true,
+    "rectified": true,
+    "material": "Porcelain"
+  },
+  "futura": {
+    "technology": "HD DIGITAL GLAZED PORCELAIN",
+    "finish": "OPACO - NATURAL",
+    "sizes": "15x15 6”x6”",
+    "thickness": "10 mm",
+    "waterAbsorption": "≤ 0.5%",
+    "slipRating": "R10",
+    "peiRating": "PEI 1",
+    "frostResistant": true,
+    "rectified": false,
+    "material": "Porcelain"
+  },
+  "mou": {
+    "technology": "WHITE BODY SINGLE-FIRED WALL TILE",
+    "finish": "OPACO / LUCIDO - MATTE / GLOSSY",
+    "sizes": "6,2x12,5 2”x5”",
+    "thickness": "8.5 mm",
+    "peiRating": "PEI 1",
+    "rectified": false,
+    "material": "Ceramic (wall)"
+  },
+  "nok": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "RECTIFIED - NATURAL / GRAINS",
+    "sizes": "6,5x20 3”x8”",
+    "thickness": "9 mm",
+    "waterAbsorption": "≤ 0.5%",
+    "slipRating": "R10",
+    "peiRating": "PEI 1",
+    "frostResistant": true,
+    "rectified": true,
+    "material": "Porcelain"
+  },
+  "otto": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "RECTIFIED - NATURAL / GOCCIA / GRAFFIO",
+    "sizes": "OTTO CODES",
+    "thickness": "9 mm",
+    "waterAbsorption": "≤ 0.5%",
+    "slipRating": "R10",
+    "peiRating": "PEI 1",
+    "frostResistant": true,
+    "rectified": true,
+    "material": "Porcelain"
+  },
+  "paper41-pro": {
+    "technology": "HD COLD GLAZING DIGITAL PORCELAIN",
+    "finish": "OPACO RETTIFICATO - MATTE RECTIFIED",
+    "sizes": "50x100",
+    "thickness": "3.5 mm",
+    "waterAbsorption": "≤ 0.5%",
+    "peiRating": "PEI 1",
+    "frostResistant": true,
+    "rectified": true,
+    "material": "Porcelain"
+  },
+  "pixel41": {
+    "technology": "GLAZED PORCELAIN",
+    "finish": "OPACO - NATURAL",
+    "sizes": "11,55x11,55 5”x5”",
+    "thickness": "10 mm",
+    "waterAbsorption": "≤ 0.5%",
+    "slipRating": "R30B",
+    "peiRating": "PEI 1",
+    "frostResistant": true,
+    "rectified": false,
+    "material": "Porcelain"
+  },
+  "spectre": {
+    "technology": "WHITE BODY SINGLE-FIRED WALL TILE",
+    "finish": "OPACA / LUCIDA / HOLOGRAM - MATTE / GLOSSY / HOLOGRAM",
+    "sizes": "5x25 2”x10”",
+    "thickness": "8 mm",
+    "rectified": false,
+    "material": "Ceramic (wall)"
+  },
+  "stories": {
+    "technology": "HD DIGITAL GLAZED PORCELAIN",
+    "finish": "OPACO / LUCIDO - MATTE / GLOSSY",
+    "sizes": "10x10 4”x4”",
+    "thickness": "8 mm",
+    "waterAbsorption": "≤ 0.5%",
+    "peiRating": "PEI 1",
+    "frostResistant": true,
+    "rectified": false,
+    "material": "Porcelain"
+  },
+  "milano70": {
+    "technology": "GLAZED PORCELAIN",
+    "finish": "GLOSSY",
+    "thickness": "8.5 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": false,
+    "sizes": "27x36,5 / 2x12 / 3,8x31 / 34,5X34,5"
+  },
+  "superclassica-scg": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "FLAMED, HAMMERED, CRACK, GROOVED, CHEVRON, POLISHED, PATCHY",
+    "thickness": "9 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": false,
+    "sizes": "20x80 / 30x30 / 5x15 / 60x120"
+  },
+  "two": {
+    "technology": "HD COLD GLAZING DIGITAL PORCELAIN",
+    "finish": "NATURAL RECTIFIED",
+    "thickness": "6 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": true,
+    "sizes": "120x120"
+  },
+  "italic": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "NATURAL RECTIFIED",
+    "thickness": "9 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": true,
+    "sizes": "10x120 / 20x120 / 30x120 / 30x30"
+  },
+  "superclassica-scw": {
+    "technology": "HD digital colored body porcelain",
+    "finish": "FLAMED, HAMMERED, HONED, GROOVED, CHEVRON, POLISHED, HAPPY",
+    "thickness": "9 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": false,
+    "sizes": "20x80 / 30x30 / 60x120 / 60x60"
+  },
+  "kappa": {
+    "technology": "White body single-fired wall tile",
+    "finish": "KAPPA FINISH LUX, RAW FINISH MATTE",
+    "thickness": "8.5 mm",
+    "material": "Ceramic (wall)",
+    "rectified": false,
+    "sizes": "1,1x20 / 11,55x11,55 / 5x20 / 80x80"
+  },
+  "superclassica-scb": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "FLAMED, HAMMERED, CRACK, GROOVED, CHEVRON, POLISHED, PEGGY",
+    "thickness": "9 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": false,
+    "sizes": "10x40 / 20x80 / 30x30 / 30x60"
+  },
+  "paper41-up": {
+    "technology": "HD COLD GLAZING DIGITAL PORCELAIN",
+    "finish": "MATTE RELIEF RECTIFIED",
+    "thickness": "3.5 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": true,
+    "sizes": "10x40 / 11,55x11,55 / 50x100 / 60x120"
+  },
+  "one": {
+    "technology": "HD Digital colored body porcelain",
+    "finish": "NATURAL RECTIFIED",
+    "thickness": "6 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": true,
+    "sizes": "120x120 / 5x20"
+  },
+  "cosmo": {
+    "technology": "HD Digital colored body porcelain",
+    "finish": "NATURAL RECTIFIED",
+    "thickness": "9 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": true,
+    "sizes": "29,5x29,5 / 6,5x15,5"
+  },
+  "paper41-lux": {
+    "technology": "HD COLD GLAZING DIGITAL PORCELAIN",
+    "finish": "GLOSSY RECTIFIED",
+    "thickness": "6 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": true,
+    "sizes": "30x30 / 5x20 / 60x120"
+  },
+  "nano-gap": {
+    "technology": "INDIVIDUALLY EXTRUDED TILES IN FULL-BODY PORCELAIN",
+    "finish": "MATTE",
+    "thickness": "7 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": false,
+    "sizes": "30x30"
+  },
+  "solo": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "NATURAL RECTIFIED",
+    "thickness": "9 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": true,
+    "sizes": "40x80 / 5x80 / 60x120 / 80x80"
+  },
+  "supreme": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "BRUSHED NATURAL RECTIFIED",
+    "thickness": "9 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": true,
+    "sizes": "60x120"
+  },
+  "technicolor": {
+    "technology": "HD DIGITAL GLAZED PORCELAIN",
+    "finish": "NATURAL",
+    "thickness": "10 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": false,
+    "sizes": "5x37,5"
+  },
+  "pietre41-chevron": {
+    "technology": "HD DIGITAL COLORED BODY PORCELAIN",
+    "finish": "NATURAL RECTIFIED",
+    "thickness": "9 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": true,
+    "sizes": "20x80"
+  },
+  "hops": {
+    "technology": "WHITE BODY SINGLE-FIRED WALL TILE",
+    "finish": "MATTE, GLOSSY",
+    "thickness": "10 mm",
+    "material": "Ceramic (wall)",
+    "rectified": false,
+    "sizes": "7,5x15"
+  },
+  "wigwag": {
+    "technology": "WHITE BODY SINGLE-FIRED WALL TILE",
+    "finish": "GLOSSY, 8 PATTERN RAMDOMLY MIXED",
+    "thickness": "8 mm",
+    "material": "Ceramic (wall)",
+    "rectified": false,
+    "sizes": "7,5x15"
+  },
+  "rigo": {
+    "technology": "FULL BODY EXTRUDED PORCELAIN",
+    "finish": "NATURAL",
+    "thickness": "8 mm",
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": false,
+    "sizes": "5x35,5"
+  },
+  "opificio-biolith": {
+    "rectified": false,
+    "technology": "e quindi non",
+    "slipRating": "R3",
+    "material": "Porcelain",
+    "sizes": "20X8, 3X7",
+    "finish": "with a natural surface"
+  },
+  "opificio-beat": {
+    "rectified": false,
+    "sizes": "20X50",
+    "thickness": "10 mm",
+    "material": "Extruded Porcelain",
+    "technology": "non rapida, così da consentire una cor-",
+    "finish": "features varying depths and heights, creating an articulated chiaroscuro effect. To facilitate grouting opera-",
+    "waterAbsorption": "≤3%",
+    "frostResistant": true
+  },
+  "opificio-firenze": {
+    "rectified": false,
+    "technology": "nze collections are extruded by hand from natural raw materials. So any",
+    "sizes": "16X16, 4X16, 77.8X96.5, 8X16, 8X24",
+    "thickness": "9,5 mm",
+    "waterAbsorption": "≤3%",
+    "slipRating": "R10",
+    "frostResistant": true,
+    "material": "Porcelain"
+  },
+  "opificio-matera": {
+    "rectified": false,
+    "technology": "ndo dove necessario con barra piatta. Stuccare con stucco cementizio in tinta, ad",
+    "sizes": "14X16, 20X20, 5.5X13.5, 5.5X27",
+    "thickness": "12 mm",
+    "waterAbsorption": "≤3%",
+    "slipRating": "R10",
+    "material": "Porcelain"
+  },
+  "opificio-mediterranea": {
+    "rectified": false,
+    "sizes": "20X20, 7.5X30",
+    "thickness": "10 mm",
+    "material": "Extruded Porcelain",
+    "technology": "find a new balance.",
+    "waterAbsorption": "≤3%",
+    "slipRating": "R10",
+    "frostResistant": true
+  },
+  "opificio-murano": {
+    "rectified": false,
+    "technology": "n Stoneware",
+    "sizes": "16X16, 30X30, 32X32, 4X16, 8X16, 8X8",
+    "thickness": "9,5 mm",
+    "waterAbsorption": "≤3%",
+    "slipRating": "R10",
+    "frostResistant": true,
+    "material": "Porcelain"
+  },
+  "opificio-pantelleria": {
+    "rectified": false,
+    "technology": "nde il prodotto tecnicamente resistente ad ogni uso. La",
+    "finish": "outdoor-indoor, wall-floor coverings",
+    "sizes": "11X11, 11X44.4, 22X22",
+    "thickness": "10 mm",
+    "waterAbsorption": "≤3%",
+    "slipRating": "R10",
+    "material": "Porcelain"
+  },
+  "opificio-polignano": {
+    "rectified": false,
+    "sizes": "16X16",
+    "thickness": "9 mm",
+    "material": "Extruded Porcelain",
+    "technology": "ndo dove necessario con barra piatta. Stuccare con stucco cementizio in tinta, ad",
+    "waterAbsorption": "≤3%",
+    "slipRating": "R10"
+  },
+  "opificio-repetit": {
+    "rectified": false,
+    "technology": "celain Tile",
+    "sizes": "18.5X18.5",
+    "thickness": "7,5 mm",
+    "material": "Porcelain",
+    "waterAbsorption": "≤0,5%",
+    "frostResistant": true
+  },
+  "opificio-reverse": {
+    "rectified": false,
+    "technology": "nta adesione e stucco epossidico a contrasto, ad esempio Mapei. Preparare",
+    "sizes": "12X12, 12X24, 16X16, 17.5X29, 31X31",
+    "thickness": "8 mm",
+    "waterAbsorption": "≤3%",
+    "slipRating": "R10",
+    "peiRating": "PEI 1",
+    "frostResistant": true,
+    "material": "Porcelain"
+  },
+  "opificio-rondo": {
+    "rectified": false,
+    "sizes": "10X10",
+    "thickness": "7 mm",
+    "technology": "nta adesione per facilitare la sistemazione dei pezzi e",
+    "material": "Porcelain"
+  },
+  "opificio-sanremo": {
+    "rectified": false,
+    "thickness": "9,5 mm",
+    "material": "Extruded Porcelain",
+    "technology": "nta adesione per facilitare la sistemazione dei pezzi e",
+    "sizes": "31X31",
+    "waterAbsorption": "≤3%",
+    "slipRating": "R10",
+    "frostResistant": true
+  },
+  "opificio-stromboli": {
+    "rectified": false,
+    "sizes": "1.5X11, 34.5X32, 5.5X27",
+    "thickness": "8 mm",
+    "material": "Extruded Porcelain",
+    "technology": "nta adesione per facilitare la sistemazione dei pezzi e stucco ce-",
+    "finish": "that adds luminosity and depth to the",
+    "waterAbsorption": "≤3%",
+    "frostResistant": true
+  },
+  "opificio-torino": {
+    "rectified": false,
+    "sizes": "24.2X40, 33.2X33.2",
+    "thickness": "10 mm",
+    "material": "Extruded Porcelain",
+    "technology": "ndo dove necessario",
+    "waterAbsorption": "≤3%",
+    "slipRating": "R10"
+  },
+  "opificio-venezia": {
+    "material": "Porcelain",
+    "frostResistant": true,
+    "rectified": false,
+    "technology": "n Stonewareic",
+    "sizes": "16X16, 8X16",
+    "thickness": "9,5 mm",
+    "finish": "is made with enamel quibble (craquelè), special enamel with very thin cracks to obtain an often imperceptible antique effect over time.",
+    "waterAbsorption": "≤3%"
+  },
+  "opificio-venezia-cromie": {
+    "rectified": false,
+    "technology": "nta adesione per facilitare la sistemazione dei pezzi, livellando dove necessario con",
+    "sizes": "16X16, 4X16, 8X16",
+    "thickness": "9,5 mm",
+    "waterAbsorption": "≤3%",
+    "frostResistant": true,
+    "material": "Porcelain"
+  }
+}

@@ -1,0 +1,2564 @@
+{
+  "meta": {
+    "source": "general-catalogue-2026.pdf (text extraction)",
+    "parsedAt": "2026-08-01T07:50:00+08:00",
+    "seriesCount": 12,
+    "skuSeriesCount": 25,
+    "totalSkus": 405
+  },
+  "colorsAndSizes": {
+    "brutus": {
+      "technology": "PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+      "finish": "RETTIFICATO - RECTIFIED",
+      "sizes": "5x25",
+      "thickness": "9 MM"
+    },
+    "cosmo": {
+      "technology": "TESSERE ESTRUSE SINGOLARMENTE IN PORCELLANATO A TUTTA MASSA",
+      "finish": "OPACO - MATTE THICKNESS 8 MMBRICK COLORS MICRO COSMO COLORS",
+      "sizes": "2,5X3,6 ON NET 29,5X29,5FINISH OPACO - MATTE THICKNESS 8 MMBRICK COLORS MICRO COSMO COLORS",
+      "thickness": "8 MMBRICK COLORS MICRO COSMO COLORS"
+    },
+    "dandy": {
+      "technology": "PORCELLANATO SMALTATO DIGITALE HD - HD DIGITAL GLAZED PORCELAIN",
+      "finish": "OPACO - NATURAL",
+      "sizes": "15x15 - THICKNESS 10 MMTECHNOLOGY MONOCOTTURA IN PASTA BIANCA - WHITE BODY SINGLE-FIRED WALL TILE",
+      "thickness": "10 MMTECHNOLOGY MONOCOTTURA IN PASTA BIANCA - WHITE"
+    },
+    "hops": {
+      "technology": "MONOCOTTURA IN PASTA BIANCA - WHITE BODY SINGLE-FIRED WALL TILE",
+      "finish": "LUCIDO - GLOSSY THICKNESS 8 MMTECHNOLOGY PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+      "thickness": "8 MMTECHNOLOGY PORCELLANATO DIGITALE HD AD IMPASTO"
+    },
+    "kappa": {
+      "finish": "LUCIDO - GLOSSY / RAW FINISH OPACO - MATTESIZES 5x20THICKNESS 8,5 MMCOLORS",
+      "sizes": "5x20THICKNESS 8,5 MMCOLORS",
+      "thickness": "8,5 MMCOLORS"
+    },
+    "mou": {
+      "technology": "TESSERE ESTRUSE SINGOLARMENTE IN PORCELLANATO A TUTTA MASSA",
+      "finish": "OPACO - MATTE THICKNESS 7 MM",
+      "sizes": "6,5x20 THICKNESS 8,5 MM",
+      "thickness": "7 MM"
+    },
+    "nok": {
+      "technology": "PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+      "finish": "OPACO RETTIFICATO - NATURAL RECTIFIEDSIZES 120x120THICKNESS 6 MMHIGH TRAFFIC",
+      "sizes": "120x120THICKNESS 6 MMHIGH TRAFFIC",
+      "thickness": "6 MMHIGH TRAFFIC"
+    },
+    "pixel41": {
+      "technology": "PORCELLANATO ESTRUSO A TUTTA MASSA - FULL BODY EXTRUDED PORCELAIN",
+      "finish": "OPACO - NATURALSIZES 5x35,5THICKNESS 8 MM",
+      "sizes": "5x35,5THICKNESS 8 MM",
+      "thickness": "8 MM"
+    },
+    "solo": {
+      "technology": "PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+      "finish": "RETTIFICATO - NATURALE / GOCCIA / GRAFFIO - RECTIFIED - NATURAL / GOCCIA / GRAFFIO THICKNESS 9 MM",
+      "sizes": "60x120 - THICKNESS 6 MM",
+      "thickness": "9 MM",
+      "slipRating": "R41"
+    },
+    "stories": {
+      "technology": "PORCELLANATO SMALTATO DIGITALE HD - HD DIGITAL GLAZED PORCELAIN",
+      "finish": "OPACO / LUCIDO - MATTE / GLOSSYSIZES 10x10THICKNESS 8 MM",
+      "sizes": "10x10THICKNESS 8 MM",
+      "thickness": "8 MM"
+    },
+    "technicolor": {
+      "technology": "PORCELLANATO SMALTATO DIGITALE HD - HD DIGITAL GLAZED PORCELAIN",
+      "finish": "OPACO - NATURALTHICKNESS 10 MM",
+      "sizes": "5X37,5",
+      "thickness": "10 MM"
+    },
+    "wigwag": {
+      "technology": "MONOCOTTURA IN PASTA BIANCA - WHITE BODY SINGLE-FIRED WALL TILE",
+      "finish": "OPACO - MATTE SIZES 5x20THICKNESS 8 MM",
+      "sizes": "5x20THICKNESS 8 MM",
+      "thickness": "8 MM"
+    }
+  },
+  "specifications": {
+    "brutus": [
+      {
+        "skuCode": "4101306",
+        "size": "60X120",
+        "colorName": "Brutus",
+        "raw": "60X120 Brutus   4101306  Mapei 110 Manhattan  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101307",
+        "size": "60X120",
+        "colorName": "Brutus Rugged",
+        "raw": "60X120 Brutus Rugged  4101307  Mapei 110 Manhattan  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101308",
+        "size": "60X120",
+        "colorName": "Guatemala",
+        "raw": "60X120 Guatemala  4101308  Mapei 114 Anthracite  NCS S 8005-B80G"
+      },
+      {
+        "skuCode": "4101320",
+        "size": "5X120",
+        "colorName": "Brutus Rugged",
+        "raw": "5X120 Brutus Rugged   4101320  Mapei 110 Manhattan  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101317",
+        "size": "30X30",
+        "colorName": "Block Mosaic",
+        "raw": "30X30 Block Mosaic   4101317  Mapei 110 Manhattan  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101319",
+        "size": "30X30",
+        "colorName": "Brutus Mosaic",
+        "raw": "30X30 Brutus Mosaic   4101319  Mapei 110 Manhattan  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101316",
+        "size": "30X30",
+        "colorName": "Guatemala Mosaic",
+        "raw": "30X30 Guatemala Mosaic   4101316  Mapei 114 Anthracite  NCS S 8005-B80G"
+      },
+      {
+        "skuCode": "4101318",
+        "size": "30X30",
+        "colorName": "Stripes Mosaic",
+        "raw": "30X30 Stripes Mosaic   4101318  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4101305",
+        "size": "5X25",
+        "colorName": "Cromo",
+        "raw": "5X25 Cromo   4101305  Mapei 110 Manhattan  -"
+      }
+    ],
+    "cosmo": [
+      {
+        "skuCode": "4100861",
+        "size": "6.5X15.5",
+        "colorName": "Brick Blu-Nero Matte",
+        "raw": "6,5X15,5 Brick Blu-Nero Matte   4100861  Mapei 114 Anthracite  -"
+      },
+      {
+        "skuCode": "4100859",
+        "size": "6.5X15.5",
+        "colorName": "Brick Verde Matte",
+        "raw": "6,5X15,5 Brick Verde Matte   4100859  Kerakoll KK 50  -"
+      },
+      {
+        "skuCode": "4100860",
+        "size": "6.5X15.5",
+        "colorName": "Brick Cotto Matte",
+        "raw": "6,5X15,5 Brick Cotto Matte   4100860  Kerakoll KK 153  -"
+      },
+      {
+        "skuCode": "4100858",
+        "size": "6.5X15.5",
+        "colorName": "Brick Grigio Matte",
+        "raw": "6,5X15,5 Brick Grigio Matte   4100858  Kerakoll KK 76  -"
+      },
+      {
+        "skuCode": "4100865",
+        "size": "6.5X15.5",
+        "colorName": "Brick Blu-Nero Lux",
+        "raw": "6,5X15,5 Brick Blu-Nero Lux   4100865  Mapei 114 Anthracite  -"
+      },
+      {
+        "skuCode": "4100863",
+        "size": "6.5X15.5",
+        "colorName": "Brick Verde Lux",
+        "raw": "6,5X15,5 Brick Verde Lux   4100863  Kerakoll KK 50  -"
+      },
+      {
+        "skuCode": "4100864",
+        "size": "6.5X15.5",
+        "colorName": "Brick Cotto Lux",
+        "raw": "6,5X15,5 Brick Cotto Lux   4100864  Kerakoll KK 153  -"
+      },
+      {
+        "skuCode": "4100862",
+        "size": "6.5X15.5",
+        "colorName": "Brick Grigio Lux",
+        "raw": "6,5X15,5 Brick Grigio Lux   4100862  Kerakoll KK 76  -"
+      },
+      {
+        "skuCode": "4100870",
+        "size": "29.5X29.5",
+        "colorName": "Micro Cosmo Nero",
+        "raw": "29,5X29,5 Micro Cosmo Nero   4100870  Kerakoll KK 12  NCS S 9000-N"
+      },
+      {
+        "skuCode": "4100869",
+        "size": "29.5X29.5",
+        "colorName": "Micro Cosmo Blu",
+        "raw": "29,5X29,5 Micro Cosmo Blu   4100869  Mapei 114 Anthracite  NCS S 8010-B10G"
+      },
+      {
+        "skuCode": "4100867",
+        "size": "29.5X29.5",
+        "colorName": "Micro Cosmo Verde",
+        "raw": "29,5X29,5 Micro Cosmo Verde   4100867  Kerakoll KK 50  NCS S 6010-G30Y"
+      },
+      {
+        "skuCode": "4100868",
+        "size": "29.5X29.5",
+        "colorName": "Micro Cosmo Cotto",
+        "raw": "29,5X29,5 Micro Cosmo Cotto   4100868  Kerakoll KK 153  NCS S 3030-Y50R"
+      },
+      {
+        "skuCode": "4100866",
+        "size": "29.5X29.5",
+        "colorName": "Micro Cosmo Bianco",
+        "raw": "29,5X29,5 Micro Cosmo Bianco   4100866  Kerakoll KK 76  NCS S 1505-Y20RCHICCO"
+      },
+      {
+        "skuCode": "4101260",
+        "size": "60X120",
+        "colorName": "Chicco Cacao",
+        "raw": "60X120 Chicco Cacao  4101260  Mapei 120 Black  NCS S 7005-Y80R"
+      },
+      {
+        "skuCode": "4101261",
+        "size": "60X120",
+        "colorName": "Chicco Verde",
+        "raw": "60X120 Chicco Verde  4101261  Mapei 123 Ancient White  N CS S 5010-G70Y"
+      },
+      {
+        "skuCode": "4101262",
+        "size": "60X120",
+        "colorName": "Chicco Senape",
+        "raw": "60X120 Chicco Senape  4101262  Mapei 188 Biscuit  NCS S 3030-Y10R"
+      },
+      {
+        "skuCode": "4101263",
+        "size": "60X120",
+        "colorName": "Chicco Rosa",
+        "raw": "60X120 Chicco Rosa  4101263  Mapei 132 Beige 2000  NCS S 1510-Y50R"
+      },
+      {
+        "skuCode": "4101264",
+        "size": "60X120",
+        "colorName": "Chicco Greige",
+        "raw": "60X120 Chicco Greige  4101264  Mapei 123 Ancient White  N CS S 1502-Y"
+      },
+      {
+        "skuCode": "4101265",
+        "size": "60X60",
+        "colorName": "Chicco Cacao",
+        "raw": "60X60 Chicco Cacao  4101265  Mapei 120 Black  NCS S 7005-Y80R"
+      },
+      {
+        "skuCode": "4101266",
+        "size": "60X60",
+        "colorName": "Chicco Verde",
+        "raw": "60X60 Chicco Verde  4101266  Mapei 123 Ancient White  N CS S 5010-G70Y"
+      },
+      {
+        "skuCode": "4101267",
+        "size": "60X60",
+        "colorName": "Chicco Senape",
+        "raw": "60X60 Chicco Senape  4101267  Mapei 188 Biscuit  NCS S 3030-Y10R"
+      },
+      {
+        "skuCode": "4101268",
+        "size": "60X60",
+        "colorName": "Chicco Rosa",
+        "raw": "60X60 Chicco Rosa  4101268  Mapei 132 Beige 2000  NCS S 1510-Y50R"
+      },
+      {
+        "skuCode": "4101269",
+        "size": "60X60",
+        "colorName": "Chicco Greige",
+        "raw": "60X60 Chicco Greige  4101269  Mapei 123 Ancient White  N CS S 1502-Y"
+      },
+      {
+        "skuCode": "4101270",
+        "size": "30X30",
+        "colorName": "Chicco Cacao",
+        "raw": "30X30 Chicco Cacao  4101270  Mapei 120 Black  NCS S 7005-Y80R"
+      },
+      {
+        "skuCode": "4101271",
+        "size": "30X30",
+        "colorName": "Chicco Verde",
+        "raw": "30X30 Chicco Verde  4101271  Mapei 123 Ancient White  N CS S 5010-G70Y"
+      },
+      {
+        "skuCode": "4101272",
+        "size": "30X30",
+        "colorName": "Chicco Senape",
+        "raw": "30X30 Chicco Senape  4101272  Mapei 188 Biscuit  NCS S 3030-Y10R"
+      },
+      {
+        "skuCode": "4101273",
+        "size": "30X30",
+        "colorName": "Chicco Rosa",
+        "raw": "30X30 Chicco Rosa  4101273  Mapei 132 Beige 2000  NCS S 1510-Y50R"
+      },
+      {
+        "skuCode": "4101274",
+        "size": "30X30",
+        "colorName": "Chicco Greige",
+        "raw": "30X30 Chicco Greige  4101274  Mapei 123 Ancient White  N CS S 1502-Y"
+      },
+      {
+        "skuCode": "4101290",
+        "size": "34.5X34.5",
+        "colorName": "Mosaic Regolo V/C/G",
+        "raw": "34,5X34,5 Mosaic Regolo V/C/G  4101290  Mapei 120 Black  -"
+      },
+      {
+        "skuCode": "4101291",
+        "size": "34.5X34.5",
+        "colorName": "Mosaic Regolo R/G/S",
+        "raw": "34,5X34,5 Mosaic Regolo R/G/S  4101291  Mapei 123 Ancient White  -"
+      },
+      {
+        "skuCode": "4101292",
+        "size": "34.5X34.5",
+        "colorName": "Mosaic Regolo G/V/C",
+        "raw": "34,5X34,5 Mosaic Regolo G/V/C  4101292  Mapei 123 Ancient White  -"
+      },
+      {
+        "skuCode": "4101285",
+        "size": "33.7X33.7",
+        "colorName": "Mosaic Quadra Light",
+        "raw": "33,7X33,7 Mosaic Quadra Light   4101285  Mapei 123 Ancient White  -"
+      },
+      {
+        "skuCode": "4101289",
+        "size": "33.7X33.7",
+        "colorName": "Mosaic Quadra Dark",
+        "raw": "33,7X33,7 Mosaic Quadra Dark   4101289  Mapei 120 Black  -"
+      },
+      {
+        "skuCode": "4101288",
+        "size": "27X36.5",
+        "colorName": "Mosaic Onda V/C",
+        "raw": "27X36,5 Mosaic Onda V/C  4101288  Mapei 120 Black  -"
+      },
+      {
+        "skuCode": "4101286",
+        "size": "27X36.5",
+        "colorName": "Mosaic Onda R/G",
+        "raw": "27X36,5 Mosaic Onda R/G  4101286  Mapei 123 Ancient White  -"
+      },
+      {
+        "skuCode": "4101287",
+        "size": "27X36.5",
+        "colorName": "Mosaic Onda S/G",
+        "raw": "27X36,5 Mosaic Onda S/G  4101287  Mapei 123 Ancient White  -"
+      }
+    ],
+    "dandy": [
+      {
+        "skuCode": "4101192",
+        "size": "18.6X18.6",
+        "colorName": "Dandy White",
+        "raw": "18,6X18,6 Dandy White   4101192  Kerakoll KK 4  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101193",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Green",
+        "raw": "18,6X18,6 Dandy Green   4101193  Kerakoll KK 72  NCS S 8010-B50G"
+      },
+      {
+        "skuCode": "4101194",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Black",
+        "raw": "18,6X18,6 Dandy Black   4101194  Kerakoll KK 72  NCS S 8500-N"
+      },
+      {
+        "skuCode": "4101195",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Flag White_Green",
+        "raw": "18,6X18,6 Dandy Flag White_Green   4101195  Kerakoll KK 4  -"
+      },
+      {
+        "skuCode": "4101203",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Flag Green_Black",
+        "raw": "18,6X18,6 Dandy Flag Green_Black   4101203  Kerakoll KK 72  -"
+      },
+      {
+        "skuCode": "4101199",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Flag Black_White",
+        "raw": "18,6X18,6 Dandy Flag Black_White   4101199  Kerakoll KK 4 / KK 72  -"
+      },
+      {
+        "skuCode": "4101197",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Comb White_Green",
+        "raw": "18,6X18,6 Dandy Comb White_Green   4101197  Kerakoll KK 4  -"
+      },
+      {
+        "skuCode": "4101205",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Comb Green_Black",
+        "raw": "18,6X18,6 Dandy Comb Green_Black   4101205  Kerakoll KK 72  -"
+      },
+      {
+        "skuCode": "4101201",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Comb Black_White",
+        "raw": "18,6X18,6 Dandy Comb Black_White   4101201  Kerakoll KK 4 / KK 72  -"
+      },
+      {
+        "skuCode": "4101196",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Pin White_Green",
+        "raw": "18,6X18,6 Dandy Pin White_Green   4101196  Kerakoll KK 4  -"
+      },
+      {
+        "skuCode": "4101204",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Pin Green_Black",
+        "raw": "18,6X18,6 Dandy Pin Green_Black   4101204  Kerakoll KK 72  -"
+      },
+      {
+        "skuCode": "4101200",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Pin Black_White",
+        "raw": "18,6X18,6 Dandy Pin Black_White   4101200  Kerakoll KK 4 / KK 72  -"
+      },
+      {
+        "skuCode": "4101198",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Ribbon White_Green",
+        "raw": "18,6X18,6 Dandy Ribbon White_Green   4101198  Kerakoll KK 4  -"
+      },
+      {
+        "skuCode": "4101206",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Ribbon Green_Black",
+        "raw": "18,6X18,6 Dandy Ribbon Green_Black   4101206  Kerakoll KK 72  -"
+      },
+      {
+        "skuCode": "4101202",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Ribbon Black_White",
+        "raw": "18,6X18,6 Dandy Ribbon Black_White   4101202  Kerakoll KK 4 / KK 72  -"
+      },
+      {
+        "skuCode": "4101208",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Square",
+        "raw": "18,6X18,6 Dandy Square   4101208  Kerakoll KK 72  -"
+      },
+      {
+        "skuCode": "4101207",
+        "size": "18.6X18.6",
+        "colorName": "Dandy Chain",
+        "raw": "18,6X18,6 Dandy Chain   4101207  Kerakoll KK 72  -"
+      }
+    ],
+    "futura": [
+      {
+        "skuCode": "4100521",
+        "size": "15X15",
+        "colorName": "Futura White",
+        "raw": "15X15 Futura White   4100521  Mapei 110 Manhattan  NCS S 0502-G"
+      },
+      {
+        "skuCode": "4100535",
+        "size": "15X15",
+        "colorName": "Futura Blue",
+        "raw": "15X15 Futura Blue   4100535  Mapei 110 Manhattan  NCS S 3020-R90B"
+      },
+      {
+        "skuCode": "4100526",
+        "size": "15X15",
+        "colorName": "Futura Rose",
+        "raw": "15X15 Futura Rose   4100526  Mapei 110 Manhattan  NCS S 1510-Y80R"
+      },
+      {
+        "skuCode": "4100531",
+        "size": "15X15",
+        "colorName": "Futura Black",
+        "raw": "15X15 Futura Black   4100531  Mapei 110 Manhattan  NCS S 8000-N"
+      },
+      {
+        "skuCode": "4100516",
+        "size": "15X15",
+        "colorName": "Futura Grey",
+        "raw": "15X15 Futura Grey   4100516  Mapei 110 Manhattan  NCS S 2002-Y"
+      },
+      {
+        "skuCode": "4100522",
+        "size": "15X15",
+        "colorName": "Futura Half White",
+        "raw": "15X15 Futura Half White   4100522  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100536",
+        "size": "15X15",
+        "colorName": "Futura Half Blue",
+        "raw": "15X15 Futura Half Blue   4100536  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100527",
+        "size": "15X15",
+        "colorName": "Futura Half Rose",
+        "raw": "15X15 Futura Half Rose   4100527  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100532",
+        "size": "15X15",
+        "colorName": "Futura Half Black",
+        "raw": "15X15 Futura Half Black   4100532  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100523",
+        "size": "15X15",
+        "colorName": "Futura Drop White",
+        "raw": "15X15 Futura Drop White   4100523  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100537",
+        "size": "15X15",
+        "colorName": "Futura Drop Blue",
+        "raw": "15X15 Futura Drop Blue   4100537  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100528",
+        "size": "15X15",
+        "colorName": "Futura Drop Rose",
+        "raw": "15X15 Futura Drop Rose   4100528  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100533",
+        "size": "15X15",
+        "colorName": "Futura Drop Black",
+        "raw": "15X15 Futura Drop Black   4100533  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100524",
+        "size": "15X15",
+        "colorName": "Futura Grid White",
+        "raw": "15X15 Futura Grid White   4100524  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100538",
+        "size": "15X15",
+        "colorName": "Futura Grid Blue",
+        "raw": "15X15 Futura Grid Blue   4100538  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100529",
+        "size": "15X15",
+        "colorName": "Futura Grid Rose",
+        "raw": "15X15 Futura Grid Rose   4100529  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100534",
+        "size": "15X15",
+        "colorName": "Futura Grid Black",
+        "raw": "15X15 Futura Grid Black   4100534  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100525",
+        "size": "15X15",
+        "colorName": "Futura T White",
+        "raw": "15X15 Futura T White   4100525  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100539",
+        "size": "15X15",
+        "colorName": "Futura T Blue",
+        "raw": "15X15 Futura T Blue   4100539  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100530",
+        "size": "15X15",
+        "colorName": "Futura T Rose",
+        "raw": "15X15 Futura T Rose   4100530  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100519",
+        "size": "15X15",
+        "colorName": "Futura Triangles",
+        "raw": "15X15 Futura Triangles   4100519  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100518",
+        "size": "15X15",
+        "colorName": "Futura Tubes",
+        "raw": "15X15 Futura Tubes   4100518  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100517",
+        "size": "15X15",
+        "colorName": "Futura Microchip",
+        "raw": "15X15 Futura Microchip   4100517  Mapei 110 Manhattan  -"
+      },
+      {
+        "skuCode": "4100520",
+        "size": "15X15",
+        "colorName": "Futura Bird",
+        "raw": "15X15 Futura Bird   4100520  Mapei 110 Manhattan  -"
+      }
+    ],
+    "hops": [
+      {
+        "skuCode": "4100363",
+        "size": "7.5X15",
+        "colorName": "Hops Lux Bianco",
+        "raw": "7,5X15 Hops Lux Bianco   4100363  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100364",
+        "size": "7.5X15",
+        "colorName": "Hops Lux Grigio",
+        "raw": "7,5X15 Hops Lux Grigio   4100364  Kerakoll KK 6  -"
+      },
+      {
+        "skuCode": "4100365",
+        "size": "7.5X15",
+        "colorName": "Hops Lux Nero",
+        "raw": "7,5X15 Hops Lux Nero   4100365  Kerakoll KK 12  -"
+      },
+      {
+        "skuCode": "4100366",
+        "size": "7.5X15",
+        "colorName": "Hops Matte Bianco",
+        "raw": "7,5X15 Hops Matte Bianco   4100366  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100367",
+        "size": "7.5X15",
+        "colorName": "Hops Matte Grigio",
+        "raw": "7,5X15 Hops Matte Grigio   4100367  Kerakoll KK 6  -"
+      },
+      {
+        "skuCode": "4100368",
+        "size": "7.5X15",
+        "colorName": "Hops Matte Nero",
+        "raw": "7,5X15 Hops Matte Nero   4100368  Kerakoll KK 12  -"
+      }
+    ],
+    "italic": [
+      {
+        "skuCode": "4101065",
+        "size": "60X120",
+        "colorName": "Italic Carrara",
+        "raw": "60X120 Italic Carrara  4101065  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101066",
+        "size": "60X120",
+        "colorName": "Italic Travertino",
+        "raw": "60X120 Italic Travertino  4101066  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101067",
+        "size": "60X120",
+        "colorName": "Italic Lava",
+        "raw": "60X120 Italic Lava  4101067  Kerakoll KK 12  NCS S 8500-N"
+      },
+      {
+        "skuCode": "4101090",
+        "size": "10X120",
+        "colorName": "Italic Mix Carrara",
+        "raw": "30-20-10X120 Italic Mix Carrara  4101090  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101091",
+        "size": "10X120",
+        "colorName": "Italic Mix Travertino",
+        "raw": "30-20-10X120 Italic Mix Travertino  4101091  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101092",
+        "size": "10X120",
+        "colorName": "Italic Mix Lava",
+        "raw": "30-20-10X120 Italic Mix Lava  4101092  Kerakoll KK 12  NCS S 8500-N"
+      },
+      {
+        "skuCode": "4101071",
+        "size": "7.5X60",
+        "colorName": "Italic Cushion Carrara",
+        "raw": "7,5X60 Italic Cushion Carrara  4101071  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101072",
+        "size": "7.5X60",
+        "colorName": "Italic Cushion Travertino",
+        "raw": "7,5X60 Italic Cushion Travertino  4101072  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101073",
+        "size": "7.5X60",
+        "colorName": "Italic Cushion Lava",
+        "raw": "7,5X60 Italic Cushion Lava  4101073  Kerakoll KK 12  NCS S 8500-N"
+      },
+      {
+        "skuCode": "4101087",
+        "size": "30X30",
+        "colorName": "Italic Mosaic Carrara",
+        "raw": "30X30 Italic Mosaic Carrara  4101087  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101089",
+        "size": "30X30",
+        "colorName": "Italic Mosaic Travertino",
+        "raw": "30X30 Italic Mosaic Travertino  4101089  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101088",
+        "size": "30X30",
+        "colorName": "Italic Mosaic Lava",
+        "raw": "30X30 Italic Mosaic Lava  4101088  Kerakoll KK 12  NCS S 8500-N"
+      },
+      {
+        "skuCode": "4101085",
+        "size": "30X30",
+        "colorName": "Italic Mosaic Mix A",
+        "raw": "30X30 Italic Mosaic Mix A  4101085  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4101086",
+        "size": "30X30",
+        "colorName": "Italic Mosaic Mix B",
+        "raw": "30X30 Italic Mosaic Mix B  4101086  Mapei 130 Jasmine  -"
+      },
+      {
+        "skuCode": "4101083",
+        "size": "30X30",
+        "colorName": "Italic Mosaic Mix C",
+        "raw": "30X30 Italic Mosaic Mix C  4101083  Kerakoll KK 2 / KK 12  -"
+      },
+      {
+        "skuCode": "4101074",
+        "size": "5X20",
+        "colorName": "Dune Carrara",
+        "raw": "5X20 Dune Carrara  4101074  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101075",
+        "size": "5X20",
+        "colorName": "Dune Travertino",
+        "raw": "5X20 Dune Travertino  4101075  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101076",
+        "size": "5X20",
+        "colorName": "Dune Lava",
+        "raw": "5X20 Dune Lava  4101076  Kerakoll KK 12  NCS S 8500-N"
+      },
+      {
+        "skuCode": "4101077",
+        "size": "5X20",
+        "colorName": "Dune Lux Bianco",
+        "raw": "5X20 Dune Lux Bianco  4101077  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101078",
+        "size": "5X20",
+        "colorName": "Dune Lux Beige",
+        "raw": "5X20 Dune Lux Beige  4101078  Mapei 130 Jasmine  NCS S 1505-Y30R"
+      },
+      {
+        "skuCode": "4101079",
+        "size": "5X20",
+        "colorName": "Dune Lux Nero",
+        "raw": "5X20 Dune Lux Nero  4101079  Kerakoll KK 12  NCS S 8500-N"
+      },
+      {
+        "skuCode": "4101080",
+        "size": "5X20",
+        "colorName": "Plain Lux Bianco",
+        "raw": "5X20 Plain Lux Bianco  4101080  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101081",
+        "size": "5X20",
+        "colorName": "Plain Lux Beige",
+        "raw": "5X20 Plain Lux Beige  4101081  Mapei 130 Jasmine  NCS S 1505-Y30R"
+      },
+      {
+        "skuCode": "4101082",
+        "size": "5X20",
+        "colorName": "Plain Lux Nero",
+        "raw": "5X20 Plain Lux Nero  4101082  Kerakoll KK 12  NCS S 8500-NSIZE Name  Code  Advised Grouts Color  Ncs Color"
+      },
+      {
+        "skuCode": "4101209",
+        "size": "5X25",
+        "colorName": "Dandy MR White",
+        "raw": "5X25 Dandy MR White   4101209  Kerakoll KK 4  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101212",
+        "size": "5X25",
+        "colorName": "Dandy MRS White",
+        "raw": "5X25 Dandy MRS White   4101212  Kerakoll KK 4  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4101210",
+        "size": "5X25",
+        "colorName": "Dandy MR Green",
+        "raw": "5X25 Dandy MR Green   4101210  Kerakoll KK 72  NCS S 8010-B50G"
+      },
+      {
+        "skuCode": "4101213",
+        "size": "5X25",
+        "colorName": "Dandy MRS Green",
+        "raw": "5X25 Dandy MRS Green   4101213  Kerakoll KK 72  NCS S 8010-B50G"
+      },
+      {
+        "skuCode": "4101211",
+        "size": "5X25",
+        "colorName": "Dandy MR Black",
+        "raw": "5X25 Dandy MR Black   4101211  Kerakoll KK 72  NCS S 8500-N"
+      },
+      {
+        "skuCode": "4101214",
+        "size": "5X25",
+        "colorName": "Dandy MRS Black",
+        "raw": "5X25 Dandy MRS Black   4101214  Kerakoll KK 72  NCS S 8500-N"
+      }
+    ],
+    "kappa": [
+      {
+        "skuCode": "4101217",
+        "size": "60X120",
+        "colorName": "Nok Taupe",
+        "raw": "60X120 Nok Taupe   4101217  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4101218",
+        "size": "60X120",
+        "colorName": "Nok Ebony",
+        "raw": "60X120 Nok Ebony   4101218  Mapei 120 Black  NCS S 8000-N"
+      },
+      {
+        "skuCode": "4101184",
+        "size": "60X120",
+        "colorName": "Nok Grains Ivory",
+        "raw": "60X120 Nok Grains Ivory   4101184  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101185",
+        "size": "60X120",
+        "colorName": "Nok Grains Terra",
+        "raw": "60X120 Nok Grains Terra   4101185  Mapei 141 Caramel  NCS S 3030-Y40R"
+      },
+      {
+        "skuCode": "4101186",
+        "size": "60X120",
+        "colorName": "Nok Grains Taupe",
+        "raw": "60X120 Nok Grains Taupe   4101186  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4101187",
+        "size": "60X120",
+        "colorName": "Nok Grains Ebony",
+        "raw": "60X120 Nok Grains Ebony   4101187  Mapei 120 Black  NCS S 8000-N"
+      },
+      {
+        "skuCode": "4101238",
+        "size": "7.5X120",
+        "colorName": "Nok Ivory",
+        "raw": "7,5X120 Nok Ivory   4101238  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101240",
+        "size": "7.5X120",
+        "colorName": "Nok Terra",
+        "raw": "7,5X120 Nok Terra   4101240  Mapei 141 Caramel  NCS S 3030-Y40R"
+      },
+      {
+        "skuCode": "4101239",
+        "size": "7.5X120",
+        "colorName": "Nok Taupe",
+        "raw": "7,5X120 Nok Taupe   4101239  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4101241",
+        "size": "7.5X120",
+        "colorName": "Nok Ebony",
+        "raw": "7,5X120 Nok Ebony   4101241  Mapei 120 Black  NCS S 8000-N"
+      },
+      {
+        "skuCode": "4101228",
+        "size": "30X30",
+        "colorName": "Mosaic Rug Ivory",
+        "raw": "30X30 Mosaic Rug Ivory   4101228  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101226",
+        "size": "30X30",
+        "colorName": "Mosaic Rug Terra",
+        "raw": "30X30 Mosaic Rug Terra   4101226  Mapei 141 Caramel  NCS S 3030-Y40R"
+      },
+      {
+        "skuCode": "4101225",
+        "size": "30X30",
+        "colorName": "Mosaic Rug Taupe",
+        "raw": "30X30 Mosaic Rug Taupe   4101225  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4101227",
+        "size": "30X30",
+        "colorName": "Mosaic Rug Ebony",
+        "raw": "30X30 Mosaic Rug Ebony   4101227  Mapei 120 Black  NCS S 8000-N"
+      },
+      {
+        "skuCode": "4101236",
+        "size": "30X30",
+        "colorName": "Mosaic Boogie Ivory",
+        "raw": "30X30 Mosaic Boogie Ivory   4101236  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101233",
+        "size": "30X30",
+        "colorName": "Mosaic Boogie Terra",
+        "raw": "30X30 Mosaic Boogie Terra   4101233  Mapei 141 Caramel  NCS S 3030-Y40R"
+      },
+      {
+        "skuCode": "4101234",
+        "size": "30X30",
+        "colorName": "Mosaic Boogie Taupe",
+        "raw": "30X30 Mosaic Boogie Taupe   4101234  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4101235",
+        "size": "30X30",
+        "colorName": "Mosaic Boogie Ebony",
+        "raw": "30X30 Mosaic Boogie Ebony   4101235  Mapei 120 Black  NCS S 8000-N"
+      },
+      {
+        "skuCode": "4101232",
+        "size": "40X40",
+        "colorName": "Mosaic Crock Ivory",
+        "raw": "40X40 Mosaic Crock Ivory   4101232  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101230",
+        "size": "40X40",
+        "colorName": "Mosaic Crock Terra",
+        "raw": "40X40 Mosaic Crock Terra   4101230  Mapei 141 Caramel  NCS S 3030-Y40R"
+      },
+      {
+        "skuCode": "4101231",
+        "size": "40X40",
+        "colorName": "Mosaic Crock Taupe",
+        "raw": "40X40 Mosaic Crock Taupe   4101231  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4101229",
+        "size": "40X40",
+        "colorName": "Mosaic Crock Ebony",
+        "raw": "40X40 Mosaic Crock Ebony   4101229  Mapei 120 Black  NCS S 8000-N"
+      },
+      {
+        "skuCode": "4101221",
+        "size": "6.5X20",
+        "colorName": "Totem Ivory",
+        "raw": "6,5X20 Totem Ivory  4101221  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101222",
+        "size": "6.5X20",
+        "colorName": "Totem Terra",
+        "raw": "6,5X20 Totem Terra   4101222  Mapei 141 Caramel  NCS S 3030-Y40R"
+      },
+      {
+        "skuCode": "4101223",
+        "size": "6.5X20",
+        "colorName": "Totem Taupe",
+        "raw": "6,5X20 Totem Taupe    4101223  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4101224",
+        "size": "6.5X20",
+        "colorName": "Totem Ebony",
+        "raw": "6,5X20 Totem Ebony   4101224  Mapei 120 Black  NCS S 8000-NSIZE Name  Code  Advised Grouts Color  Ncs Color"
+      },
+      {
+        "skuCode": "4100890",
+        "size": "120X120",
+        "colorName": "*One 04",
+        "raw": "120X120 *One 04 4100890  Kerakoll KK 47  -"
+      },
+      {
+        "skuCode": "4100891",
+        "size": "120X120",
+        "colorName": "*One 05",
+        "raw": "120X120 *One 05 4100891  Kerakoll KK 6  -"
+      },
+      {
+        "skuCode": "4100892",
+        "size": "120X120",
+        "colorName": "*One 06",
+        "raw": "120X120 *One 06 4100892  Kerakoll KK 89  -"
+      },
+      {
+        "skuCode": "4100893",
+        "size": "120X120",
+        "colorName": "*One 07",
+        "raw": "120X120 *One 07 4100893  Kerakoll KK 103  -"
+      },
+      {
+        "skuCode": "4100894",
+        "size": "120X120",
+        "colorName": "*One 08",
+        "raw": "120X120 *One 08 4100894  Kerakoll KK 17  -"
+      }
+    ],
+    "milano70": [
+      {
+        "skuCode": "4101250",
+        "size": "4X31",
+        "colorName": "Milano Cacao",
+        "raw": "4X31 Milano Cacao   4101250  Mapei 110 Manhattan/ 120 Black  NCS S 8010-Y10R"
+      },
+      {
+        "skuCode": "4101255",
+        "size": "4X31",
+        "colorName": "Milano Bamboo Cacao",
+        "raw": "4X31 Milano Bamboo Cacao   4101255  Mapei 110 Manhattan/ 120 Black  NCS S 8010-Y10R"
+      },
+      {
+        "skuCode": "4101251",
+        "size": "4X31",
+        "colorName": "Milano Cognac",
+        "raw": "4X31 Milano Cognac   4101251  Mapei 110 Manhattan/ 120 Black  NCS S 6030-Y50R"
+      },
+      {
+        "skuCode": "4101256",
+        "size": "4X31",
+        "colorName": "Milano Bamboo Cognac",
+        "raw": "4X31 Milano Bamboo Cognac   4101256  Mapei 110 Manhattan/ 120 Black  NCS S 6030-Y50R"
+      },
+      {
+        "skuCode": "4101252",
+        "size": "4X31",
+        "colorName": "Milano Gold",
+        "raw": "4X31 Milano Gold   4101252  Mapei 110 Manhattan/ 120 Black  NCS S 4050-Y10R"
+      },
+      {
+        "skuCode": "4101257",
+        "size": "4X31",
+        "colorName": "Milano Bamboo Gold",
+        "raw": "4X31 Milano Bamboo Gold   4101257  Mapei 110 Manhattan/ 120 Black  NCS S 4050-Y10R"
+      },
+      {
+        "skuCode": "4101253",
+        "size": "4X31",
+        "colorName": "Milano Olive",
+        "raw": "4X31 Milano Olive   4101253  Mapei 110 Manhattan/ 120 Black  NCS S 5540-G60Y"
+      },
+      {
+        "skuCode": "4101258",
+        "size": "4X31",
+        "colorName": "Milano Bamboo Olive",
+        "raw": "4X31 Milano Bamboo Olive   4101258  Mapei 110 Manhattan/ 120 Black  NCS S 5540-G60Y"
+      },
+      {
+        "skuCode": "4101254",
+        "size": "4X31",
+        "colorName": "Milano Peacock",
+        "raw": "4X31 Milano Peacock   4101254  Mapei 110 Manhattan/ 120 Black  NCS S 6530-B30G"
+      },
+      {
+        "skuCode": "4101259",
+        "size": "4X31",
+        "colorName": "Milano Bamboo Peacock",
+        "raw": "4X31 Milano Bamboo Peacock   4101259  Mapei 110 Manhattan/ 120 Black  NCS S 6530-B30GMOU"
+      },
+      {
+        "skuCode": "4101100",
+        "size": "6.2X12.5",
+        "colorName": "Mou Milk Matte",
+        "raw": "6,2X12,5 Mou Milk Matte   4101100  Kerakoll KK 2  NCS S 0502-Y"
+      },
+      {
+        "skuCode": "4101104",
+        "size": "6.2X12.5",
+        "colorName": "Mou Butter Matte",
+        "raw": "6,2X12,5 Mou Butter Matte   4101104  Mapei 137 Caribbean  NCS S 1005-Y40R"
+      },
+      {
+        "skuCode": "4101108",
+        "size": "6.2X12.5",
+        "colorName": "Mou Caramel Matte",
+        "raw": "6,2X12,5 Mou Caramel Matte   4101108  Mapei 141 Caramel  NCS S 4030-Y40R"
+      },
+      {
+        "skuCode": "4101102",
+        "size": "6.2X12.5",
+        "colorName": "Mou Milk Matte Mix",
+        "raw": "6,2X12,5 Mou Milk Matte Mix   4101102  Kerakoll KK 2  NCS S 0502-Y"
+      },
+      {
+        "skuCode": "4101106",
+        "size": "6.2X12.5",
+        "colorName": "Mou Butter Matte Mix",
+        "raw": "6,2X12,5 Mou Butter Matte Mix   4101106  Mapei 137 Caribbean  NCS S 1005-Y40R"
+      },
+      {
+        "skuCode": "4101110",
+        "size": "6.2X12.5",
+        "colorName": "Mou Caramel Matte Mix",
+        "raw": "6,2X12,5 Mou Caramel Matte Mix   4101110  Mapei 141 Caramel  NCS S 4030-Y40R"
+      },
+      {
+        "skuCode": "4101101",
+        "size": "6.2X12.5",
+        "colorName": "Mou Milk Glossy",
+        "raw": "6,2X12,5 Mou Milk Glossy   4101101  Kerakoll KK 2  NCS S 0502-Y"
+      },
+      {
+        "skuCode": "4101105",
+        "size": "6.2X12.5",
+        "colorName": "Mou Butter Glossy",
+        "raw": "6,2X12,5 Mou Butter Glossy   4101105  Mapei 137 Caribbean  NCS S 1005-Y40R"
+      },
+      {
+        "skuCode": "4101109",
+        "size": "6.2X12.5",
+        "colorName": "Mou Caramel Glossy",
+        "raw": "6,2X12,5 Mou Caramel Glossy   4101109  Mapei 141 Caramel  NCS S 4030-Y40R"
+      },
+      {
+        "skuCode": "4101103",
+        "size": "6.2X12.5",
+        "colorName": "Mou Milk Glossy Mix",
+        "raw": "6,2X12,5 Mou Milk Glossy Mix   4101103  Kerakoll KK 2  NCS S 0502-Y"
+      },
+      {
+        "skuCode": "4101107",
+        "size": "6.2X12.5",
+        "colorName": "Mou Butter Glossy Mix",
+        "raw": "6,2X12,5 Mou Butter Glossy Mix   4101107  Mapei 137 Caribbean  NCS S 1005-Y40R"
+      },
+      {
+        "skuCode": "4101111",
+        "size": "6.2X12.5",
+        "colorName": "Mou Caramel Glossy Mix",
+        "raw": "6,2X12,5 Mou Caramel Glossy Mix  4101111  Mapei 141 Caramel  NCS S 4030-Y40R"
+      }
+    ],
+    "nano-gap": [
+      {
+        "skuCode": "4100481",
+        "size": "30X30",
+        "colorName": "Nano Gap Bianco",
+        "raw": "30X30 Nano Gap Bianco   4100481  Kerakoll KK 2  NCS S 0502-Y"
+      },
+      {
+        "skuCode": "4100482",
+        "size": "30X30",
+        "colorName": "Nano Gap Grigio",
+        "raw": "30X30 Nano Gap Grigio   4100482  Kerakoll KK 6  NCS S 2002-Y"
+      },
+      {
+        "skuCode": "4100483",
+        "size": "30X30",
+        "colorName": "Nano Gap Nero",
+        "raw": "30X30 Nano Gap Nero   4100483  Kerakoll KK 12  NCS S 8005-N"
+      }
+    ],
+    "nok": [
+      {
+        "skuCode": "4101180",
+        "size": "120X120",
+        "colorName": "Nok Ivory",
+        "raw": "120X120 Nok Ivory   4101180  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101181",
+        "size": "120X120",
+        "colorName": "Nok Terra",
+        "raw": "120X120 Nok Terra   4101181  Mapei 141 Caramel  NCS S 3030-Y40R"
+      },
+      {
+        "skuCode": "4101182",
+        "size": "120X120",
+        "colorName": "Nok Taupe",
+        "raw": "120X120 Nok Taupe   4101182  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4101183",
+        "size": "120X120",
+        "colorName": "Nok Ebony",
+        "raw": "120X120 Nok Ebony   4101183  Mapei 120 Black  NCS S 8000-N"
+      },
+      {
+        "skuCode": "4101188",
+        "size": "120X120",
+        "colorName": "Nok Snake Ivory",
+        "raw": "120X120 Nok Snake Ivory   4101188  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101189",
+        "size": "120X120",
+        "colorName": "Nok Snake Terra",
+        "raw": "120X120 Nok Snake Terra   4101189  Mapei 141 Caramel  NCS S 3030-Y40R"
+      },
+      {
+        "skuCode": "4101190",
+        "size": "120X120",
+        "colorName": "Nok Snake Taupe",
+        "raw": "120X120 Nok Snake Taupe   4101190  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4101191",
+        "size": "120X120",
+        "colorName": "Nok Snake Ebony",
+        "raw": "120X120 Nok Snake Ebony   4101191  Mapei 120 Black  NCS S 8000-N"
+      },
+      {
+        "skuCode": "4101215",
+        "size": "60X120",
+        "colorName": "Nok Ivory",
+        "raw": "60X120 Nok Ivory   4101215  Mapei 130 Jasmine  NCS S 1505-Y20R"
+      },
+      {
+        "skuCode": "4101216",
+        "size": "60X120",
+        "colorName": "Nok Terra",
+        "raw": "60X120 Nok Terra   4101216  Mapei 141 Caramel  NCS S 3030-Y40RSIZE Name  Code  Advised Grouts Color  Ncs Color"
+      },
+      {
+        "skuCode": "4101040",
+        "size": "5X20",
+        "colorName": "Kappa Mustard",
+        "raw": "5X20 Kappa Mustard   4101040  Kerakoll KK 102  NCS S 3560-Y"
+      },
+      {
+        "skuCode": "4101041",
+        "size": "5X20",
+        "colorName": "Kappa Tangerine",
+        "raw": "5X20 Kappa Tangerine   4101041  Mapei 138 Almond  NCS S 1040-Y40R"
+      },
+      {
+        "skuCode": "4101042",
+        "size": "5X20",
+        "colorName": "Kappa Nude",
+        "raw": "5X20 Kappa Nude   4101042  Mapei 141 Caramel  NCS S 2030- Y60R"
+      },
+      {
+        "skuCode": "4101043",
+        "size": "5X20",
+        "colorName": "Kappa Lobster",
+        "raw": "5X20 Kappa Lobster   4101043  Kerakoll KK 103  NCS S 2070-Y80R"
+      },
+      {
+        "skuCode": "4101044",
+        "size": "5X20",
+        "colorName": "Kappa Bordeaux",
+        "raw": "5X20 Kappa Bordeaux   4101044  Kerakoll KK 114  NCS S 5030-R"
+      },
+      {
+        "skuCode": "4101045",
+        "size": "5X20",
+        "colorName": "Kappa Cacao",
+        "raw": "5X20 Kappa Cacao   4101045  Kerakoll KK 94  NCS S 8005-Y50R"
+      },
+      {
+        "skuCode": "4101046",
+        "size": "5X20",
+        "colorName": "Kappa Green",
+        "raw": "5X20 Kappa Green   4101046  Kerakoll KK 50  NCS S 3060-G10Y"
+      },
+      {
+        "skuCode": "4101047",
+        "size": "5X20",
+        "colorName": "Kappa Mint",
+        "raw": "5X20 Kappa Mint   4101047  Kerakoll KK 47  NCS S 2020-G"
+      },
+      {
+        "skuCode": "4101048",
+        "size": "5X20",
+        "colorName": "Kappa Tuareg",
+        "raw": "5X20 Kappa Tuareg   4101048  Mapei 172 Space Blu  NCS S 1550-R80B"
+      },
+      {
+        "skuCode": "4101049",
+        "size": "5X20",
+        "colorName": "Kappa Ocean",
+        "raw": "5X20 Kappa Ocean  4101049  Mapei 172 Space Blu  NCS S 6030-R70B"
+      },
+      {
+        "skuCode": "4101050",
+        "size": "5X20",
+        "colorName": "Kappa Musk",
+        "raw": "5X20 Kappa Musk   4101050  Kerakoll KK 50  NCS S 4010-G10Y"
+      },
+      {
+        "skuCode": "4101051",
+        "size": "5X20",
+        "colorName": "Kappa White",
+        "raw": "5X20 Kappa White   4101051  Kerakoll KK 2  NCS S 0300-N"
+      },
+      {
+        "skuCode": "4101052",
+        "size": "5X20",
+        "colorName": "Kappa Raw",
+        "raw": "5X20 Kappa Raw   4101052  Kerakoll KK 2  NCS S 0300-N"
+      },
+      {
+        "skuCode": "4101054",
+        "size": "1.1X20",
+        "colorName": "Matita Cotto",
+        "raw": "1,1X20 Matita Cotto  4101054  -  -"
+      },
+      {
+        "skuCode": "4101055",
+        "size": "1.1X20",
+        "colorName": "Matita Lavander",
+        "raw": "1,1X20 Matita Lavander  4101055  -  NCS S 3020-R90B"
+      },
+      {
+        "skuCode": "4101056",
+        "size": "1.1X20",
+        "colorName": "Matita Berry",
+        "raw": "1,1X20 Matita Berry  4101056  -  NCS S 1060-Y80R"
+      },
+      {
+        "skuCode": "4101057",
+        "size": "1.1X20",
+        "colorName": "Matita Aloe",
+        "raw": "1,1X20 Matita Aloe  4101057  -  NCS S 1030-G10Y"
+      },
+      {
+        "skuCode": "4101058",
+        "size": "1.1X20",
+        "colorName": "Matita Wood",
+        "raw": "1,1X20 Matita Wood  4101058  -  -"
+      }
+    ],
+    "one": [
+      {
+        "skuCode": "4100886",
+        "size": "120X120",
+        "colorName": "One Base 00",
+        "raw": "120X120 One Base 00  4100886  Mapei 123 Ancient White  -"
+      },
+      {
+        "skuCode": "4100887",
+        "size": "120X120",
+        "colorName": "One 01",
+        "raw": "120X120 One 01 4100887  Mapei 123 Ancient White  -"
+      },
+      {
+        "skuCode": "4100888",
+        "size": "120X120",
+        "colorName": "One 02",
+        "raw": "120X120 One 02 4100888  Mapei 132 Beige  -"
+      },
+      {
+        "skuCode": "4100889",
+        "size": "120X120",
+        "colorName": "*One 03",
+        "raw": "120X120 *One 03 4100889  Kerakoll KK 156  -"
+      }
+    ],
+    "otto": [
+      {
+        "skuCode": "4100188",
+        "size": "60X120",
+        "colorName": "Otto Bianco",
+        "raw": "60X120 Otto Bianco   4100188  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100193",
+        "size": "60X120",
+        "colorName": "Otto Grigio",
+        "raw": "60X120 Otto Grigio   4100193  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100198",
+        "size": "60X120",
+        "colorName": "Otto Fango",
+        "raw": "60X120 Otto Fango   4100198  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100189",
+        "size": "60X60",
+        "colorName": "Otto Bianco",
+        "raw": "60X60 Otto Bianco   4100189  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100194",
+        "size": "60X60",
+        "colorName": "Otto Grigio",
+        "raw": "60X60 Otto Grigio   4100194  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100199",
+        "size": "60X60",
+        "colorName": "Otto Fango",
+        "raw": "60X60 Otto Fango   4100199  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100192",
+        "size": "30X60",
+        "colorName": "Otto Bianco",
+        "raw": "30X60 Otto Bianco   4100192  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100197",
+        "size": "30X60",
+        "colorName": "Otto Grigio",
+        "raw": "30X60 Otto Grigio   4100197  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100202",
+        "size": "30X60",
+        "colorName": "Otto Fango",
+        "raw": "30X60 Otto Fango   4100202  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100190",
+        "size": "60X60",
+        "colorName": "Otto Bianco Graffio",
+        "raw": "60X60 Otto Bianco Graffio   4100190  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100195",
+        "size": "60X60",
+        "colorName": "Otto Grigio Graffio",
+        "raw": "60X60 Otto Grigio Graffio   4100195  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100200",
+        "size": "60X60",
+        "colorName": "Otto Fango Graffio",
+        "raw": "60X60 Otto Fango Graffio   4100200  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100207",
+        "size": "30X60",
+        "colorName": "Otto Bianco Graffio",
+        "raw": "30X60 Otto Bianco Graffio   4100207  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100208",
+        "size": "30X60",
+        "colorName": "Otto Grigio Graffio",
+        "raw": "30X60 Otto Grigio Graffio   4100208  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100209",
+        "size": "30X60",
+        "colorName": "Otto Fango Graffio",
+        "raw": "30X60 Otto Fango Graffio   4100209  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100191",
+        "size": "60X60",
+        "colorName": "Otto Bianco Goccia",
+        "raw": "60X60 Otto Bianco Goccia   4100191  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100196",
+        "size": "60X60",
+        "colorName": "Otto Grigio Goccia",
+        "raw": "60X60 Otto Grigio Goccia   4100196  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100201",
+        "size": "60X60",
+        "colorName": "Otto Fango Goccia",
+        "raw": "60X60 Otto Fango Goccia   4100201  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100204",
+        "size": "30X60",
+        "colorName": "Otto Bianco Goccia",
+        "raw": "30X60 Otto Bianco Goccia   4100204  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100205",
+        "size": "30X60",
+        "colorName": "Otto Grigio Goccia",
+        "raw": "30X60 Otto Grigio Goccia   4100205  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100206",
+        "size": "30X60",
+        "colorName": "Otto Fango Goccia",
+        "raw": "30X60 Otto Fango Goccia   4100206  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100218",
+        "size": "7.5X30",
+        "colorName": "Otto Bianco Mix",
+        "raw": "7,5X30 Otto Bianco Mix   4100218  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100219",
+        "size": "7.5X30",
+        "colorName": "Otto Grigio Mix",
+        "raw": "7,5X30 Otto Grigio Mix   4100219  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100220",
+        "size": "7.5X30",
+        "colorName": "Otto Fango Mix",
+        "raw": "7,5X30 Otto Fango Mix   4100220  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100221",
+        "size": "22.5X19.5",
+        "colorName": "Otto Esagona Mix Bianco",
+        "raw": "22,5X19,5 Otto Esagona Mix Bianco   4100221  Kerakoll KK 2  NCS S 1002-Y*Use only cementitious grouts"
+      },
+      {
+        "skuCode": "4100222",
+        "size": "22.5X19.5",
+        "colorName": "Otto Esagona Mix Grigio",
+        "raw": "22,5X19,5 Otto Esagona Mix Grigio   4100222  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100223",
+        "size": "22.5X19.5",
+        "colorName": "Otto Esagona Mix Fango",
+        "raw": "22,5X19,5 Otto Esagona Mix Fango   4100223  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100245",
+        "size": "22.5X19.5",
+        "colorName": "Mosaic 6 Bianco",
+        "raw": "22,5X19,5 Mosaic 6 Bianco   4100245  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100246",
+        "size": "22.5X19.5",
+        "colorName": "Mosaic 6 Grigio",
+        "raw": "22,5X19,5 Mosaic 6 Grigio   4100246  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100247",
+        "size": "22.5X19.5",
+        "colorName": "Mosaic 6 Fango",
+        "raw": "22,5X19,5 Mosaic 6 Fango   4100247  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      },
+      {
+        "skuCode": "4100227",
+        "size": "30X30",
+        "colorName": "Mosaic Bianco",
+        "raw": "30X30 Mosaic Bianco   4100227  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4100228",
+        "size": "30X30",
+        "colorName": "Mosaic Grigio",
+        "raw": "30X30 Mosaic Grigio   4100228  Mapei 112 Medium Grey  NCS S 2502-Y"
+      },
+      {
+        "skuCode": "4100229",
+        "size": "30X30",
+        "colorName": "Mosaic Fango",
+        "raw": "30X30 Mosaic Fango   4100229  Mapei 113 Cement Grey  NCS S 3005-Y20R"
+      }
+    ],
+    "paper41-lux": [
+      {
+        "skuCode": "4100994",
+        "size": "60X120",
+        "colorName": "*Paper41 Lux Lars",
+        "raw": "60X120 *Paper41 Lux Lars   4100994  Kerakoll KK 12  -"
+      },
+      {
+        "skuCode": "4100995",
+        "size": "60X120",
+        "colorName": "*Paper41 Lux Gianni",
+        "raw": "60X120 *Paper41 Lux Gianni   4100995  Kerakoll KK 50  -"
+      },
+      {
+        "skuCode": "4100992",
+        "size": "60X120",
+        "colorName": "*Paper41 Lux Jacques",
+        "raw": "60X120 *Paper41 Lux Jacques   4100992  Kerakoll KK 30  -"
+      },
+      {
+        "skuCode": "4100715",
+        "size": "60X120",
+        "colorName": "*Paper41 Lux Cristoforo",
+        "raw": "60X120 *Paper41 Lux Cristoforo   4100715  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100714",
+        "size": "60X120",
+        "colorName": "*Paper41 Lux Louis",
+        "raw": "60X120 *Paper41 Lux Louis   4100714  Kerakoll KK 4  -"
+      },
+      {
+        "skuCode": "4100716",
+        "size": "60X120",
+        "colorName": "*Paper41 Lux Franz",
+        "raw": "60X120 *Paper41 Lux Franz   4100716  Kerakoll KK 2  -"
+      }
+    ],
+    "paper41-pro": [
+      {
+        "skuCode": "4100986",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Zoe",
+        "raw": "50X100 *Paper41 Pro Zoe   4100986  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100985",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Azzurra",
+        "raw": "50X100 *Paper41 Pro Azzurra   4100985  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100597",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Luz",
+        "raw": "50X100 *Paper41 Pro Luz   4100597  Mapei 137 Caribbean  -"
+      },
+      {
+        "skuCode": "4100712",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Marcela",
+        "raw": "50X100 *Paper41 Pro Marcela   4100712  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100336",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Musa",
+        "raw": "50X100 *Paper41 Pro Musa   4100336  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100713",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Olivia",
+        "raw": "50X100 *Paper41 Pro Olivia   4100713  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100335",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Flora",
+        "raw": "50X100 *Paper41 Pro Flora   4100335  Kerakoll KK 12  -"
+      },
+      {
+        "skuCode": "4100595",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Midori",
+        "raw": "50X100 *Paper41 Pro Midori   4100595  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100151",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Jane A",
+        "raw": "50X100 *Paper41 Pro Jane A   4100151  Kerakoll KK 12  -"
+      },
+      {
+        "skuCode": "4100152",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Jane B",
+        "raw": "50X100 *Paper41 Pro Jane B   4100152  Kerakoll KK 12  -"
+      },
+      {
+        "skuCode": "4100153",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Jane C",
+        "raw": "50X100 *Paper41 Pro Jane C   4100153  Kerakoll KK 12  -"
+      },
+      {
+        "skuCode": "4100154",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Jane D",
+        "raw": "50X100 *Paper41 Pro Jane D   4100154  Kerakoll KK 12  -"
+      },
+      {
+        "skuCode": "4100155",
+        "size": "50X100",
+        "colorName": "*Paper41 Pro Jane E",
+        "raw": "50X100 *Paper41 Pro Jane E   4100155  Kerakoll KK 12  -"
+      }
+    ],
+    "paper41-up": [
+      {
+        "skuCode": "4100990",
+        "size": "50X100",
+        "colorName": "*Paper41 Up Carla",
+        "raw": "50X100 *Paper41 Up Carla   4100990  Mapei 150 Yellow  -"
+      },
+      {
+        "skuCode": "4100989",
+        "size": "50X100",
+        "colorName": "*Paper41 Up Gae",
+        "raw": "50X100 *Paper41 Up Gae   4100989  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100988",
+        "size": "50X100",
+        "colorName": "*Paper41 Up Diana",
+        "raw": "50X100 *Paper41 Up Diana   4100988  Kerakoll KK 12  -"
+      }
+    ],
+    "pietre41-chevron": [
+      {
+        "skuCode": "4100386",
+        "size": "20X80",
+        "colorName": "Pietre41 Chevron H. Grey",
+        "raw": "20X80 Pietre41 Chevron H. Grey   4100386  Mapei 119 London Grey  NCS S 3502-G"
+      }
+    ],
+    "pixel41": [
+      {
+        "skuCode": "4100799",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 01 Red",
+        "raw": "11,5X11,5 Pixel41 01 Red   4100799  Kerakoll KK 114  NCS S 2070-Y90R"
+      },
+      {
+        "skuCode": "4100800",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 02 Lobster",
+        "raw": "11,5X11,5 Pixel41 02 Lobster   4100800  Kerakoll KK 103  NCS S 2070-Y80R"
+      },
+      {
+        "skuCode": "4100801",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 03 Coral",
+        "raw": "11,5X11,5 Pixel41 03 Coral   4100801  Kerakoll KK 103  NCS S 3040-Y80R"
+      },
+      {
+        "skuCode": "4100802",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 04 Bordeaux",
+        "raw": "11,5X11,5 Pixel41 04 Bordeaux   4100802  Kerakoll KK 114  NCS S 5030-R"
+      },
+      {
+        "skuCode": "4100803",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 05 Purple",
+        "raw": "11,5X11,5 Pixel41 05 Purple   4100803  Mapei 114 Anthracite  NCS S 7010-R30B"
+      },
+      {
+        "skuCode": "4100804",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 06 Violet",
+        "raw": "11,5X11,5 Pixel41 06 Violet   4100804  Kerakoll KK 147  NCS S 6020-R30B"
+      },
+      {
+        "skuCode": "4100805",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 07 Rose",
+        "raw": "11,5X11,5 Pixel41 07 Rose   4100805  Kerakoll KK 129  NCS S 1015-Y80R"
+      },
+      {
+        "skuCode": "4100806",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 08 Strawberry",
+        "raw": "11,5X11,5 Pixel41 08 Strawberry   4100806  Kerakoll KK 130  NCS S 3030-Y90R"
+      },
+      {
+        "skuCode": "4100807",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 09 Blush",
+        "raw": "11,5X11,5 Pixel41 09 Blush   4100807  Mapei 141 Caramel  NCS S 2030-Y70R"
+      },
+      {
+        "skuCode": "4100808",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 10 Nude",
+        "raw": "11,5X11,5 Pixel41 10 Nude   4100808  Mapei 141 Caramel  NCS S 2030-Y60R"
+      },
+      {
+        "skuCode": "4100809",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 11 Powder",
+        "raw": "11,5X11,5 Pixel41 11 Powder   4100809  Kerakoll KK 129  NCS S 1515-Y50R"
+      },
+      {
+        "skuCode": "4100810",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 12 Terra",
+        "raw": "11,5X11,5 Pixel41 12 Terra   4100810  Kerakoll KK 153  NCS S 3020-Y40R"
+      },
+      {
+        "skuCode": "4100811",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 13 Tobacco",
+        "raw": "11,5X11,5 Pixel41 13 Tobacco   4100811  Kerakoll KK 156  NCS S 5030-Y50R"
+      },
+      {
+        "skuCode": "4100812",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 14 Curry",
+        "raw": "11,5X11,5 Pixel41 14 Curry   4100812  Kerakoll KK 151  NCS S 2030-Y20R"
+      },
+      {
+        "skuCode": "4100813",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 15 Khaki",
+        "raw": "11,5X11,5 Pixel41 15 Khaki   4100813  Kerakoll KK 151  NCS S 5030-G90Y"
+      },
+      {
+        "skuCode": "4100814",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 16 Lemon",
+        "raw": "11,5X11,5 Pixel41 16 Lemon   4100814  Mapei 150 Yellow  NCS S 0540-G90Y"
+      },
+      {
+        "skuCode": "4100815",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 17 Vanilla",
+        "raw": "11,5X11,5 Pixel41 17 Vanilla   4100815  Kerakoll KK 88  NCS S 1010-Y"
+      },
+      {
+        "skuCode": "4100816",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 18 Sand",
+        "raw": "11,5X11,5 Pixel41 18 Sand   4100816  Kerakoll KK 89  NCS S 1510-Y10R"
+      },
+      {
+        "skuCode": "4100817",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 19 Nut",
+        "raw": "11,5X11,5 Pixel41 19 Nut   4100817  Mapei 132 Beige  NCS S 2010-Y30R"
+      },
+      {
+        "skuCode": "4100818",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 20 Almond",
+        "raw": "11,5X11,5 Pixel41 20 Almond   4100818  Kerakoll KK 76  NCS S 1002-Y50R"
+      },
+      {
+        "skuCode": "4100819",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 21 White",
+        "raw": "11,5X11,5 Pixel41 21 White   4100819  Kerakoll KK 2  NCS S 0300-N"
+      },
+      {
+        "skuCode": "4100820",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 22 Pearl",
+        "raw": "11,5X11,5 Pixel41 22 Pearl   4100820  Kerakoll KK 6  NCS S 2002-Y50R"
+      },
+      {
+        "skuCode": "4100821",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 23 Grey",
+        "raw": "11,5X11,5 Pixel41 23 Grey   4100821  Kerakoll KK 81  NCS S 3005-Y50R"
+      },
+      {
+        "skuCode": "4100822",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 24 Mud",
+        "raw": "11,5X11,5 Pixel41 24 Mud   4100822  Kerakoll KK 157  NCS S 4005-Y20R"
+      },
+      {
+        "skuCode": "4100823",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 25 Black",
+        "raw": "11,5X11,5 Pixel41 25 Black   4100823  Kerakoll KK 12  NCS S 9000-N"
+      },
+      {
+        "skuCode": "4100824",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 26 Antrax",
+        "raw": "11,5X11,5 Pixel41 26 Antrax   4100824  Mapei 119 London Grey  NCS S 8500-N"
+      },
+      {
+        "skuCode": "4100825",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 27 Notte",
+        "raw": "11,5X11,5 Pixel41 27 Notte   4100825  Kerakoll KK 10  NCS S 7005-B20G"
+      },
+      {
+        "skuCode": "4100826",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 28 Ocean",
+        "raw": "11,5X11,5 Pixel41 28 Ocean   4100826  Mapei 114 Anthracite  NCS S 6030-R70B"
+      },
+      {
+        "skuCode": "4100827",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 29 Tuareg",
+        "raw": "11,5X11,5 Pixel41 29 Tuareg   4100827  Mapei 172 Space Blu  NCS S 1550-R80B"
+      },
+      {
+        "skuCode": "4100828",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 30 Pool",
+        "raw": "11,5X11,5 Pixel41 30 Pool   4100828  Mapei 167 Avio  NCS S 2040-B"
+      },
+      {
+        "skuCode": "4100829",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 31 Cerulean",
+        "raw": "11,5X11,5 Pixel41 31 Cerulean   4100829  Mapei 168 Cerulean  NCS S 3020-R90B"
+      },
+      {
+        "skuCode": "4100830",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 32 Cloud",
+        "raw": "11,5X11,5 Pixel41 32 Cloud   4100830  Mapei 174 Tornado  NCS S 4010-B10G"
+      },
+      {
+        "skuCode": "4100831",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 33 Sky",
+        "raw": "11,5X11,5 Pixel41 33 Sky   4100831  Kerakoll KK 47  NCS S 2010-B70G"
+      },
+      {
+        "skuCode": "4100832",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 34 Celadon",
+        "raw": "11,5X11,5 Pixel41 34 Celadon   4100832  Kerakoll KK 50  NCS S 3010-G"
+      },
+      {
+        "skuCode": "4100833",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 35 Musk",
+        "raw": "11,5X11,5 Pixel41 35 Musk   4100833  Kerakoll KK 50  NCS S 4010-G10Y"
+      },
+      {
+        "skuCode": "4100834",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 36 Salvia",
+        "raw": "11,5X11,5 Pixel41 36 Salvia   4100834  Kerakoll KK 47  NCS S 3005-G80Y"
+      },
+      {
+        "skuCode": "4100835",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 37 Military",
+        "raw": "11,5X11,5 Pixel41 37 Military   4100835  Kerakoll KK 50  NCS S 6010-G10Y"
+      },
+      {
+        "skuCode": "4100836",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 38 Frog",
+        "raw": "11,5X11,5 Pixel41 38 Frog   4100836  Kerakoll KK 50  NCS S 4030-G10Y"
+      },
+      {
+        "skuCode": "4100837",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 39 Peacock",
+        "raw": "11,5X11,5 Pixel41 39 Peacock   4100837  Kerakoll KK 50  NCS S 5030-B70G"
+      },
+      {
+        "skuCode": "4100838",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 40 Marine",
+        "raw": "11,5X11,5 Pixel41 40 Marine   4100838  Kerakoll KK 50  NCS S 2040-B90G"
+      },
+      {
+        "skuCode": "4100839",
+        "size": "11.5X11.5",
+        "colorName": "Pixel41 41 Mint",
+        "raw": "11,5X11,5 Pixel41 41 Mint   4100839  Kerakoll KK 47  NCS S 2020-GSIZE Name  Code  Advised Grouts Color  Ncs Color"
+      },
+      {
+        "skuCode": "4100514",
+        "size": "80X80",
+        "colorName": "Solo Grey",
+        "raw": "80X80 Solo Grey   4100514  Kerakoll KK 6  NCS S 3500-N"
+      },
+      {
+        "skuCode": "4100504",
+        "size": "40X80",
+        "colorName": "Solo White",
+        "raw": "40X80 Solo White   4100504  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4100505",
+        "size": "40X80",
+        "colorName": "Solo Grey",
+        "raw": "40X80 Solo Grey   4100505  Kerakoll KK 6  NCS S 3500-N"
+      },
+      {
+        "skuCode": "4100508",
+        "size": "40X80",
+        "colorName": "Solo Out Grey",
+        "raw": "40X80 Solo Out Grey   4100508  Kerakoll KK 6  NCS S 3500-N"
+      },
+      {
+        "skuCode": "4100551",
+        "size": "5X80",
+        "colorName": "Solo White",
+        "raw": "5X80 Solo White   4100551  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4100552",
+        "size": "5X80",
+        "colorName": "Solo Grey",
+        "raw": "5X80 Solo Grey   4100552  Kerakoll KK 6  NCS S 3500-N"
+      },
+      {
+        "skuCode": "4100545",
+        "size": "30X30",
+        "colorName": "Solo Mosaic White",
+        "raw": "30X30 Solo Mosaic White   4100545  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4100546",
+        "size": "30X30",
+        "colorName": "Solo Mosaic Grey",
+        "raw": "30X30 Solo Mosaic Grey   4100546  Kerakoll KK 6  NCS S 3500-N"
+      }
+    ],
+    "rigo": [
+      {
+        "skuCode": "4100233",
+        "size": "5.5X35.5",
+        "colorName": "Rigo White",
+        "raw": "5,5X35,5 Rigo White   4100233  Kerakoll KK 2  NCS S 0502-Y"
+      },
+      {
+        "skuCode": "4100236",
+        "size": "5.5X35.5",
+        "colorName": "Rigo Black",
+        "raw": "5,5X35,5 Rigo Black   4100236  Kerakoll KK 12  NCS S 8005-N"
+      }
+    ],
+    "solo": [
+      {
+        "skuCode": "4100510",
+        "size": "60X120",
+        "colorName": "Solo White",
+        "raw": "60X120 Solo White   4100510  Kerakoll KK 2  NCS S 1000-N"
+      },
+      {
+        "skuCode": "4100511",
+        "size": "60X120",
+        "colorName": "Solo Grey",
+        "raw": "60X120 Solo Grey   4100511  Kerakoll KK 6  NCS S 3500-N"
+      },
+      {
+        "skuCode": "4100513",
+        "size": "80X80",
+        "colorName": "Solo White",
+        "raw": "80X80 Solo White   4100513  Kerakoll KK 2  NCS S 1000-NSPECTRE"
+      },
+      {
+        "skuCode": "4100732",
+        "size": "5X25",
+        "colorName": "Spectre Milk Hologram",
+        "raw": "5X25 Spectre Milk Hologram  4100732  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100729",
+        "size": "5X25",
+        "colorName": "Spectre Cream Hologram",
+        "raw": "5X25 Spectre Cream Hologram  4100729  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100730",
+        "size": "5X25",
+        "colorName": "Spectre Rose Hologram",
+        "raw": "5X25 Spectre Rose Hologram  4100730  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100731",
+        "size": "5X25",
+        "colorName": "Spectre Sky Hologram",
+        "raw": "5X25 Spectre Sky Hologram  4100731  Kerakoll KK 2  -"
+      },
+      {
+        "skuCode": "4100720",
+        "size": "5X25",
+        "colorName": "Spectre Milk Glossy",
+        "raw": "5X25 Spectre Milk Glossy  4100720  Kerakoll KK 2  NCS S 0300-N"
+      },
+      {
+        "skuCode": "4100722",
+        "size": "5X25",
+        "colorName": "Spectre Cream Glossy",
+        "raw": "5X25 Spectre Cream Glossy  4100722  Kerakoll KK 2  NCS S 0603-G80Y"
+      },
+      {
+        "skuCode": "4100724",
+        "size": "5X25",
+        "colorName": "Spectre Rose Glossy",
+        "raw": "5X25 Spectre Rose Glossy  4100724  Kerakoll KK 2  NCS S 0507-Y80R"
+      },
+      {
+        "skuCode": "4100726",
+        "size": "5X25",
+        "colorName": "Spectre Sky Glossy",
+        "raw": "5X25 Spectre Sky Glossy  4100726  Kerakoll KK 2  NCS S 0907-B80G"
+      },
+      {
+        "skuCode": "4100719",
+        "size": "5X25",
+        "colorName": "Spectre Milk Matte",
+        "raw": "5X25 Spectre Milk Matte  4100719  Kerakoll KK 2  NCS S 0300-N"
+      },
+      {
+        "skuCode": "4100721",
+        "size": "5X25",
+        "colorName": "Spectre Cream Matte",
+        "raw": "5X25 Spectre Cream Matte  4100721  Kerakoll KK 2  NCS S 0603-G80Y"
+      },
+      {
+        "skuCode": "4100723",
+        "size": "5X25",
+        "colorName": "Spectre Rose Matte",
+        "raw": "5X25 Spectre Rose Matte  4100723  Kerakoll KK 2  NCS S 0507-Y80R"
+      },
+      {
+        "skuCode": "4100725",
+        "size": "5X25",
+        "colorName": "Spectre Sky Matte",
+        "raw": "5X25 Spectre Sky Matte  4100725  Kerakoll KK 2  NCS S 0907-B80G"
+      }
+    ],
+    "stories": [
+      {
+        "skuCode": "4101295",
+        "size": "10X10",
+        "colorName": "Stories White Matte",
+        "raw": "10X10 Stories White Matte   4101295  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101296",
+        "size": "10X10",
+        "colorName": "Stories White Lux",
+        "raw": "10X10 Stories White Lux   4101296  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101299",
+        "size": "10X10",
+        "colorName": "Stories Dance Matte",
+        "raw": "10X10 Stories Dance Matte   4101299  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101300",
+        "size": "10X10",
+        "colorName": "Stories Dance Lux",
+        "raw": "10X10 Stories Dance Lux   4101300  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101297",
+        "size": "10X10",
+        "colorName": "Stories Caravan Matte",
+        "raw": "10X10 Stories Caravan Matte   4101297  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101298",
+        "size": "10X10",
+        "colorName": "Stories Caravan Lux",
+        "raw": "10X10 Stories Caravan Lux   4101298  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101303",
+        "size": "10X10",
+        "colorName": "Stories Eddie Matte",
+        "raw": "10X10 Stories Eddie Matte   4101303  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101304",
+        "size": "10X10",
+        "colorName": "Stories Eddie Lux",
+        "raw": "10X10 Stories Eddie Lux   4101304  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101301",
+        "size": "10X10",
+        "colorName": "Stories Costiera Matte",
+        "raw": "10X10 Stories Costiera Matte   4101301  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101302",
+        "size": "10X10",
+        "colorName": "Stories Costiera Lux",
+        "raw": "10X10 Stories Costiera Lux   4101302  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101310",
+        "size": "2.5X10",
+        "colorName": "Stories Sigar Matte",
+        "raw": "2,5X10 Stories Sigar Matte   4101310  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101309",
+        "size": "2.5X10",
+        "colorName": "Stories Sigar Lux",
+        "raw": "2,5X10 Stories Sigar Lux   4101309  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101312",
+        "size": "1.2X10",
+        "colorName": "Stories End Matte",
+        "raw": "1,2X10 Stories End Matte   4101312  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101311",
+        "size": "1.2X10",
+        "colorName": "Stories End Lux",
+        "raw": "1,2X10 Stories End Lux   4101311  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101315",
+        "size": "1.2X1.2",
+        "colorName": "Stories End Corner Matte",
+        "raw": "1,2X1,2 Stories End Corner Matte   4101315  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101314",
+        "size": "1.2X1.2",
+        "colorName": "Stories End Corner Lux",
+        "raw": "1,2X1,2 Stories End Corner Lux   4101314  Kerakoll KK 2  NCS S 0500-N"
+      }
+    ],
+    "superclassica-scb": [
+      {
+        "skuCode": "4100998",
+        "size": "60X120",
+        "colorName": "SCB Natural",
+        "raw": "60X120 SCB Natural  4100998  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101004",
+        "size": "60X120",
+        "colorName": "SCB Polished",
+        "raw": "60X120 SCB Polished  4101004  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101001",
+        "size": "60X120",
+        "colorName": "SCB Flamed",
+        "raw": "60X120 SCB Flamed  4101001  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101002",
+        "size": "60X120",
+        "colorName": "SCB Crack",
+        "raw": "60X120 SCB Crack  4101002  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101006",
+        "size": "60X120",
+        "colorName": "SCB Grooved",
+        "raw": "60X120 SCB Grooved  4101006  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101007",
+        "size": "60X120",
+        "colorName": "SCB Hammered",
+        "raw": "60X120 SCB Hammered  4101007  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101005",
+        "size": "60X120",
+        "colorName": "SCB Peggy",
+        "raw": "60X120 SCB Peggy  4101005  Kerakoll KK 12  -"
+      },
+      {
+        "skuCode": "4101003",
+        "size": "60X60",
+        "colorName": "SCB Crack",
+        "raw": "60X60 SCB Crack  4101003  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4100999",
+        "size": "30X60",
+        "colorName": "SCB Natural",
+        "raw": "30X60 SCB Natural  4100999  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101010",
+        "size": "7.5X120",
+        "colorName": "SCB Natural",
+        "raw": "7,5X120 SCB Natural  4101010  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101011",
+        "size": "20X80",
+        "colorName": "SCB Chevron",
+        "raw": "20X80 SCB Chevron  4101011  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101008",
+        "size": "7.5X60",
+        "colorName": "SCB Mix",
+        "raw": "7,5X60 SCB Mix  4101008  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101009",
+        "size": "30X30",
+        "colorName": "SCB Mosaic Mix",
+        "raw": "30X30 SCB Mosaic Mix  4101009  Mapei 111 Silver Grey  NCS S 1505-Y40R"
+      },
+      {
+        "skuCode": "4101016",
+        "size": "10X40",
+        "colorName": "SCB Pli Bianco",
+        "raw": "10X40 SCB Pli Bianco  4101016  Kerakoll KK 2  NCS S 0300-N"
+      },
+      {
+        "skuCode": "4101015",
+        "size": "10X40",
+        "colorName": "SCB Pli Verde",
+        "raw": "10X40 SCB Pli Verde  4101015  Kerakoll KK 50  NCS S 3060-G10YSUPERCLASSICA SCG"
+      },
+      {
+        "skuCode": "4101143",
+        "size": "80X80",
+        "colorName": "SCG Crack",
+        "raw": "80X80 SCG Crack  4101143  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101136",
+        "size": "60X120",
+        "colorName": "SCG Natural",
+        "raw": "60X120 SCG Natural  4101136  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101145",
+        "size": "60X120",
+        "colorName": "SCG Polished",
+        "raw": "60X120 SCG Polished  4101145  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101139",
+        "size": "60X120",
+        "colorName": "SCG Flamed",
+        "raw": "60X120 SCG Flamed  4101139  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101142",
+        "size": "60X120",
+        "colorName": "SCG Crack",
+        "raw": "60X120 SCG Crack  4101142  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101141",
+        "size": "60X120",
+        "colorName": "SCG Grooved",
+        "raw": "60X120 SCG Grooved  4101141  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101140",
+        "size": "60X120",
+        "colorName": "SCG Hammered",
+        "raw": "60X120 SCG Hammered  4101140  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101146",
+        "size": "60X120",
+        "colorName": "SCG Patchy",
+        "raw": "60X120 SCG Patchy  4101146  Mapei 111 Silver Grey  -"
+      },
+      {
+        "skuCode": "4101144",
+        "size": "60X60",
+        "colorName": "SCG Crack",
+        "raw": "60X60 SCG Crack  4101144  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101137",
+        "size": "30X60",
+        "colorName": "SCG Natural",
+        "raw": "30X60 SCG Natural  4101137  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101147",
+        "size": "7.5X120",
+        "colorName": "SCG Natural",
+        "raw": "7,5X120 SCG Natural  4101147  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101149",
+        "size": "20X80",
+        "colorName": "SCG Chevron",
+        "raw": "20X80 SCG Chevron  4101149  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101148",
+        "size": "7.5X60",
+        "colorName": "SCG Mix",
+        "raw": "7,5X60 SCG Mix  4101148  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101150",
+        "size": "30X30",
+        "colorName": "SCG Mosaic Mix",
+        "raw": "30X30 SCG Mosaic Mix  4101150  Mapei 111 Silver Grey  NCS S 1502-Y"
+      },
+      {
+        "skuCode": "4101093",
+        "size": "5X15",
+        "colorName": "Riviera White",
+        "raw": "5X15 Riviera White  4101093  Kerakoll KK 2  NCS S 0500-N"
+      },
+      {
+        "skuCode": "4101095",
+        "size": "5X15",
+        "colorName": "Riviera Lobster",
+        "raw": "5X15 Riviera Lobster  4101095  Mapei 145 Terra di Siena  N CS S 2070-Y80R"
+      },
+      {
+        "skuCode": "4101096",
+        "size": "5X15",
+        "colorName": "Riviera Azure",
+        "raw": "5X15 Riviera Azure  4101096  Kerakoll KK 6  NCS S 1515-B"
+      },
+      {
+        "skuCode": "4101098",
+        "size": "5X15",
+        "colorName": "Riviera Beige",
+        "raw": "5X15 Riviera Beige  4101098  Mapei 130 Jasmine  NCS S 1005-Y20R"
+      },
+      {
+        "skuCode": "4101099",
+        "size": "5X15",
+        "colorName": "Riviera Pineta",
+        "raw": "5X15 Riviera Pineta  4101099  Mapei 119 London Grey  NCS S 7020-B90G"
+      }
+    ],
+    "superclassica-scw": [
+      {
+        "skuCode": "4101020",
+        "size": "60X120",
+        "colorName": "SCW Natural",
+        "raw": "60X120 SCW Natural  4101020  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101027",
+        "size": "60X120",
+        "colorName": "SCW Polished",
+        "raw": "60X120 SCW Polished  4101027  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101023",
+        "size": "60X120",
+        "colorName": "SCW Flamed",
+        "raw": "60X120 SCW Flamed  4101023  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101025",
+        "size": "60X120",
+        "colorName": "SCW Grooved",
+        "raw": "60X120 SCW Grooved  4101025  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101024",
+        "size": "60X120",
+        "colorName": "SCW Hammered",
+        "raw": "60X120 SCW Hammered  4101024  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101028",
+        "size": "60X120",
+        "colorName": "SCW Happy",
+        "raw": "60X120 SCW Happy  4101028  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101031",
+        "size": "60X60",
+        "colorName": "SCW Honed",
+        "raw": "60X60 SCW Honed  4101031  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101021",
+        "size": "30X60",
+        "colorName": "SCW Natural",
+        "raw": "30X60 SCW Natural  4101021  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101029",
+        "size": "7.5X120",
+        "colorName": "SCW Natural",
+        "raw": "7,5X120 SCW Natural  4101029  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101030",
+        "size": "20X80",
+        "colorName": "SCW Chevron",
+        "raw": "20X80 SCW Chevron  4101030  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101037",
+        "size": "7.5X60",
+        "colorName": "SCW Mix",
+        "raw": "7,5X60 SCW Mix  4101037  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101053",
+        "size": "30X30",
+        "colorName": "SCW Mosaic Mix",
+        "raw": "30X30 SCW Mosaic Mix  4101053  Kerakoll KK 2  NCS S 1002-Y"
+      },
+      {
+        "skuCode": "4101120",
+        "size": "120X120",
+        "colorName": "*Two 05",
+        "raw": "120X120 *Two 05  4101120  Kerakoll KK 12  -"
+      },
+      {
+        "skuCode": "4101121",
+        "size": "120X120",
+        "colorName": "*Two 06",
+        "raw": "120X120 *Two 06  4101121  Kerakoll KK 83  -"
+      }
+    ],
+    "supreme": [
+      {
+        "skuCode": "4100503",
+        "size": "60X120",
+        "colorName": "Supreme",
+        "raw": "60X120 Supreme 4100503  Kerakoll KK 2 / KK 12  -"
+      }
+    ],
+    "technicolor": [
+      {
+        "skuCode": "4100321",
+        "size": "7.5X15",
+        "colorName": "WigWag White",
+        "raw": "7,5X15 WigWag White   4100321  Kerakoll KK 2  NCS S 0502-Y"
+      },
+      {
+        "skuCode": "4100322",
+        "size": "7.5X15",
+        "colorName": "WigWag Grey",
+        "raw": "7,5X15 WigWag Grey   4100322  Kerakoll KK 6  NCS S 2502-G"
+      },
+      {
+        "skuCode": "4100323",
+        "size": "7.5X15",
+        "colorName": "WigWag Mud",
+        "raw": "7,5X15 WigWag Mud   4100323  Kerakoll KK 8  NCS S 4005-Y20R"
+      },
+      {
+        "skuCode": "4100324",
+        "size": "7.5X15",
+        "colorName": "WigWag Black",
+        "raw": "7,5X15 WigWag Black   4100324  Kerakoll KK 12  NCS S 8000-N"
+      }
+    ],
+    "two": [
+      {
+        "skuCode": "4101116",
+        "size": "120X120",
+        "colorName": "*Two 01",
+        "raw": "120X120 *Two 01  4101116  Mapei 130 Jasmine  -"
+      },
+      {
+        "skuCode": "4101117",
+        "size": "120X120",
+        "colorName": "*Two 02",
+        "raw": "120X120 *Two 02  4101117  Mapei 137 Caribbean  -"
+      },
+      {
+        "skuCode": "4101118",
+        "size": "120X120",
+        "colorName": "*Two 03",
+        "raw": "120X120 *Two 03  4101118  Kerakoll KK 107  -"
+      },
+      {
+        "skuCode": "4101119",
+        "size": "120X120",
+        "colorName": "*Two 04",
+        "raw": "120X120 *Two 04  4101119  Kerakoll KK 4  -*Use only cementitious grouts"
+      }
+    ]
+  }
+}

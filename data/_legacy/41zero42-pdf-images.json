@@ -1,0 +1,507 @@
+{
+  "meta": {
+    "generatedAt": "2026-04-06T11:15:00+08:00",
+    "totalImages": 353,
+    "totalSize": "125MB",
+    "source": "41zero42 PDF Catalogues"
+  },
+  "collections": {
+    "stories": {
+      "name": "Stories",
+      "nameCn": "故事系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/stories/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/stories/page004_img000.jpeg",
+          "/images/41zero42-pdf/stories/page004_img001.jpeg",
+          "/images/41zero42-pdf/stories/page005_img000.jpeg",
+          "/images/41zero42-pdf/stories/page011_img000.jpeg",
+          "/images/41zero42-pdf/stories/page012_img000.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/stories/page007_img000.jpeg",
+          "/images/41zero42-pdf/stories/page008_img000.jpeg",
+          "/images/41zero42-pdf/stories/page010_img000.jpeg",
+          "/images/41zero42-pdf/stories/page014_img000.jpeg",
+          "/images/41zero42-pdf/stories/page015_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/stories/page002_img000.jpeg",
+          "/images/41zero42-pdf/stories/page003_img000.jpeg",
+          "/images/41zero42-pdf/stories/page004_img000.jpeg",
+          "/images/41zero42-pdf/stories/page004_img001.jpeg",
+          "/images/41zero42-pdf/stories/page005_img000.jpeg",
+          "/images/41zero42-pdf/stories/page005_img001.jpeg",
+          "/images/41zero42-pdf/stories/page006_img000.jpeg",
+          "/images/41zero42-pdf/stories/page006_img001.jpeg",
+          "/images/41zero42-pdf/stories/page007_img000.jpeg",
+          "/images/41zero42-pdf/stories/page008_img000.jpeg",
+          "/images/41zero42-pdf/stories/page008_img001.jpeg",
+          "/images/41zero42-pdf/stories/page009_img000.jpeg",
+          "/images/41zero42-pdf/stories/page009_img001.jpeg",
+          "/images/41zero42-pdf/stories/page010_img000.jpeg",
+          "/images/41zero42-pdf/stories/page011_img000.jpeg",
+          "/images/41zero42-pdf/stories/page011_img001.jpeg",
+          "/images/41zero42-pdf/stories/page012_img000.jpeg",
+          "/images/41zero42-pdf/stories/page012_img001.jpeg",
+          "/images/41zero42-pdf/stories/page013_img000.jpeg",
+          "/images/41zero42-pdf/stories/page014_img000.jpeg",
+          "/images/41zero42-pdf/stories/page014_img001.jpeg",
+          "/images/41zero42-pdf/stories/page015_img000.jpeg",
+          "/images/41zero42-pdf/stories/page015_img001.jpeg",
+          "/images/41zero42-pdf/stories/page016_img000.jpeg",
+          "/images/41zero42-pdf/stories/page017_img000.jpeg",
+          "/images/41zero42-pdf/stories/page017_img001.jpeg",
+          "/images/41zero42-pdf/stories/page017_img002.jpeg",
+          "/images/41zero42-pdf/stories/page017_img003.jpeg"
+        ]
+      },
+      "imageCount": 28
+    },
+    "nok": {
+      "name": "Nok",
+      "nameCn": "诺克系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/nok/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/nok/page004_img000.jpeg",
+          "/images/41zero42-pdf/nok/page004_img001.jpeg",
+          "/images/41zero42-pdf/nok/page008_img000.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/nok/page005_img000.jpeg",
+          "/images/41zero42-pdf/nok/page007_img000.jpeg",
+          "/images/41zero42-pdf/nok/page010_img000.jpeg",
+          "/images/41zero42-pdf/nok/page012_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/nok/page002_img000.jpeg",
+          "/images/41zero42-pdf/nok/page003_img000.jpeg",
+          "/images/41zero42-pdf/nok/page004_img000.jpeg",
+          "/images/41zero42-pdf/nok/page004_img001.jpeg",
+          "/images/41zero42-pdf/nok/page005_img000.jpeg",
+          "/images/41zero42-pdf/nok/page006_img000.jpeg",
+          "/images/41zero42-pdf/nok/page006_img001.jpeg",
+          "/images/41zero42-pdf/nok/page007_img000.jpeg",
+          "/images/41zero42-pdf/nok/page007_img001.jpeg",
+          "/images/41zero42-pdf/nok/page008_img000.jpeg",
+          "/images/41zero42-pdf/nok/page009_img000.jpeg",
+          "/images/41zero42-pdf/nok/page009_img001.jpeg",
+          "/images/41zero42-pdf/nok/page010_img000.jpeg",
+          "/images/41zero42-pdf/nok/page010_img001.jpeg",
+          "/images/41zero42-pdf/nok/page011_img000.jpeg",
+          "/images/41zero42-pdf/nok/page011_img001.jpeg",
+          "/images/41zero42-pdf/nok/page012_img000.jpeg",
+          "/images/41zero42-pdf/nok/page013_img000.jpeg",
+          "/images/41zero42-pdf/nok/page013_img001.jpeg",
+          "/images/41zero42-pdf/nok/page014_img000.jpeg",
+          "/images/41zero42-pdf/nok/page014_img001.jpeg",
+          "/images/41zero42-pdf/nok/page015_img000.jpeg",
+          "/images/41zero42-pdf/nok/page016_img003.jpeg",
+          "/images/41zero42-pdf/nok/page016_img022.jpeg",
+          "/images/41zero42-pdf/nok/page016_img023.jpeg",
+          "/images/41zero42-pdf/nok/page016_img027.jpeg",
+          "/images/41zero42-pdf/nok/page017_img000.jpeg",
+          "/images/41zero42-pdf/nok/page017_img001.jpeg"
+        ]
+      },
+      "imageCount": 28
+    },
+    "biscuit": {
+      "name": "Biscuit",
+      "nameCn": "饼干系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/biscuit/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/biscuit/page004_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page004_img001.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/biscuit/page006_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page008_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page010_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/biscuit/page002_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page003_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page003_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page004_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page004_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page005_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page005_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page006_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page006_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page007_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page007_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page008_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page008_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page009_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page009_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page010_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page010_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page011_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page011_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page012_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page012_img001.jpeg",
+          "/images/41zero42-pdf/biscuit/page013_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page014_img000.jpeg",
+          "/images/41zero42-pdf/biscuit/page014_img001.jpeg"
+        ]
+      },
+      "imageCount": 24
+    },
+    "futura": {
+      "name": "Futura",
+      "nameCn": "未来系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/futura/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/futura/page004_img000.jpeg",
+          "/images/41zero42-pdf/futura/page004_img001.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/futura/page006_img000.jpeg",
+          "/images/41zero42-pdf/futura/page008_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/futura/page002_img000.jpeg",
+          "/images/41zero42-pdf/futura/page003_img000.jpeg",
+          "/images/41zero42-pdf/futura/page003_img001.jpeg",
+          "/images/41zero42-pdf/futura/page004_img000.jpeg",
+          "/images/41zero42-pdf/futura/page004_img001.jpeg",
+          "/images/41zero42-pdf/futura/page005_img000.jpeg",
+          "/images/41zero42-pdf/futura/page005_img001.jpeg",
+          "/images/41zero42-pdf/futura/page006_img000.jpeg",
+          "/images/41zero42-pdf/futura/page007_img000.jpeg",
+          "/images/41zero42-pdf/futura/page007_img001.jpeg",
+          "/images/41zero42-pdf/futura/page008_img000.jpeg",
+          "/images/41zero42-pdf/futura/page008_img001.jpeg",
+          "/images/41zero42-pdf/futura/page009_img000.jpeg",
+          "/images/41zero42-pdf/futura/page009_img001.jpeg",
+          "/images/41zero42-pdf/futura/page010_img000.jpeg",
+          "/images/41zero42-pdf/futura/page010_img001.jpeg"
+        ]
+      },
+      "imageCount": 16
+    },
+    "dandy": {
+      "name": "Dandy",
+      "nameCn": "丹迪系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/dandy/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/dandy/page004_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page005_img000.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/dandy/page007_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page011_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page013_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/dandy/page002_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page003_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page004_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page004_img001.jpeg",
+          "/images/41zero42-pdf/dandy/page005_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page005_img001.jpeg",
+          "/images/41zero42-pdf/dandy/page006_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page006_img001.jpeg",
+          "/images/41zero42-pdf/dandy/page007_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page007_img001.jpeg",
+          "/images/41zero42-pdf/dandy/page008_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page009_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page009_img001.jpeg",
+          "/images/41zero42-pdf/dandy/page011_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page011_img001.jpeg",
+          "/images/41zero42-pdf/dandy/page012_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page013_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page014_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page014_img001.jpeg",
+          "/images/41zero42-pdf/dandy/page014_img002.jpeg",
+          "/images/41zero42-pdf/dandy/page014_img003.jpeg",
+          "/images/41zero42-pdf/dandy/page014_img004.jpeg",
+          "/images/41zero42-pdf/dandy/page015_img000.jpeg",
+          "/images/41zero42-pdf/dandy/page015_img001.jpeg",
+          "/images/41zero42-pdf/dandy/page015_img002.jpeg",
+          "/images/41zero42-pdf/dandy/page015_img003.jpeg",
+          "/images/41zero42-pdf/dandy/page015_img004.jpeg"
+        ]
+      },
+      "imageCount": 27
+    },
+    "mou": {
+      "name": "Mou",
+      "nameCn": "慕系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/mou/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/mou/page004_img000.jpeg",
+          "/images/41zero42-pdf/mou/page004_img001.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/mou/page006_img000.jpeg",
+          "/images/41zero42-pdf/mou/page008_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/mou/page002_img000.jpeg",
+          "/images/41zero42-pdf/mou/page003_img000.jpeg",
+          "/images/41zero42-pdf/mou/page004_img000.jpeg",
+          "/images/41zero42-pdf/mou/page004_img001.jpeg",
+          "/images/41zero42-pdf/mou/page005_img000.jpeg",
+          "/images/41zero42-pdf/mou/page006_img000.jpeg",
+          "/images/41zero42-pdf/mou/page006_img001.jpeg",
+          "/images/41zero42-pdf/mou/page007_img000.jpeg",
+          "/images/41zero42-pdf/mou/page008_img000.jpeg",
+          "/images/41zero42-pdf/mou/page008_img001.jpeg"
+        ]
+      },
+      "imageCount": 10
+    },
+    "spectre": {
+      "name": "Spectre",
+      "nameCn": "幻影系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/spectre/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/spectre/page004_img000.jpeg",
+          "/images/41zero42-pdf/spectre/page004_img001.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/spectre/page006_img000.jpeg",
+          "/images/41zero42-pdf/spectre/page007_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/spectre/page002_img000.jpeg",
+          "/images/41zero42-pdf/spectre/page003_img000.jpeg",
+          "/images/41zero42-pdf/spectre/page003_img001.jpeg",
+          "/images/41zero42-pdf/spectre/page003_img002.jpeg",
+          "/images/41zero42-pdf/spectre/page004_img000.jpeg",
+          "/images/41zero42-pdf/spectre/page004_img001.jpeg",
+          "/images/41zero42-pdf/spectre/page005_img000.jpeg",
+          "/images/41zero42-pdf/spectre/page006_img000.jpeg",
+          "/images/41zero42-pdf/spectre/page006_img001.jpeg",
+          "/images/41zero42-pdf/spectre/page007_img000.jpeg",
+          "/images/41zero42-pdf/spectre/page007_img001.jpeg"
+        ]
+      },
+      "imageCount": 11
+    },
+    "superclassica-scw": {
+      "name": "Superclassica SCW",
+      "nameCn": "超级经典白色系列",
+      "images": {
+        "cover": "/images/41zero42/superclassica-scw/cover.jpg",
+        "details": [
+          "/images/41zero42/superclassica-scw/detail-01.jpg",
+          "/images/41zero42/superclassica-scw/detail-02.jpg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page026_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page026_img001.jpeg"
+        ],
+        "fromGeneralCatalogue": [
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page025_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page025_img001.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page026_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page026_img001.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page027_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page027_img001.jpeg"
+        ],
+        "note": "SCW 系列 PDF 太小 (57KB)，使用网站下载图片 + 总目录图片"
+      },
+      "imageCount": 3
+    },
+    "superclassica-scg": {
+      "name": "Superclassica SCG",
+      "nameCn": "超级经典灰色系列",
+      "images": {
+        "cover": "/images/41zero42/superclassica-scg/cover.jpg",
+        "details": [
+          "/images/41zero42/superclassica-scg/detail-01.jpg",
+          "/images/41zero42/superclassica-scg/detail-02.jpg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page028_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page028_img001.jpeg"
+        ],
+        "fromGeneralCatalogue": [
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page027_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page027_img001.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page028_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page028_img001.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page029_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page029_img001.jpeg"
+        ],
+        "note": "SCG 系列 PDF 太小 (57KB)，使用网站下载图片 + 总目录图片"
+      },
+      "imageCount": 3
+    },
+    "brutus": {
+      "name": "Brutus",
+      "nameCn": "布鲁特斯系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/brutus/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/brutus/page004_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page004_img001.jpeg",
+          "/images/41zero42-pdf/brutus/page006_img000.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/brutus/page007_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page008_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page009_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/brutus/page002_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page003_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page003_img001.jpeg",
+          "/images/41zero42-pdf/brutus/page004_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page004_img001.jpeg",
+          "/images/41zero42-pdf/brutus/page005_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page005_img001.jpeg",
+          "/images/41zero42-pdf/brutus/page006_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page007_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page007_img001.jpeg",
+          "/images/41zero42-pdf/brutus/page008_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page008_img001.jpeg",
+          "/images/41zero42-pdf/brutus/page009_img000.jpeg",
+          "/images/41zero42-pdf/brutus/page009_img001.jpeg",
+          "/images/41zero42-pdf/brutus/page009_img002.jpeg",
+          "/images/41zero42-pdf/brutus/page009_img003.jpeg",
+          "/images/41zero42-pdf/brutus/page011_img000.jpeg"
+        ]
+      },
+      "imageCount": 17
+    },
+    "paper41-pro": {
+      "name": "Paper41 Pro",
+      "nameCn": "纸 41 专业系列",
+      "images": {
+        "cover": "/images/41zero42/paper41-pro/cover.jpg",
+        "details": [
+          "/images/41zero42/paper41-pro/detail-01.jpg",
+          "/images/41zero42/paper41-pro/detail-02.jpg"
+        ],
+        "fromGeneralCatalogue": [
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page037_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page037_img001.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page038_img001.jpeg"
+        ],
+        "note": "Paper41 Pro PDF 太小 (57KB)，使用网站下载图片 + 总目录图片"
+      },
+      "imageCount": 3
+    },
+    "chicco": {
+      "name": "Chicco",
+      "nameCn": "奇科系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/chicco/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/chicco/page004_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page004_img001.jpeg",
+          "/images/41zero42-pdf/chicco/page006_img000.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/chicco/page007_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page008_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/chicco/page002_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page003_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page003_img001.jpeg",
+          "/images/41zero42-pdf/chicco/page004_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page004_img001.jpeg",
+          "/images/41zero42-pdf/chicco/page005_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page005_img001.jpeg",
+          "/images/41zero42-pdf/chicco/page006_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page006_img001.jpeg",
+          "/images/41zero42-pdf/chicco/page007_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page007_img001.jpeg",
+          "/images/41zero42-pdf/chicco/page008_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page008_img001.jpeg",
+          "/images/41zero42-pdf/chicco/page008_img002.jpeg",
+          "/images/41zero42-pdf/chicco/page008_img003.jpeg",
+          "/images/41zero42-pdf/chicco/page008_img004.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img000.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img001.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img002.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img003.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img004.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img005.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img006.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img007.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img008.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img009.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img010.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img011.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img014.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img015.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img020.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img021.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img022.jpeg",
+          "/images/41zero42-pdf/chicco/page009_img023.jpeg"
+        ]
+      },
+      "imageCount": 34
+    },
+    "pixel41": {
+      "name": "Pixel41",
+      "nameCn": "像素 41 系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/pixel41/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/pixel41/page004_img000.jpeg",
+          "/images/41zero42-pdf/pixel41/page004_img001.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/pixel41/page006_img000.jpeg",
+          "/images/41zero42-pdf/pixel41/page007_img000.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/pixel41/page002_img000.jpeg",
+          "/images/41zero42-pdf/pixel41/page003_img000.jpeg",
+          "/images/41zero42-pdf/pixel41/page003_img001.jpeg",
+          "/images/41zero42-pdf/pixel41/page004_img000.jpeg",
+          "/images/41zero42-pdf/pixel41/page004_img001.jpeg",
+          "/images/41zero42-pdf/pixel41/page005_img000.jpeg",
+          "/images/41zero42-pdf/pixel41/page005_img001.jpeg",
+          "/images/41zero42-pdf/pixel41/page006_img000.jpeg",
+          "/images/41zero42-pdf/pixel41/page006_img001.jpeg",
+          "/images/41zero42-pdf/pixel41/page007_img000.jpeg",
+          "/images/41zero42-pdf/pixel41/page007_img001.jpeg"
+        ]
+      },
+      "imageCount": 11
+    },
+    "otto": {
+      "name": "Otto",
+      "nameCn": "奥托系列",
+      "images": {
+        "cover": "/images/41zero42-pdf/otto/page002_img000.jpeg",
+        "details": [
+          "/images/41zero42-pdf/otto/page003_img000.jpeg",
+          "/images/41zero42-pdf/otto/page004_img005.jpeg"
+        ],
+        "lifestyle": [
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page045_img000.jpeg",
+          "/images/41zero42-pdf/general-catalogue-2026.pdf/page045_img001.jpeg"
+        ],
+        "all": [
+          "/images/41zero42-pdf/otto/page002_img000.jpeg",
+          "/images/41zero42-pdf/otto/page003_img000.jpeg",
+          "/images/41zero42-pdf/otto/page004_img005.jpeg"
+        ]
+      },
+      "imageCount": 3
+    }
+  },
+  "generalCatalogue": {
+    "name": "General Catalogue 2026",
+    "nameCn": "2026 总目录",
+    "imageCount": 144,
+    "path": "/images/41zero42-pdf/general-catalogue-2026.pdf/",
+    "usage": "品牌宣传、首页 Banner、系列概览"
+  }
+}

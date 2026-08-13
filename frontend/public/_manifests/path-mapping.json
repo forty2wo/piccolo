@@ -1,0 +1,87 @@
+{
+  "_comment": "对账时间 2026-08-04 (基于 git HEAD 90b27e1 + frontend/public/images/ 工作树)。位置: 2026-08-14 图片从仓库根 public/images/ 迁到 frontend/public/images/ 以匹配 Next.js 14 静态资源路径。",
+  "_method": "提取 .ts/.tsx/.json 中所有 /images/ 引用,与 frontend/public/images/ 实际文件逐条比对",
+
+  "summary": {
+    "total_unique_refs": 2007,
+    "ok": 691,
+    "missing": 1316,
+    "actual_files": 896,
+    "note": "missing 全部分布在历史目录 (41zero42-optimized / 41zero42-pdf / 41zero42 短路径),前端运行时不读这些 JSON,故线上无影响。"
+  },
+
+  "runtime_dirs": {
+    "/images/41zero42-website/": {
+      "status": "OK",
+      "refs": 611,
+      "actual_files": 611,
+      "alignment": "100%",
+      "consumers": [
+        "frontend/lib/products-data.json",
+        "frontend/components/HeroSection.tsx",
+        "其他数据 JSON 间接触达"
+      ]
+    },
+    "/images/opificio-ceramico/": {
+      "status": "OK",
+      "refs": 80,
+      "actual_files": 285,
+      "alignment": "100% (引用 80 个全有,实际另含 205 个未引用文件,无害)",
+      "consumers": [
+        "frontend/lib/opificio-products.json",
+        "frontend/lib/opificio-collections.ts"
+      ]
+    }
+  },
+
+  "legacy_dirs": {
+    "/images/41zero42-optimized/": {
+      "status": "MISSING_ALL",
+      "refs": 1044,
+      "actual_files": 0,
+      "consumers": [
+        "data/_legacy/41zero42-optimized-images.json (前端不 import)"
+      ],
+      "note": "图片已删除。命名风格为 PDF 自动抽取的 page002_img000.webp 系列,即使改前缀也对不上 41zero42-website 下的手工命名文件。"
+    },
+    "/images/41zero42-pdf/": {
+      "status": "MISSING_ALL",
+      "refs": 225,
+      "actual_files": 0,
+      "consumers": [
+        "data/_legacy/41zero42-pdf-images.json (前端不 import)"
+      ],
+      "note": "PDF 原图,已删除,仅作元数据存档。"
+    },
+    "/images/41zero42/": {
+      "status": "MISSING_ALL",
+      "refs": 42,
+      "actual_files": 0,
+      "consumers": [
+        "data/_legacy/41zero42-pdf-images.json",
+        "data/_legacy/41zero42-skus-template.json"
+      ],
+      "note": "早期短路径(全小写+连字符,例 paper41-pro)。即使大小写映射到 41zero42-website 对应目录,引用文件 (cover.jpg / detail-01.jpg 等) 在目标目录下也不存在 — 目标用品牌命名 (例 41ZERO42_BISCUIT_24_01_..._OK.jpg)。"
+    }
+  },
+
+  "case_aliasing": {
+    "_note": "41zero42-website 下部分系列存在两种命名 (空格版 + 下划线版) 并存,引用和实际都各引用各一份,运行时 100% OK。仅作记录,不做软链接以保证跨平台兼容性。",
+    "series_with_aliases": [
+      "Paper41 Lux / Paper41_Lux",
+      "Paper41 Pro / Paper41_Pro",
+      "Paper41 Up / Paper41_Up",
+      "Pietre41 Chevron / Pietre41_Chevron",
+      "Superclassica SCB / Superclassica_SCB",
+      "Superclassica SCG / Superclassica_SCG",
+      "Superclassica SCW / Superclassica_SCW",
+      "Nano Gap"
+    ]
+  },
+
+  "deployment_mapping": {
+    "next.js_serving": "代码引用 /images/... 由 frontend/public/images/ 提供静态资源。Next.js 14 dev/prod 模式都会从 public/ 目录自动 serve / 前缀的请求。",
+    "nginx": "原服务器配置 /etc/nginx/sites-enabled/piccola 将 /images/ 反代到 127.0.0.1:3000。如已部署 frontend/public/images/ 到正确位置,nginx 该 location 块可以移除;保留亦无害。",
+    "sync_command_hint": "rsync -av frontend/public/images/ user@server:/home/ubuntu/piccola/frontend/public/images/"
+  }
+}

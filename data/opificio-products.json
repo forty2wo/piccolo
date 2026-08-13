@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "source": "Opificio Ceramico",
+    "sourceUrl": "https://opificioceramico.com",
+    "exportDate": "2026-08-03",
+    "partnershipType": "Business Partner",
+    "totalCollections": 16,
+    "totalImages": 152,
+    "currency": "EUR",
+    "note": "Italian artisanal ceramic tiles - handmade extruded porcelain. Updated from official site scrape on 2026-08-03."
+  },
+  "collections": [
+    {
+      "id": "beat",
+      "name": "Beat",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [],
+          "count": 0
+        },
+        "variant": {
+          "files": [
+            "07_OpificioCeramico_Rain_Ash-1-1.jpg",
+            "13_OpificioCeramico_Rain_Clay-2.jpg",
+            "06_OpificioCeramico_Rain_Ash-2.jpg",
+            "16_OpificioCeramico_Seed_Clay-2.jpg",
+            "01_OpificioCeramico_Rain_Clay-2.jpg",
+            "10_OpificioCeramico_Seed_Snow-1.jpg",
+            "15_OpificioCeramico_Seed_Clay-2.jpg",
+            "09_OpificioCeramico_Rain_Snow-2.jpg",
+            "15_OpificioCeramico_Seed_Ash-1.jpg"
+          ],
+          "count": 9
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [
+            "designers_beat-scaled.jpg"
+          ],
+          "count": 1
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "01_OpificioCeramico_-2.jpg",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 5
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/beat-collection/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "biolith",
+      "name": "Biolith",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [],
+          "count": 0
+        },
+        "variant": {
+          "files": [
+            "08_OpificioCeramico_Rust-1-scaled.jpg",
+            "07_OpificioCeramico_Chalk-1.jpg",
+            "02_OpificioCeramico_Ebony-1.jpg",
+            "03_OpificioCeramico_Sand-1.jpg",
+            "06_OpificioCeramico_Cream.jpg",
+            "05_OpificioCeramico_LavaStone.jpg"
+          ],
+          "count": 6
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/biolith-collection/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "firenze",
+      "name": "Firenze",
+      "nameCn": "佛罗伦萨系列",
+      "designConcept": "The deep breath of history in a body with sheer hues that creates warm marbling and flourishes.",
+      "designer": "Rodolfo Dordoni",
+      "technology": "NeoClay",
+      "finishes": [
+        "MATTE"
+      ],
+      "thickness": "9.5mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": [
+        "绿色系",
+        "大地色系"
+      ],
+      "applications": [
+        "室内墙面",
+        "室内地面",
+        "商业空间"
+      ],
+      "style": [
+        "传统",
+        "地中海"
+      ],
+      "features": [
+        "Handmade",
+        "Artisanal extruded",
+        "Colored bodies",
+        "6 color pairs"
+      ],
+      "images": {
+        "cover": {
+          "files": [
+            "firenze_collezione.jpg",
+            "opificio_ceramico_collezione_firenze_cover.jpg",
+            "opificio-ceramico-firenze-cover.jpg"
+          ],
+          "count": 3
+        },
+        "lifestyle": {
+          "files": [],
+          "count": 0
+        },
+        "variant": {
+          "files": [],
+          "count": 0
+        },
+        "detail": {
+          "files": [
+            "opificio-ceramico-firenze_05.jpg",
+            "opificio-ceramico-firenze_09.jpg",
+            "opificio-ceramico-firenze_06.jpg",
+            "opificio-ceramico-firenze_08.jpg",
+            "macro-pezzi-firenze.jpg",
+            "opificio-ceramico-firenze_03.jpg",
+            "opificio-ceramico-firenze_04.jpg"
+          ],
+          "count": 7
+        },
+        "designer": {
+          "files": [
+            "rodolfo_dordoni-1.jpg"
+          ],
+          "count": 1
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/firenze-collection/",
+      "skus": [],
+      "status": "active"
+    },
+    {
+      "id": "matera",
+      "name": "Matera",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [
+            "OC_04_04_23_0171-scaled.jpg"
+          ],
+          "count": 1
+        },
+        "variant": {
+          "files": [
+            "Mattone_5-scaled.jpg",
+            "Sabbia_2-scaled.jpg",
+            "Lava_2-scaled.jpg",
+            "Pietra_1-scaled.jpg",
+            "Ebano_1-scaled.jpg",
+            "Gesso_3-scaled.jpg",
+            "Onice_1-scaled.jpg",
+            "Cemento_1-scaled.jpg"
+          ],
+          "count": 8
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/matera-collection/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "mediterranea",
+      "name": "Mediterranea",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [
+            "08_OpificioCeramico_All_Colours-1.jpg"
+          ],
+          "count": 1
+        },
+        "variant": {
+          "files": [
+            "03_OpificioCeramico_Elba.jpg",
+            "04_OpificioCeramico_Malta-1-2-scaled.jpg",
+            "07_OpificioCeramico_Lanzarote-1.jpg",
+            "11_OpificioCeramico_Malta.jpg",
+            "01_OpificioCeramico_Kos.jpg"
+          ],
+          "count": 5
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/mediterranea-collection/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "murano",
+      "name": "Murano",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [],
+          "count": 0
+        },
+        "variant": {
+          "files": [],
+          "count": 0
+        },
+        "detail": {
+          "files": [
+            "opificio-ceramico-venezia-murano_05_mod_riflesso.jpg",
+            "opificio-ceramico-venezia-murano_08.jpg",
+            "opificio-ceramico-venezia-murano_16_mod.jpg",
+            "opificio-ceramico-venezia-murano_07.jpg",
+            "opificio-ceramico-venezia-murano_06.jpg",
+            "opificio-ceramico-venezia-murano_09.jpg"
+          ],
+          "count": 6
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/collections/collezione-murano/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "pantelleria",
+      "name": "Pantelleria",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [
+            "opificio_ceramico_pantelleria_O_C_12_03_24_457.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_538_rit.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_986.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_362.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_379.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_638.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_649.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_685.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_702.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_690.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_404.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_558_rit.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_853.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_736.jpg",
+            "opificio_ceramico_pantelleria_O_C_12_03_24_782.jpg"
+          ],
+          "count": 15
+        },
+        "variant": {
+          "files": [],
+          "count": 0
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "opificio_ceramico_collezione_pantelleria_madremateria.jpg",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 5
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/pantelleria-collection/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "polignano",
+      "name": "Polignano",
+      "nameCn": "波利尼亚诺系列",
+      "designConcept": "Le mutevoli texture della sabbia e le impronte naturali scolpite dal perpetuo movimento del mare.",
+      "designer": "Opificio Ceramico",
+      "technology": "Argilla Refrattaria (Refractory Clay)",
+      "finishes": [
+        "MATTE"
+      ],
+      "thickness": "9mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": [
+        "大地色系",
+        "灰色系"
+      ],
+      "applications": [
+        "室内墙面",
+        "室内地面",
+        "户外",
+        "泳池"
+      ],
+      "style": [
+        "地中海",
+        "自然"
+      ],
+      "features": [
+        "Handmade",
+        "Artisanal extruded",
+        "Mineral flakes",
+        "Indoor/Outdoor"
+      ],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [
+            "09_OpificioCeramico_Polignano_All_Colours.jpg"
+          ],
+          "count": 1
+        },
+        "variant": {
+          "files": [
+            "03_OpificioCeramico_Polignano_Basalto.jpg",
+            "05_OpificioCeramico_Polignano_Pomice.jpg",
+            "02_OpificioCeramico_Polignano_Arenaria.jpg",
+            "06_OpificioCeramico_Polignano_Quarzo-e1739285141280.jpg"
+          ],
+          "count": 4
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/polignano-collection/",
+      "skus": [],
+      "status": "active",
+      "size": "16x16cm"
+    },
+    {
+      "id": "repetit",
+      "name": "Repetit",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [],
+          "count": 0
+        },
+        "variant": {
+          "files": [
+            "01_OpificioCeramico_Pure-White_Brick_Mapei_Moon-White-1.jpg",
+            "1_-Repetit-JPG-1.jpg",
+            "202_OpificioCeramico_SilverGrey_Mapei_CementGrey-1.jpg",
+            "02_OpificioCeramico_SilverGrey_Mapei_CementGrey-1.jpg",
+            "03_OpificioCeramico_Pure-White_Brick_Mapei_Spelt-1.jpg",
+            "09_OpificioCeramico_PureWhite_Biolith_Chalk-1-1.jpg",
+            "05_-Repetit_Brick_SilverGrey_Biolith_Ebony-1.jpg",
+            "3_-Repetit-JPG-RGB-1.jpg",
+            "06_-Repetit_Brick_SilverGrey_Biolith_Sand-1.jpg",
+            "5_-Repetit-JPG-RGB-1.jpg",
+            "12_OpificioCeramico_Brick_Biolith_Rust-1.jpg",
+            "09_OpificioCeramico_SilverGrey_Biolith_LavaStone-1-1.jpg"
+          ],
+          "count": 12
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [
+            "marco-spatti-1.jpg"
+          ],
+          "count": 1
+        },
+        "other": {
+          "files": [
+            "14_OpificioCeramico-1-1-1.jpg",
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 5
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/repetit-collection/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "reverse",
+      "name": "Reverse",
+      "nameCn": "反转系列",
+      "designConcept": "A push in unusual directions, which accentuates and enhances even what is secondary through a reverse perspective.",
+      "designer": "Cristina Pettenuzzo OTTO Studio",
+      "technology": "NeoClay",
+      "finishes": [
+        "MATTE"
+      ],
+      "thickness": "8mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": [
+        "白色系",
+        "灰色系",
+        "蓝色系",
+        "绿色系"
+      ],
+      "applications": [
+        "室内墙面",
+        "室内地面",
+        "装饰墙面"
+      ],
+      "style": [
+        "现代",
+        "创意艺术"
+      ],
+      "features": [
+        "Handmade",
+        "Artisanal extruded",
+        "Irregular shapes",
+        "Mosaic patterns"
+      ],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [],
+          "count": 0
+        },
+        "variant": {
+          "files": [
+            "12_OpificioCeramico_Zoo_Blue.jpg",
+            "11_OpificioCeramico_Hop_DarkGrey.jpg",
+            "10_OpificioCeramico_Hop_White.jpg",
+            "09_OpificioCeramico_Hop_White.jpg",
+            "02_OpificioCeramico_Trim_DarkGrey.jpg",
+            "01_OpificioCeramico_Trim_Blue.jpg",
+            "03_OpificioCeramico_Trim_DarkGrey_White.jpg",
+            "04_OpificioCeramico_Tiki_Blue.jpg",
+            "05_OpificioCeramico_Tiki_Green-2.jpg",
+            "06_OpificioCeramico_Tiki_White.jpg",
+            "13_OpificioCeramico_Zoo_White.jpg"
+          ],
+          "count": 11
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "O_C_26_02_24_154_taglio.jpg",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 5
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/reverse-collection/",
+      "skus": [],
+      "status": "active",
+      "patterns": [
+        "Hop",
+        "Trim",
+        "Tiki",
+        "Zoo"
+      ]
+    },
+    {
+      "id": "rondo",
+      "name": "Rondò",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [
+            "opificio_ceramico_rondo_O_C_12_03_24_164.jpg",
+            "opificio_ceramico_rondo_O_C_12_03_24_232_square.jpg",
+            "opificio_ceramico_rondo_O_C_12_03_24_924_vert.jpg",
+            "opificio_ceramico_rondo_O_C_12_03_24_198.jpg",
+            "opificio_ceramico_rondo_O_C_12_03_24_091_orizz.jpg",
+            "opificio_ceramico_rondo_O_C_12_03_24_018_1.jpg",
+            "opificio_ceramico_rondo_O_C_12_03_24_046.jpg",
+            "opificio_ceramico_rondo_O_C_12_03_24_273.jpg"
+          ],
+          "count": 8
+        },
+        "variant": {
+          "files": [],
+          "count": 0
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/rondo-collection/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "sanremo",
+      "name": "Sanremo",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [
+            "OC_collezione_sanremo_25_05_22_156.jpg",
+            "OC_collezione_sanremo_25_05_22_437.jpg",
+            "OC_collezione_sanremo_25_05_22_549_riflessa.jpg",
+            "OC_collezione_sanremo_25_05_22_494.jpg",
+            "OC_collezione_sanremo_25_05_22_189.jpg",
+            "OC_collezione_sanremo_25_05_22_213.jpg",
+            "OC_collezione_sanremo_25_05_22_029b.jpg"
+          ],
+          "count": 7
+        },
+        "variant": {
+          "files": [],
+          "count": 0
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "OC_25_05_22_158_vert.jpg",
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "OC_sanremo_HD_2020_0128.jpg",
+            "opificio_ceramico_collezione_sanremo_15_09_21_053-1.jpg",
+            "opificio_ceramico_collezione_sanremo_15_09_21_051.jpg",
+            "OC_sanremo_25_05_22_092.jpg",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 9
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/sanremo-collection/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "stromboli",
+      "name": "Stromboli",
+      "nameCn": "斯特龙博利火山系列",
+      "designConcept": "Fire and stone born from molten depths, shaping a landscape that never rests.",
+      "designer": "Opificio Ceramico",
+      "technology": "Ceramica Vetrificata Smaltata",
+      "finishes": [
+        "GLOSSY"
+      ],
+      "thickness": "8mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": [
+        "蓝色系",
+        "灰色系",
+        "大地色系"
+      ],
+      "applications": [
+        "室内墙面"
+      ],
+      "style": [
+        "现代",
+        "自然"
+      ],
+      "features": [
+        "Handmade",
+        "Artisanal extruded",
+        "Volcanic inspired",
+        "6 colors"
+      ],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [
+            "09_OpificioCeramico_Stromboli_All_Colours.jpg",
+            "10_OpificioCeramico_Stromboli_All_Colours_02.jpg"
+          ],
+          "count": 2
+        },
+        "variant": {
+          "files": [
+            "02_OpificioCeramico_Stromboli_Grigio_Artico.jpg",
+            "04_OpificioCeramico_Stromboli_Petrolio-e1739285160865.jpg",
+            "12_OpificioCeramico_Stromboli_mosaico_seta_biscotto_cappuccino.jpg",
+            "07_OpificioCeramico_Stromboli_Seta.jpg",
+            "05_OpificioCeramico_Stromboli_Piombo.jpg",
+            "11_OpificioCeramico_Stromboli_mosaico_piombo.jpg"
+          ],
+          "count": 6
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/stromboli-collection/",
+      "skus": [],
+      "status": "active",
+      "sizes": [
+        "5.5x27cm",
+        "1.5x11cm mosaic"
+      ]
+    },
+    {
+      "id": "torino",
+      "name": "Torino",
+      "nameCn": "",
+      "designConcept": "",
+      "designer": "",
+      "technology": "Handmade extruded ceramic",
+      "finishes": [],
+      "thickness": "",
+      "materialCategory": "Ceramic",
+      "colorFamily": [],
+      "applications": [],
+      "style": [],
+      "features": [],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [
+            "07_OpificioCeramico_Torino_All_Colours.jpg"
+          ],
+          "count": 1
+        },
+        "variant": {
+          "files": [
+            "02_OpificioCeramico_Torino_Gianduia.jpg",
+            "09_OpificioCeramico_Torino_Noir.jpg",
+            "08_OpificioCeramico_Torino_Nocciola.jpg",
+            "05_OpificioCeramico_Torino_Te_Verde.jpg",
+            "06_OpificioCeramico_Torino_Te_Verde.jpg",
+            "01_OpificioCeramico_Torino_Gianduia.jpg",
+            "03_OpificioCeramico_Torino_Latte.jpg"
+          ],
+          "count": 7
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/torino-collection/",
+      "skus": [],
+      "status": "draft"
+    },
+    {
+      "id": "venezia",
+      "name": "Venezia",
+      "nameCn": "威尼斯系列",
+      "designConcept": "A canvas suspended between water and sky that is mirrored lightly in a game of forms that are the same and opposite.",
+      "designer": "Opificio Ceramico",
+      "technology": "Gres Porcellanato Smaltato",
+      "finishes": [
+        "MATTE"
+      ],
+      "thickness": "9.5mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": [
+        "白色系",
+        "灰色系"
+      ],
+      "applications": [
+        "室内墙面",
+        "室内地面",
+        "商业空间"
+      ],
+      "style": [
+        "现代",
+        "地中海"
+      ],
+      "features": [
+        "Handmade",
+        "Artisanal extruded",
+        "Bas-reliefs",
+        "Water colors"
+      ],
+      "images": {
+        "cover": {
+          "files": [
+            "venezia_collezioni.jpg"
+          ],
+          "count": 1
+        },
+        "lifestyle": {
+          "files": [],
+          "count": 0
+        },
+        "variant": {
+          "files": [],
+          "count": 0
+        },
+        "detail": {
+          "files": [
+            "opificio-ceramico-venezia-murano_04.jpg",
+            "opificio-ceramico-venezia-murano_10_rev.jpg",
+            "opificio-ceramico-venezia-murano_02.jpg",
+            "21154-murano-venezia-VETRINETTA.jpg",
+            "opificio-ceramico-venezia-murano_12.jpg",
+            "opificio-ceramico-venezia-murano_14-riflessa.jpg",
+            "opificio-ceramico-venezia-murano_01.jpg"
+          ],
+          "count": 7
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/venezia-collection/",
+      "skus": [],
+      "status": "active",
+      "textures": [
+        "Fondaco",
+        "Rialto",
+        "Calle",
+        "Lido"
+      ]
+    },
+    {
+      "id": "venezia-cromie",
+      "name": "Venezia Cromie",
+      "nameCn": "威尼斯色彩系列",
+      "designConcept": "The variegated shades pour into the water, amidst the stucco of the buildings in a floating city.",
+      "designer": "Opificio Ceramico",
+      "technology": "Refractory Stone Fine Glazed Vitrified Ceramic",
+      "finishes": [
+        "MATTE",
+        "GLOSSY"
+      ],
+      "thickness": "9.5mm",
+      "materialCategory": "Ceramic",
+      "colorFamily": [
+        "蓝色系",
+        "绿色系",
+        "白色系",
+        "灰色系"
+      ],
+      "applications": [
+        "室内墙面",
+        "室内地面",
+        "商业空间"
+      ],
+      "style": [
+        "现代",
+        "地中海"
+      ],
+      "features": [
+        "Handmade",
+        "Artisanal extruded",
+        "12 colors inspired by Venice"
+      ],
+      "images": {
+        "cover": {
+          "files": [],
+          "count": 0
+        },
+        "lifestyle": {
+          "files": [
+            "OC_collezione_venezia_cromie_25_05_22_365a.jpg",
+            "OC_collezione_venezia_cromie_25_05_22_392.jpg",
+            "OC_collezione_venezia_cromie_25_05_22_570.jpg",
+            "OC_collezione_venezia_cromie_25_05_22_283.jpg",
+            "OC_collezione_venezia_cromie_25_05_22_338.jpg",
+            "OC_collezione_venezia_cromie_25_05_22_323.jpg",
+            "OC_collezione_venezia_cromie_25_05_22_502.jpg",
+            "OC_collezione_venezia_cromie_15_09_21_003-1.jpg",
+            "OC_collezione_venezia_cromie_25_05_22_368.jpg",
+            "OC_collezione_venezia_cromie_15_09_21_037bis.jpg",
+            "OC_collezione_venezia_cromie_15_09_21_042.jpg",
+            "OC_collezione_venezia_cromie_25_05_22_365.jpg",
+            "OC_collezione_venezia_cromie_15_09_21_030.jpg"
+          ],
+          "count": 13
+        },
+        "variant": {
+          "files": [
+            "Gloss_Lido_Turchese_1-scaled.jpg",
+            "Gloss_Calle_Nebbia_2-scaled.jpg",
+            "Gloss_Calle_Nebbia_1-scaled.jpg",
+            "Gloss_Rialto_Ardesia_1-scaled.jpg",
+            "Gloss_Lido_Antracite_1-scaled.jpg",
+            "Gloss_Lido_Antracite_2-scaled.jpg",
+            "Gloss_Fondaco_Sabbia_2-scaled.jpg",
+            "Gloss_Lido_Polvere-scaled.jpg"
+          ],
+          "count": 8
+        },
+        "detail": {
+          "files": [],
+          "count": 0
+        },
+        "designer": {
+          "files": [],
+          "count": 0
+        },
+        "other": {
+          "files": [
+            "linkedin_icona_bianca.png",
+            "pinterest_icona_bianca.png",
+            "linkedin_icona_nera.png",
+            "pinterest_icona_nera.png"
+          ],
+          "count": 4
+        }
+      },
+      "sourceUrl": "https://opificioceramico.com/en/collections/venezia-cromie-collection/",
+      "skus": [],
+      "status": "active"
+    }
+  ],
+  "piccolaMapping": {
+    "materialMapping": {
+      "Refractory Stone Fine Glazed Vitrified Ceramic": "Ceramic",
+      "Ceramica Vetrificata Smaltata": "Ceramic",
+      "NeoClay": "Ceramic",
+      "Gres Porcellanato Smaltato": "Ceramic",
+      "Argilla Refrattaria": "Ceramic"
+    },
+    "styleMapping": {
+      "现代": "Modern",
+      "地中海": "Mediterranean",
+      "传统": "Traditional",
+      "自然": "Natural",
+      "创意艺术": "Creative/Artistic"
+    }
+  },
+  "nextSteps": [
+    {
+      "action": "获取 SKU 详细数据",
+      "description": "联系 Opificio Ceramico 获取每个系列的具体 SKU 变体（颜色、尺寸、价格）",
+      "priority": "high"
+    },
+    {
+      "action": "优化图片",
+      "description": "使用 sharp 压缩图片并转换为 WebP 格式",
+      "priority": "high"
+    },
+    {
+      "action": "导入 Piccola 系统",
+      "description": "将产品数据导入 Piccola 电商系统",
+      "priority": "high"
+    }
+  ]
+}

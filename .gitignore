@@ -1,0 +1,80 @@
+# Dependencies
+node_modules/
+/vendor/
+
+# Build outputs
+dist/
+build/
+.next/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+cletile-backend
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Test
+coverage/
+*.out
+
+# Database
+*.db
+*.sqlite
+
+# --- Deployment-irrelevant, kept out of the repo ---
+
+# PM2 runtime (process manager, not deployed)
+.pm2/
+
+# Python caches (scripts/ is Python, never shipped)
+__pycache__/
+*.pyc
+*.pyo
+
+# Archived scripts (历史归档,不再使用,与部署无关)
+scripts/_archive/
+
+# Generic temp / cache / debug
+*.tmp
+*.bak
+*.pid
+.cache/
+.tmp/
+
+# Next.js sub-cache (parent .next/ already ignored)
+.next/cache/
+
+# TypeScript incremental build info
+*.tsbuildinfo
+
+# Local shell artifacts
+*.sh.swp
+.lesshst
+.bash_history
+
+# Deploy archives
+*.tar.gz
+
+# Image assets (deployed via rsync, not git; 254 MB total)
+frontend/public/images/41zero42-website/
+frontend/public/images/opificio-ceramico/

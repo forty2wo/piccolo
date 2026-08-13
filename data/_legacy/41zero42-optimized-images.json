@@ -1,0 +1,2159 @@
+{
+  "meta": {
+    "generatedAt": "2026-04-06T03:50:04.036Z",
+    "totalImages": 348,
+    "quality": 80,
+    "thumbnailSize": 400,
+    "mediumSize": 800
+  },
+  "collections": {
+    "biscuit": {
+      "name": "biscuit",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/biscuit/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/biscuit/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img001",
+          "original": "/images/41zero42-optimized/biscuit/page003_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page003_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page003_img001-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/biscuit/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/biscuit/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/biscuit/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page005_img001",
+          "original": "/images/41zero42-optimized/biscuit/page005_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page005_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page005_img001-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/biscuit/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img001",
+          "original": "/images/41zero42-optimized/biscuit/page006_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page006_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page006_img001-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/biscuit/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img001",
+          "original": "/images/41zero42-optimized/biscuit/page007_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page007_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page007_img001-medium.webp"
+        },
+        {
+          "filename": "page008_img000",
+          "original": "/images/41zero42-optimized/biscuit/page008_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page008_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page008_img000-medium.webp"
+        },
+        {
+          "filename": "page008_img001",
+          "original": "/images/41zero42-optimized/biscuit/page008_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page008_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page008_img001-medium.webp"
+        },
+        {
+          "filename": "page009_img000",
+          "original": "/images/41zero42-optimized/biscuit/page009_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page009_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page009_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img001",
+          "original": "/images/41zero42-optimized/biscuit/page009_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page009_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page009_img001-medium.webp"
+        },
+        {
+          "filename": "page010_img000",
+          "original": "/images/41zero42-optimized/biscuit/page010_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page010_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page010_img000-medium.webp"
+        },
+        {
+          "filename": "page010_img001",
+          "original": "/images/41zero42-optimized/biscuit/page010_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page010_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page010_img001-medium.webp"
+        },
+        {
+          "filename": "page011_img000",
+          "original": "/images/41zero42-optimized/biscuit/page011_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page011_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page011_img000-medium.webp"
+        },
+        {
+          "filename": "page011_img001",
+          "original": "/images/41zero42-optimized/biscuit/page011_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page011_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page011_img001-medium.webp"
+        },
+        {
+          "filename": "page012_img000",
+          "original": "/images/41zero42-optimized/biscuit/page012_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page012_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page012_img000-medium.webp"
+        },
+        {
+          "filename": "page012_img001",
+          "original": "/images/41zero42-optimized/biscuit/page012_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page012_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page012_img001-medium.webp"
+        },
+        {
+          "filename": "page013_img000",
+          "original": "/images/41zero42-optimized/biscuit/page013_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page013_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page013_img000-medium.webp"
+        },
+        {
+          "filename": "page014_img000",
+          "original": "/images/41zero42-optimized/biscuit/page014_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page014_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page014_img000-medium.webp"
+        },
+        {
+          "filename": "page014_img001",
+          "original": "/images/41zero42-optimized/biscuit/page014_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/biscuit/page014_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/biscuit/page014_img001-medium.webp"
+        }
+      ]
+    },
+    "brutus": {
+      "name": "brutus",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/brutus/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/brutus/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img001",
+          "original": "/images/41zero42-optimized/brutus/page003_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page003_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page003_img001-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/brutus/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/brutus/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/brutus/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page005_img001",
+          "original": "/images/41zero42-optimized/brutus/page005_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page005_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page005_img001-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/brutus/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/brutus/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img001",
+          "original": "/images/41zero42-optimized/brutus/page007_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page007_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page007_img001-medium.webp"
+        },
+        {
+          "filename": "page008_img000",
+          "original": "/images/41zero42-optimized/brutus/page008_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page008_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page008_img000-medium.webp"
+        },
+        {
+          "filename": "page008_img001",
+          "original": "/images/41zero42-optimized/brutus/page008_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page008_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page008_img001-medium.webp"
+        },
+        {
+          "filename": "page009_img000",
+          "original": "/images/41zero42-optimized/brutus/page009_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page009_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page009_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img001",
+          "original": "/images/41zero42-optimized/brutus/page009_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page009_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page009_img001-medium.webp"
+        },
+        {
+          "filename": "page009_img002",
+          "original": "/images/41zero42-optimized/brutus/page009_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page009_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page009_img002-medium.webp"
+        },
+        {
+          "filename": "page009_img003",
+          "original": "/images/41zero42-optimized/brutus/page009_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page009_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page009_img003-medium.webp"
+        },
+        {
+          "filename": "page011_img000",
+          "original": "/images/41zero42-optimized/brutus/page011_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/brutus/page011_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/brutus/page011_img000-medium.webp"
+        }
+      ]
+    },
+    "chicco": {
+      "name": "chicco",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/chicco/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/chicco/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img001",
+          "original": "/images/41zero42-optimized/chicco/page003_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page003_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page003_img001-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/chicco/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/chicco/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/chicco/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page005_img001",
+          "original": "/images/41zero42-optimized/chicco/page005_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page005_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page005_img001-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/chicco/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img001",
+          "original": "/images/41zero42-optimized/chicco/page006_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page006_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page006_img001-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/chicco/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img001",
+          "original": "/images/41zero42-optimized/chicco/page007_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page007_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page007_img001-medium.webp"
+        },
+        {
+          "filename": "page008_img000",
+          "original": "/images/41zero42-optimized/chicco/page008_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page008_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page008_img000-medium.webp"
+        },
+        {
+          "filename": "page008_img001",
+          "original": "/images/41zero42-optimized/chicco/page008_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page008_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page008_img001-medium.webp"
+        },
+        {
+          "filename": "page008_img002",
+          "original": "/images/41zero42-optimized/chicco/page008_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page008_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page008_img002-medium.webp"
+        },
+        {
+          "filename": "page008_img003",
+          "original": "/images/41zero42-optimized/chicco/page008_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page008_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page008_img003-medium.webp"
+        },
+        {
+          "filename": "page008_img004",
+          "original": "/images/41zero42-optimized/chicco/page008_img004.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page008_img004-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page008_img004-medium.webp"
+        },
+        {
+          "filename": "page009_img000",
+          "original": "/images/41zero42-optimized/chicco/page009_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img001",
+          "original": "/images/41zero42-optimized/chicco/page009_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img001-medium.webp"
+        },
+        {
+          "filename": "page009_img002",
+          "original": "/images/41zero42-optimized/chicco/page009_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img002-medium.webp"
+        },
+        {
+          "filename": "page009_img003",
+          "original": "/images/41zero42-optimized/chicco/page009_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img003-medium.webp"
+        },
+        {
+          "filename": "page009_img004",
+          "original": "/images/41zero42-optimized/chicco/page009_img004.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img004-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img004-medium.webp"
+        },
+        {
+          "filename": "page009_img005",
+          "original": "/images/41zero42-optimized/chicco/page009_img005.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img005-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img005-medium.webp"
+        },
+        {
+          "filename": "page009_img006",
+          "original": "/images/41zero42-optimized/chicco/page009_img006.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img006-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img006-medium.webp"
+        },
+        {
+          "filename": "page009_img007",
+          "original": "/images/41zero42-optimized/chicco/page009_img007.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img007-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img007-medium.webp"
+        },
+        {
+          "filename": "page009_img008",
+          "original": "/images/41zero42-optimized/chicco/page009_img008.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img008-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img008-medium.webp"
+        },
+        {
+          "filename": "page009_img009",
+          "original": "/images/41zero42-optimized/chicco/page009_img009.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img009-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img009-medium.webp"
+        },
+        {
+          "filename": "page009_img010",
+          "original": "/images/41zero42-optimized/chicco/page009_img010.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img010-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img010-medium.webp"
+        },
+        {
+          "filename": "page009_img011",
+          "original": "/images/41zero42-optimized/chicco/page009_img011.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img011-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img011-medium.webp"
+        },
+        {
+          "filename": "page009_img014",
+          "original": "/images/41zero42-optimized/chicco/page009_img014.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img014-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img014-medium.webp"
+        },
+        {
+          "filename": "page009_img015",
+          "original": "/images/41zero42-optimized/chicco/page009_img015.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img015-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img015-medium.webp"
+        },
+        {
+          "filename": "page009_img020",
+          "original": "/images/41zero42-optimized/chicco/page009_img020.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img020-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img020-medium.webp"
+        },
+        {
+          "filename": "page009_img021",
+          "original": "/images/41zero42-optimized/chicco/page009_img021.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img021-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img021-medium.webp"
+        },
+        {
+          "filename": "page009_img022",
+          "original": "/images/41zero42-optimized/chicco/page009_img022.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img022-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img022-medium.webp"
+        },
+        {
+          "filename": "page009_img023",
+          "original": "/images/41zero42-optimized/chicco/page009_img023.webp",
+          "thumbnail": "/images/41zero42-optimized/chicco/page009_img023-thumb.webp",
+          "medium": "/images/41zero42-optimized/chicco/page009_img023-medium.webp"
+        }
+      ]
+    },
+    "dandy": {
+      "name": "dandy",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/dandy/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/dandy/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/dandy/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/dandy/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/dandy/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page005_img001",
+          "original": "/images/41zero42-optimized/dandy/page005_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page005_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page005_img001-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/dandy/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img001",
+          "original": "/images/41zero42-optimized/dandy/page006_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page006_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page006_img001-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/dandy/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img001",
+          "original": "/images/41zero42-optimized/dandy/page007_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page007_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page007_img001-medium.webp"
+        },
+        {
+          "filename": "page008_img000",
+          "original": "/images/41zero42-optimized/dandy/page008_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page008_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page008_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img000",
+          "original": "/images/41zero42-optimized/dandy/page009_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page009_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page009_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img001",
+          "original": "/images/41zero42-optimized/dandy/page009_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page009_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page009_img001-medium.webp"
+        },
+        {
+          "filename": "page011_img000",
+          "original": "/images/41zero42-optimized/dandy/page011_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page011_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page011_img000-medium.webp"
+        },
+        {
+          "filename": "page011_img001",
+          "original": "/images/41zero42-optimized/dandy/page011_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page011_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page011_img001-medium.webp"
+        },
+        {
+          "filename": "page012_img000",
+          "original": "/images/41zero42-optimized/dandy/page012_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page012_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page012_img000-medium.webp"
+        },
+        {
+          "filename": "page013_img000",
+          "original": "/images/41zero42-optimized/dandy/page013_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page013_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page013_img000-medium.webp"
+        },
+        {
+          "filename": "page014_img000",
+          "original": "/images/41zero42-optimized/dandy/page014_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page014_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page014_img000-medium.webp"
+        },
+        {
+          "filename": "page014_img001",
+          "original": "/images/41zero42-optimized/dandy/page014_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page014_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page014_img001-medium.webp"
+        },
+        {
+          "filename": "page014_img002",
+          "original": "/images/41zero42-optimized/dandy/page014_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page014_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page014_img002-medium.webp"
+        },
+        {
+          "filename": "page014_img003",
+          "original": "/images/41zero42-optimized/dandy/page014_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page014_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page014_img003-medium.webp"
+        },
+        {
+          "filename": "page014_img004",
+          "original": "/images/41zero42-optimized/dandy/page014_img004.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page014_img004-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page014_img004-medium.webp"
+        },
+        {
+          "filename": "page015_img000",
+          "original": "/images/41zero42-optimized/dandy/page015_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page015_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page015_img000-medium.webp"
+        },
+        {
+          "filename": "page015_img001",
+          "original": "/images/41zero42-optimized/dandy/page015_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page015_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page015_img001-medium.webp"
+        },
+        {
+          "filename": "page015_img002",
+          "original": "/images/41zero42-optimized/dandy/page015_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page015_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page015_img002-medium.webp"
+        },
+        {
+          "filename": "page015_img003",
+          "original": "/images/41zero42-optimized/dandy/page015_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page015_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page015_img003-medium.webp"
+        },
+        {
+          "filename": "page015_img004",
+          "original": "/images/41zero42-optimized/dandy/page015_img004.webp",
+          "thumbnail": "/images/41zero42-optimized/dandy/page015_img004-thumb.webp",
+          "medium": "/images/41zero42-optimized/dandy/page015_img004-medium.webp"
+        }
+      ]
+    },
+    "futura": {
+      "name": "futura",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/futura/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/futura/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img001",
+          "original": "/images/41zero42-optimized/futura/page003_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page003_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page003_img001-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/futura/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/futura/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/futura/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page005_img001",
+          "original": "/images/41zero42-optimized/futura/page005_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page005_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page005_img001-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/futura/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/futura/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img001",
+          "original": "/images/41zero42-optimized/futura/page007_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page007_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page007_img001-medium.webp"
+        },
+        {
+          "filename": "page008_img000",
+          "original": "/images/41zero42-optimized/futura/page008_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page008_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page008_img000-medium.webp"
+        },
+        {
+          "filename": "page008_img001",
+          "original": "/images/41zero42-optimized/futura/page008_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page008_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page008_img001-medium.webp"
+        },
+        {
+          "filename": "page009_img000",
+          "original": "/images/41zero42-optimized/futura/page009_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page009_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page009_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img001",
+          "original": "/images/41zero42-optimized/futura/page009_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page009_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page009_img001-medium.webp"
+        },
+        {
+          "filename": "page010_img000",
+          "original": "/images/41zero42-optimized/futura/page010_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page010_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page010_img000-medium.webp"
+        },
+        {
+          "filename": "page010_img001",
+          "original": "/images/41zero42-optimized/futura/page010_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/futura/page010_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/futura/page010_img001-medium.webp"
+        }
+      ]
+    },
+    "general-catalogue-2026.pdf": {
+      "name": "general-catalogue-2026.pdf",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img001-medium.webp"
+        },
+        {
+          "filename": "page003_img002",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img002-medium.webp"
+        },
+        {
+          "filename": "page003_img003",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img003-medium.webp"
+        },
+        {
+          "filename": "page003_img004",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img004.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img004-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img004-medium.webp"
+        },
+        {
+          "filename": "page003_img005",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img005.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img005-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page003_img005-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page004_img002",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page004_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page004_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page004_img002-medium.webp"
+        },
+        {
+          "filename": "page004_img003",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page004_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page004_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page004_img003-medium.webp"
+        },
+        {
+          "filename": "page005_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page005_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page005_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page005_img001-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page007_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page007_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page007_img001-medium.webp"
+        },
+        {
+          "filename": "page008_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page008_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page008_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page008_img000-medium.webp"
+        },
+        {
+          "filename": "page008_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page008_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page008_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page008_img001-medium.webp"
+        },
+        {
+          "filename": "page009_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page009_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page009_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page009_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page009_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page009_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page009_img001-medium.webp"
+        },
+        {
+          "filename": "page010_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page010_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page010_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page010_img000-medium.webp"
+        },
+        {
+          "filename": "page011_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page011_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page011_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page011_img000-medium.webp"
+        },
+        {
+          "filename": "page011_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page011_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page011_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page011_img001-medium.webp"
+        },
+        {
+          "filename": "page012_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page012_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page012_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page012_img000-medium.webp"
+        },
+        {
+          "filename": "page012_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page012_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page012_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page012_img001-medium.webp"
+        },
+        {
+          "filename": "page015_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page015_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page015_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page015_img000-medium.webp"
+        },
+        {
+          "filename": "page015_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page015_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page015_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page015_img001-medium.webp"
+        },
+        {
+          "filename": "page016_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page016_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page016_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page016_img000-medium.webp"
+        },
+        {
+          "filename": "page016_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page016_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page016_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page016_img001-medium.webp"
+        },
+        {
+          "filename": "page017_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page017_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page017_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page017_img000-medium.webp"
+        },
+        {
+          "filename": "page017_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page017_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page017_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page017_img001-medium.webp"
+        },
+        {
+          "filename": "page018_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page018_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page018_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page018_img000-medium.webp"
+        },
+        {
+          "filename": "page018_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page018_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page018_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page018_img001-medium.webp"
+        },
+        {
+          "filename": "page019_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page019_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page019_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page019_img000-medium.webp"
+        },
+        {
+          "filename": "page019_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page019_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page019_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page019_img001-medium.webp"
+        },
+        {
+          "filename": "page020_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page020_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page020_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page020_img000-medium.webp"
+        },
+        {
+          "filename": "page020_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page020_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page020_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page020_img001-medium.webp"
+        },
+        {
+          "filename": "page021_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page021_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page021_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page021_img000-medium.webp"
+        },
+        {
+          "filename": "page021_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page021_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page021_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page021_img001-medium.webp"
+        },
+        {
+          "filename": "page022_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page022_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page022_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page022_img000-medium.webp"
+        },
+        {
+          "filename": "page022_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page022_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page022_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page022_img001-medium.webp"
+        },
+        {
+          "filename": "page023_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page023_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page023_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page023_img000-medium.webp"
+        },
+        {
+          "filename": "page023_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page023_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page023_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page023_img001-medium.webp"
+        },
+        {
+          "filename": "page024_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page024_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page024_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page024_img000-medium.webp"
+        },
+        {
+          "filename": "page025_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page025_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page025_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page025_img000-medium.webp"
+        },
+        {
+          "filename": "page025_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page025_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page025_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page025_img001-medium.webp"
+        },
+        {
+          "filename": "page026_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img000-medium.webp"
+        },
+        {
+          "filename": "page026_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img001-medium.webp"
+        },
+        {
+          "filename": "page026_img002",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img002-medium.webp"
+        },
+        {
+          "filename": "page026_img003",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page026_img003-medium.webp"
+        },
+        {
+          "filename": "page027_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page027_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page027_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page027_img000-medium.webp"
+        },
+        {
+          "filename": "page027_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page027_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page027_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page027_img001-medium.webp"
+        },
+        {
+          "filename": "page028_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page028_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page028_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page028_img000-medium.webp"
+        },
+        {
+          "filename": "page028_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page028_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page028_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page028_img001-medium.webp"
+        },
+        {
+          "filename": "page029_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page029_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page029_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page029_img000-medium.webp"
+        },
+        {
+          "filename": "page029_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page029_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page029_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page029_img001-medium.webp"
+        },
+        {
+          "filename": "page030_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page030_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page030_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page030_img000-medium.webp"
+        },
+        {
+          "filename": "page031_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page031_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page031_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page031_img000-medium.webp"
+        },
+        {
+          "filename": "page032_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page032_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page032_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page032_img000-medium.webp"
+        },
+        {
+          "filename": "page033_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page033_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page033_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page033_img000-medium.webp"
+        },
+        {
+          "filename": "page033_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page033_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page033_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page033_img001-medium.webp"
+        },
+        {
+          "filename": "page034_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page034_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page034_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page034_img000-medium.webp"
+        },
+        {
+          "filename": "page034_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page034_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page034_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page034_img001-medium.webp"
+        },
+        {
+          "filename": "page035_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page035_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page035_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page035_img000-medium.webp"
+        },
+        {
+          "filename": "page036_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page036_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page036_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page036_img000-medium.webp"
+        },
+        {
+          "filename": "page036_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page036_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page036_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page036_img001-medium.webp"
+        },
+        {
+          "filename": "page037_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page037_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page037_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page037_img000-medium.webp"
+        },
+        {
+          "filename": "page037_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page037_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page037_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page037_img001-medium.webp"
+        },
+        {
+          "filename": "page038_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page038_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page038_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page038_img001-medium.webp"
+        },
+        {
+          "filename": "page039_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page039_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page039_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page039_img000-medium.webp"
+        },
+        {
+          "filename": "page040_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page040_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page040_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page040_img000-medium.webp"
+        },
+        {
+          "filename": "page041_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page041_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page041_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page041_img000-medium.webp"
+        },
+        {
+          "filename": "page041_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page041_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page041_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page041_img001-medium.webp"
+        },
+        {
+          "filename": "page042_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page042_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page042_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page042_img000-medium.webp"
+        },
+        {
+          "filename": "page042_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page042_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page042_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page042_img001-medium.webp"
+        },
+        {
+          "filename": "page043_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page043_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page043_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page043_img000-medium.webp"
+        },
+        {
+          "filename": "page044_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page044_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page044_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page044_img000-medium.webp"
+        },
+        {
+          "filename": "page045_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page045_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page045_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page045_img000-medium.webp"
+        },
+        {
+          "filename": "page045_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page045_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page045_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page045_img001-medium.webp"
+        },
+        {
+          "filename": "page046_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page046_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page046_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page046_img000-medium.webp"
+        },
+        {
+          "filename": "page046_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page046_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page046_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page046_img001-medium.webp"
+        },
+        {
+          "filename": "page047_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page047_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page047_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page047_img000-medium.webp"
+        },
+        {
+          "filename": "page048_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page048_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page048_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page048_img000-medium.webp"
+        },
+        {
+          "filename": "page048_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page048_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page048_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page048_img001-medium.webp"
+        },
+        {
+          "filename": "page049_img004",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page049_img004.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page049_img004-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page049_img004-medium.webp"
+        },
+        {
+          "filename": "page050_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page050_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page050_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page050_img000-medium.webp"
+        },
+        {
+          "filename": "page050_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page050_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page050_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page050_img001-medium.webp"
+        },
+        {
+          "filename": "page051_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page051_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page051_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page051_img000-medium.webp"
+        },
+        {
+          "filename": "page052_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page052_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page052_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page052_img000-medium.webp"
+        },
+        {
+          "filename": "page052_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page052_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page052_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page052_img001-medium.webp"
+        },
+        {
+          "filename": "page053_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page053_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page053_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page053_img000-medium.webp"
+        },
+        {
+          "filename": "page053_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page053_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page053_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page053_img001-medium.webp"
+        },
+        {
+          "filename": "page054_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page054_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page054_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page054_img000-medium.webp"
+        },
+        {
+          "filename": "page054_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page054_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page054_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page054_img001-medium.webp"
+        },
+        {
+          "filename": "page055_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page055_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page055_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page055_img000-medium.webp"
+        },
+        {
+          "filename": "page055_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page055_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page055_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page055_img001-medium.webp"
+        },
+        {
+          "filename": "page056_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page056_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page056_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page056_img000-medium.webp"
+        },
+        {
+          "filename": "page057_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page057_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page057_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page057_img000-medium.webp"
+        },
+        {
+          "filename": "page057_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page057_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page057_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page057_img001-medium.webp"
+        },
+        {
+          "filename": "page058_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page058_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page058_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page058_img000-medium.webp"
+        },
+        {
+          "filename": "page058_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page058_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page058_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page058_img001-medium.webp"
+        },
+        {
+          "filename": "page059_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page059_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page059_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page059_img000-medium.webp"
+        },
+        {
+          "filename": "page060_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page060_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page060_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page060_img000-medium.webp"
+        },
+        {
+          "filename": "page060_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page060_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page060_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page060_img001-medium.webp"
+        },
+        {
+          "filename": "page061_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page061_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page061_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page061_img000-medium.webp"
+        },
+        {
+          "filename": "page062_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page062_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page062_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page062_img000-medium.webp"
+        },
+        {
+          "filename": "page063_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page063_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page063_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page063_img000-medium.webp"
+        },
+        {
+          "filename": "page063_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page063_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page063_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page063_img001-medium.webp"
+        },
+        {
+          "filename": "page064_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page064_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page064_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page064_img000-medium.webp"
+        },
+        {
+          "filename": "page065_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page065_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page065_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page065_img000-medium.webp"
+        },
+        {
+          "filename": "page065_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page065_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page065_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page065_img001-medium.webp"
+        },
+        {
+          "filename": "page066_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page066_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page066_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page066_img000-medium.webp"
+        },
+        {
+          "filename": "page066_img003",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page066_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page066_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page066_img003-medium.webp"
+        },
+        {
+          "filename": "page067_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page067_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page067_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page067_img000-medium.webp"
+        },
+        {
+          "filename": "page067_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page067_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page067_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page067_img001-medium.webp"
+        },
+        {
+          "filename": "page068_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page068_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page068_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page068_img000-medium.webp"
+        },
+        {
+          "filename": "page068_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page068_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page068_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page068_img001-medium.webp"
+        },
+        {
+          "filename": "page069_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page069_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page069_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page069_img000-medium.webp"
+        },
+        {
+          "filename": "page069_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page069_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page069_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page069_img001-medium.webp"
+        },
+        {
+          "filename": "page070_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page070_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page070_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page070_img000-medium.webp"
+        },
+        {
+          "filename": "page071_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page071_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page071_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page071_img000-medium.webp"
+        },
+        {
+          "filename": "page071_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page071_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page071_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page071_img001-medium.webp"
+        },
+        {
+          "filename": "page072_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page072_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page072_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page072_img000-medium.webp"
+        },
+        {
+          "filename": "page072_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page072_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page072_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page072_img001-medium.webp"
+        },
+        {
+          "filename": "page073_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page073_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page073_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page073_img000-medium.webp"
+        },
+        {
+          "filename": "page073_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page073_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page073_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page073_img001-medium.webp"
+        },
+        {
+          "filename": "page074_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page074_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page074_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page074_img000-medium.webp"
+        },
+        {
+          "filename": "page074_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page074_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page074_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page074_img001-medium.webp"
+        },
+        {
+          "filename": "page075_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page075_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page075_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page075_img000-medium.webp"
+        },
+        {
+          "filename": "page077_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page077_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page077_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page077_img001-medium.webp"
+        },
+        {
+          "filename": "page079_img004",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img004.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img004-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img004-medium.webp"
+        },
+        {
+          "filename": "page079_img006",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img006.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img006-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img006-medium.webp"
+        },
+        {
+          "filename": "page079_img008",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img008.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img008-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img008-medium.webp"
+        },
+        {
+          "filename": "page079_img009",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img009.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img009-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page079_img009-medium.webp"
+        },
+        {
+          "filename": "page083_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page083_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page083_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page083_img001-medium.webp"
+        },
+        {
+          "filename": "page089_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page089_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page089_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page089_img001-medium.webp"
+        },
+        {
+          "filename": "page102_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page102_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page102_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page102_img000-medium.webp"
+        },
+        {
+          "filename": "page103_img000",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img000-medium.webp"
+        },
+        {
+          "filename": "page103_img001",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img001-medium.webp"
+        },
+        {
+          "filename": "page103_img002",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img002-medium.webp"
+        },
+        {
+          "filename": "page103_img003",
+          "original": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/general-catalogue-2026.pdf/page103_img003-medium.webp"
+        }
+      ]
+    },
+    "mou": {
+      "name": "mou",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/mou/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/mou/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/mou/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/mou/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/mou/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/mou/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img001",
+          "original": "/images/41zero42-optimized/mou/page006_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page006_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page006_img001-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/mou/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page008_img000",
+          "original": "/images/41zero42-optimized/mou/page008_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page008_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page008_img000-medium.webp"
+        },
+        {
+          "filename": "page008_img001",
+          "original": "/images/41zero42-optimized/mou/page008_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/mou/page008_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/mou/page008_img001-medium.webp"
+        }
+      ]
+    },
+    "nok": {
+      "name": "nok",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/nok/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/nok/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/nok/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/nok/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/nok/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/nok/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img001",
+          "original": "/images/41zero42-optimized/nok/page006_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page006_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page006_img001-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/nok/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img001",
+          "original": "/images/41zero42-optimized/nok/page007_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page007_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page007_img001-medium.webp"
+        },
+        {
+          "filename": "page008_img000",
+          "original": "/images/41zero42-optimized/nok/page008_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page008_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page008_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img000",
+          "original": "/images/41zero42-optimized/nok/page009_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page009_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page009_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img001",
+          "original": "/images/41zero42-optimized/nok/page009_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page009_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page009_img001-medium.webp"
+        },
+        {
+          "filename": "page010_img000",
+          "original": "/images/41zero42-optimized/nok/page010_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page010_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page010_img000-medium.webp"
+        },
+        {
+          "filename": "page010_img001",
+          "original": "/images/41zero42-optimized/nok/page010_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page010_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page010_img001-medium.webp"
+        },
+        {
+          "filename": "page011_img000",
+          "original": "/images/41zero42-optimized/nok/page011_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page011_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page011_img000-medium.webp"
+        },
+        {
+          "filename": "page011_img001",
+          "original": "/images/41zero42-optimized/nok/page011_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page011_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page011_img001-medium.webp"
+        },
+        {
+          "filename": "page012_img000",
+          "original": "/images/41zero42-optimized/nok/page012_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page012_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page012_img000-medium.webp"
+        },
+        {
+          "filename": "page013_img000",
+          "original": "/images/41zero42-optimized/nok/page013_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page013_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page013_img000-medium.webp"
+        },
+        {
+          "filename": "page013_img001",
+          "original": "/images/41zero42-optimized/nok/page013_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page013_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page013_img001-medium.webp"
+        },
+        {
+          "filename": "page014_img000",
+          "original": "/images/41zero42-optimized/nok/page014_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page014_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page014_img000-medium.webp"
+        },
+        {
+          "filename": "page014_img001",
+          "original": "/images/41zero42-optimized/nok/page014_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page014_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page014_img001-medium.webp"
+        },
+        {
+          "filename": "page015_img000",
+          "original": "/images/41zero42-optimized/nok/page015_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page015_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page015_img000-medium.webp"
+        },
+        {
+          "filename": "page016_img003",
+          "original": "/images/41zero42-optimized/nok/page016_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page016_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page016_img003-medium.webp"
+        },
+        {
+          "filename": "page016_img022",
+          "original": "/images/41zero42-optimized/nok/page016_img022.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page016_img022-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page016_img022-medium.webp"
+        },
+        {
+          "filename": "page016_img023",
+          "original": "/images/41zero42-optimized/nok/page016_img023.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page016_img023-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page016_img023-medium.webp"
+        },
+        {
+          "filename": "page016_img027",
+          "original": "/images/41zero42-optimized/nok/page016_img027.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page016_img027-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page016_img027-medium.webp"
+        },
+        {
+          "filename": "page017_img000",
+          "original": "/images/41zero42-optimized/nok/page017_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page017_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page017_img000-medium.webp"
+        },
+        {
+          "filename": "page017_img001",
+          "original": "/images/41zero42-optimized/nok/page017_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/nok/page017_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/nok/page017_img001-medium.webp"
+        }
+      ]
+    },
+    "otto": {
+      "name": "otto",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/otto/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/otto/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/otto/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/otto/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/otto/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/otto/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img005",
+          "original": "/images/41zero42-optimized/otto/page004_img005.webp",
+          "thumbnail": "/images/41zero42-optimized/otto/page004_img005-thumb.webp",
+          "medium": "/images/41zero42-optimized/otto/page004_img005-medium.webp"
+        }
+      ]
+    },
+    "pixel41": {
+      "name": "pixel41",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/pixel41/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/pixel41/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img001",
+          "original": "/images/41zero42-optimized/pixel41/page003_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page003_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page003_img001-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/pixel41/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/pixel41/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/pixel41/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page005_img001",
+          "original": "/images/41zero42-optimized/pixel41/page005_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page005_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page005_img001-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/pixel41/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img001",
+          "original": "/images/41zero42-optimized/pixel41/page006_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page006_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page006_img001-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/pixel41/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img001",
+          "original": "/images/41zero42-optimized/pixel41/page007_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/pixel41/page007_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/pixel41/page007_img001-medium.webp"
+        }
+      ]
+    },
+    "spectre": {
+      "name": "spectre",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/spectre/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/spectre/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img001",
+          "original": "/images/41zero42-optimized/spectre/page003_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page003_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page003_img001-medium.webp"
+        },
+        {
+          "filename": "page003_img002",
+          "original": "/images/41zero42-optimized/spectre/page003_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page003_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page003_img002-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/spectre/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/spectre/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/spectre/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/spectre/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img001",
+          "original": "/images/41zero42-optimized/spectre/page006_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page006_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page006_img001-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/spectre/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page007_img001",
+          "original": "/images/41zero42-optimized/spectre/page007_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/spectre/page007_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/spectre/page007_img001-medium.webp"
+        }
+      ]
+    },
+    "stories": {
+      "name": "stories",
+      "images": [
+        {
+          "filename": "page002_img000",
+          "original": "/images/41zero42-optimized/stories/page002_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page002_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page002_img000-medium.webp"
+        },
+        {
+          "filename": "page003_img000",
+          "original": "/images/41zero42-optimized/stories/page003_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page003_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page003_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img000",
+          "original": "/images/41zero42-optimized/stories/page004_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page004_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page004_img000-medium.webp"
+        },
+        {
+          "filename": "page004_img001",
+          "original": "/images/41zero42-optimized/stories/page004_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page004_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page004_img001-medium.webp"
+        },
+        {
+          "filename": "page005_img000",
+          "original": "/images/41zero42-optimized/stories/page005_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page005_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page005_img000-medium.webp"
+        },
+        {
+          "filename": "page005_img001",
+          "original": "/images/41zero42-optimized/stories/page005_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page005_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page005_img001-medium.webp"
+        },
+        {
+          "filename": "page006_img000",
+          "original": "/images/41zero42-optimized/stories/page006_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page006_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page006_img000-medium.webp"
+        },
+        {
+          "filename": "page006_img001",
+          "original": "/images/41zero42-optimized/stories/page006_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page006_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page006_img001-medium.webp"
+        },
+        {
+          "filename": "page007_img000",
+          "original": "/images/41zero42-optimized/stories/page007_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page007_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page007_img000-medium.webp"
+        },
+        {
+          "filename": "page008_img000",
+          "original": "/images/41zero42-optimized/stories/page008_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page008_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page008_img000-medium.webp"
+        },
+        {
+          "filename": "page008_img001",
+          "original": "/images/41zero42-optimized/stories/page008_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page008_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page008_img001-medium.webp"
+        },
+        {
+          "filename": "page009_img000",
+          "original": "/images/41zero42-optimized/stories/page009_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page009_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page009_img000-medium.webp"
+        },
+        {
+          "filename": "page009_img001",
+          "original": "/images/41zero42-optimized/stories/page009_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page009_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page009_img001-medium.webp"
+        },
+        {
+          "filename": "page010_img000",
+          "original": "/images/41zero42-optimized/stories/page010_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page010_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page010_img000-medium.webp"
+        },
+        {
+          "filename": "page011_img000",
+          "original": "/images/41zero42-optimized/stories/page011_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page011_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page011_img000-medium.webp"
+        },
+        {
+          "filename": "page011_img001",
+          "original": "/images/41zero42-optimized/stories/page011_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page011_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page011_img001-medium.webp"
+        },
+        {
+          "filename": "page012_img000",
+          "original": "/images/41zero42-optimized/stories/page012_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page012_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page012_img000-medium.webp"
+        },
+        {
+          "filename": "page012_img001",
+          "original": "/images/41zero42-optimized/stories/page012_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page012_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page012_img001-medium.webp"
+        },
+        {
+          "filename": "page013_img000",
+          "original": "/images/41zero42-optimized/stories/page013_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page013_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page013_img000-medium.webp"
+        },
+        {
+          "filename": "page014_img000",
+          "original": "/images/41zero42-optimized/stories/page014_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page014_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page014_img000-medium.webp"
+        },
+        {
+          "filename": "page014_img001",
+          "original": "/images/41zero42-optimized/stories/page014_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page014_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page014_img001-medium.webp"
+        },
+        {
+          "filename": "page015_img000",
+          "original": "/images/41zero42-optimized/stories/page015_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page015_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page015_img000-medium.webp"
+        },
+        {
+          "filename": "page015_img001",
+          "original": "/images/41zero42-optimized/stories/page015_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page015_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page015_img001-medium.webp"
+        },
+        {
+          "filename": "page016_img000",
+          "original": "/images/41zero42-optimized/stories/page016_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page016_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page016_img000-medium.webp"
+        },
+        {
+          "filename": "page017_img000",
+          "original": "/images/41zero42-optimized/stories/page017_img000.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page017_img000-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page017_img000-medium.webp"
+        },
+        {
+          "filename": "page017_img001",
+          "original": "/images/41zero42-optimized/stories/page017_img001.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page017_img001-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page017_img001-medium.webp"
+        },
+        {
+          "filename": "page017_img002",
+          "original": "/images/41zero42-optimized/stories/page017_img002.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page017_img002-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page017_img002-medium.webp"
+        },
+        {
+          "filename": "page017_img003",
+          "original": "/images/41zero42-optimized/stories/page017_img003.webp",
+          "thumbnail": "/images/41zero42-optimized/stories/page017_img003-thumb.webp",
+          "medium": "/images/41zero42-optimized/stories/page017_img003-medium.webp"
+        }
+      ]
+    }
+  }
+}

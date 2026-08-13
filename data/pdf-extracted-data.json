@@ -1,0 +1,1285 @@
+{
+  "meta": {
+    "parsedAt": "2026-08-01T08:00:00+08:00"
+  },
+  "41zero42": {
+    "biscuit": {
+      "specs": {
+        "technology": "MONOCOTTURA IN PASTA BIANCA - WHITE BODY SINGLE-FIRED WALL TILE 4100606 DUNE BIANCO 4100690 DUNE SALVIA 4100684 DUNE NOTTE",
+        "finish": "OPACO - MATTE",
+        "sizes": "5X20",
+        "thickness": "8 MM",
+        "material": "Ceramic (wall)"
+      },
+      "skus": [
+        {
+          "skuCode": "4100606",
+          "size": "",
+          "colorName": "TECHNOLOGY MONOCOTTURA IN PASTA BIANCA - WHITE BODY SINGLE-FIRED WALL TILE"
+        },
+        {
+          "skuCode": "4101164",
+          "size": "",
+          "colorName": "destinazione d’uso. Per installazioni in ambienti umidi, come bagni e docce, per evitare l’infiltraz"
+        }
+      ],
+      "textLength": 4851
+    },
+    "brutus": {
+      "specs": {
+        "technology": "PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+        "finish": "RETTIFICATO - RECTIFIED",
+        "sizes": "10X10, 30X30, 3X6, 5X120, 5X25, 5X30, 60X120, 6X6",
+        "thickness": "9 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R10",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "rectified": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4101307",
+          "size": "60X120",
+          "colorName": "24”x48”"
+        },
+        {
+          "skuCode": "4101320",
+          "size": "5X120",
+          "colorName": "2”x48”"
+        },
+        {
+          "skuCode": "4101317",
+          "size": "",
+          "colorName": "Block Mosaic"
+        },
+        {
+          "skuCode": "4101319",
+          "size": "",
+          "colorName": "Brutus Mosaic"
+        },
+        {
+          "skuCode": "4101316",
+          "size": "",
+          "colorName": "Guatemala Mosaic"
+        },
+        {
+          "skuCode": "4101318",
+          "size": "60X120",
+          "colorName": "24”X48” 5X120 Stripes Mosaic"
+        }
+      ],
+      "textLength": 12523
+    },
+    "chicco": {
+      "specs": {
+        "technology": "PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+        "finish": "OPACO RETTIFICATO - NATURAL RECTIFIED",
+        "sizes": "27X36.5, 30X30, 33.7X33.7, 34.5X34.5, 60X120, 60X60",
+        "thickness": "9 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R10",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "rectified": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4101260",
+          "size": "60X120",
+          "colorName": "24”x48”"
+        },
+        {
+          "skuCode": "4101265",
+          "size": "60X60",
+          "colorName": "24”x24”"
+        },
+        {
+          "skuCode": "4101270",
+          "size": "30X30",
+          "colorName": "12”x12”"
+        },
+        {
+          "skuCode": "4101290",
+          "size": "",
+          "colorName": "Mosaic Regolo"
+        },
+        {
+          "skuCode": "4101285",
+          "size": "",
+          "colorName": "Mosaic Quadra"
+        },
+        {
+          "skuCode": "4101286",
+          "size": "",
+          "colorName": "Mosaic Onda"
+        }
+      ],
+      "textLength": 9584
+    },
+    "dandy": {
+      "specs": {
+        "technology": "PORCELLANATO SMALTATO DIGITALE HD - HD DIGITAL GLAZED PORCELAIN",
+        "finish": "OPACO - NATURAL",
+        "sizes": "18.6X18.6, 5X25",
+        "thickness": "8,5 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R10",
+        "frostResistant": true,
+        "rectified": true,
+        "material": "Porcelain"
+      },
+      "skus": [],
+      "textLength": 7697
+    },
+    "futura": {
+      "specs": {
+        "technology": "PORCELLANATO SMALTATO DIGITALE HD - HD DIGITAL GLAZED PORCELAIN",
+        "finish": "OPACO - NATURAL",
+        "sizes": "15X15, 15X15.",
+        "thickness": "10 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R10",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4100516",
+          "size": "",
+          "colorName": "Field tiles and decorative pieces have been conceived in order to achieve a natural look thank to sh"
+        }
+      ],
+      "textLength": 5353
+    },
+    "mou": {
+      "specs": {
+        "technology": "MONOCOTTURA IN PASTA BIANCA - WHITE BODY SINGLE-FIRED WALL TILE",
+        "finish": "OPACO / LUCIDO - MATTE / GLOSSY",
+        "sizes": "6.2X12.5",
+        "thickness": "8,5 MM",
+        "peiRating": "PEI 1",
+        "material": "Ceramic (wall)"
+      },
+      "skus": [
+        {
+          "skuCode": "4101110",
+          "size": "",
+          "colorName": "the laying surface using specific products for this purpose to avoid any water infiltration. In case"
+        }
+      ],
+      "textLength": 3974
+    },
+    "nok": {
+      "specs": {
+        "technology": "PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+        "finish": "RETTIFICATO - RECTIFIED - NATURAL / GRAINS",
+        "sizes": "120X120, 30X30, 40X40, 6.5X20, 60X120, 7.5X120",
+        "thickness": "9 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R10",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "rectified": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4101181",
+          "size": "120X120",
+          "colorName": "48”x48”"
+        },
+        {
+          "skuCode": "4101189",
+          "size": "120X120",
+          "colorName": "48”x48”"
+        },
+        {
+          "skuCode": "4101216",
+          "size": "60X120",
+          "colorName": "24”x48”"
+        },
+        {
+          "skuCode": "4101185",
+          "size": "60X120",
+          "colorName": "24”x48”"
+        },
+        {
+          "skuCode": "4101240",
+          "size": "7.5X120",
+          "colorName": "3”x48”"
+        },
+        {
+          "skuCode": "4101233",
+          "size": "",
+          "colorName": "Boogie Mosaic"
+        },
+        {
+          "skuCode": "4101226",
+          "size": "120X120",
+          "colorName": "48”X48” 60X120 24”X48” 7,5X120 Rug Mosaic"
+        },
+        {
+          "skuCode": "4101230",
+          "size": "",
+          "colorName": "Crock Mosaic"
+        },
+        {
+          "skuCode": "4101222",
+          "size": "",
+          "colorName": "Totem"
+        }
+      ],
+      "textLength": 13139
+    },
+    "otto": {
+      "specs": {
+        "technology": "PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+        "finish": "RETTIFICATO - NATURALE / GOCCIA / GRAFFIO - RECTIFIED - NATURAL / GOCCIA / GRAFFIO",
+        "sizes": "22.5X19.5, 30X30, 30X60, 5X5, 60X120, 60X60, 7.5X30",
+        "thickness": "9 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R10",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "rectified": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4100188",
+          "size": "60X120",
+          "colorName": "24”x48”"
+        },
+        {
+          "skuCode": "4100189",
+          "size": "60X60",
+          "colorName": "24”x24”"
+        },
+        {
+          "skuCode": "4100192",
+          "size": "30X30",
+          "colorName": "12”X12” Natural 30x60 12”x24”"
+        },
+        {
+          "skuCode": "4100190",
+          "size": "60X60",
+          "colorName": "24”x24”"
+        },
+        {
+          "skuCode": "4100207",
+          "size": "30X60",
+          "colorName": "12”x24”"
+        },
+        {
+          "skuCode": "4100191",
+          "size": "7.5X30",
+          "colorName": "3”X12” Goccia 60x60 24”x24”"
+        },
+        {
+          "skuCode": "4100204",
+          "size": "30X60",
+          "colorName": "12”x24”"
+        },
+        {
+          "skuCode": "4100218",
+          "size": "7.5X30",
+          "colorName": "3”x12”"
+        },
+        {
+          "skuCode": "4100221",
+          "size": "",
+          "colorName": "Esagona Mix"
+        },
+        {
+          "skuCode": "4100245",
+          "size": "",
+          "colorName": "Mosaic 6"
+        },
+        {
+          "skuCode": "4100227",
+          "size": "",
+          "colorName": "Mosaic"
+        }
+      ],
+      "textLength": 10309
+    },
+    "paper41-pro": {
+      "specs": {
+        "technology": "PORCELLANATO DIGITALE HD CON COLORAZIONI A FREDDO - HD COLD GLAZING DIGITAL PORCELAIN",
+        "finish": "OPACO RETTIFICATO - MATTE RECTIFIED",
+        "sizes": "4.4X10, 50X100, 8X10",
+        "thickness": "3,5 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R41",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "rectified": true,
+        "material": "Porcelain"
+      },
+      "skus": [],
+      "textLength": 26245
+    },
+    "pixel41": {
+      "specs": {
+        "technology": "PORCELLANATO SMALTATO - GLAZED PORCELAIN",
+        "finish": "OPACO - NATURAL 4100805 4100806 4100807 4100808 4100809 4100810",
+        "sizes": "11.55X11.55",
+        "thickness": "10 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R30B",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4100805",
+          "size": "",
+          "colorName": "FINISH OPACO - NATURAL"
+        }
+      ],
+      "textLength": 8557
+    },
+    "spectre": {
+      "specs": {
+        "technology": "MONOCOTTURA IN PASTA BIANCA - WHITE BODY SINGLE-FIRED WALL TILE",
+        "finish": "capable of drawing the light spectrum, thus Hologram was born, a glossy surface that takes on different colours",
+        "sizes": "5X25, 5X25.",
+        "thickness": "8 MM",
+        "material": "Ceramic (wall)"
+      },
+      "skus": [
+        {
+          "skuCode": "4100729",
+          "size": "",
+          "colorName": "restante 80% è composto da finitura Matte e finitura Glossy. La finitura Hologram,"
+        },
+        {
+          "skuCode": "4100730",
+          "size": "",
+          "colorName": "the light spectrum through a glazing of precious metals. Each piece has different"
+        }
+      ],
+      "textLength": 4700
+    },
+    "stories": {
+      "specs": {
+        "technology": "PORCELLANATO SMALTATO DIGITALE HD - HD DIGITAL GLAZED PORCELAIN",
+        "finish": "OPACO / LUCIDO - MATTE / GLOSSY",
+        "sizes": "1.2X1.2, 1.2X10, 10X10, 2.5X10",
+        "thickness": "8 MM",
+        "waterAbsorption": "≤0,5%",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "material": "Porcelain"
+      },
+      "skus": [],
+      "textLength": 3439
+    },
+    "superclassica-scg": {
+      "specs": {
+        "technology": "PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+        "finish": "RETTIFICATO - RECTIFIED",
+        "sizes": "2.3X5.8, 20X80, 30X30, 30X60, 5X15, 60X120, 60X60, 7.5X120, 7.5X60, 80X80",
+        "thickness": "9 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R10",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "rectified": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4101136",
+          "size": "60X120",
+          "colorName": "24”X48”"
+        },
+        {
+          "skuCode": "4101144",
+          "size": "60X60",
+          "colorName": "24”X24”"
+        },
+        {
+          "skuCode": "4101137",
+          "size": "30X60",
+          "colorName": "12”X24”"
+        },
+        {
+          "skuCode": "4101143",
+          "size": "80X80",
+          "colorName": "32”X32”"
+        },
+        {
+          "skuCode": "4101149",
+          "size": "20X80",
+          "colorName": "8”X32”"
+        },
+        {
+          "skuCode": "4101147",
+          "size": "7.5X120",
+          "colorName": "3”X48”"
+        },
+        {
+          "skuCode": "4101148",
+          "size": "7.5X60",
+          "colorName": "3”X24”"
+        },
+        {
+          "skuCode": "4101150",
+          "size": "",
+          "colorName": "MOSAIC"
+        },
+        {
+          "skuCode": "4101095",
+          "size": "",
+          "colorName": "Riviera"
+        }
+      ],
+      "textLength": 12095
+    },
+    "superclassica-scw": {
+      "specs": {
+        "technology": "PORCELLANATO DIGITALE HD AD IMPASTO COLORATO - HD DIGITAL COLORED BODY PORCELAIN",
+        "finish": "RETTIFICATO - RECTIFIED",
+        "sizes": "2.5X3.5, 20X80, 30X30, 30X60, 60X120, 60X120., 60X60, 7.5X120, 7.5X60",
+        "thickness": "9 MM",
+        "waterAbsorption": "≤0,5%",
+        "slipRating": "R10",
+        "frostResistant": true,
+        "rectified": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4101020",
+          "size": "60X120",
+          "colorName": "24”X48”"
+        },
+        {
+          "skuCode": "4101031",
+          "size": "60X60",
+          "colorName": "24”X24”"
+        },
+        {
+          "skuCode": "4101021",
+          "size": "30X60",
+          "colorName": "12”X24”"
+        },
+        {
+          "skuCode": "4101030",
+          "size": "20X80",
+          "colorName": "8”X32”"
+        },
+        {
+          "skuCode": "4101029",
+          "size": "7.5X120",
+          "colorName": "3”X48”"
+        },
+        {
+          "skuCode": "4101037",
+          "size": "7.5X60",
+          "colorName": "3”X24”"
+        },
+        {
+          "skuCode": "4101053",
+          "size": "",
+          "colorName": "SCW colori stucchi consigliati / advised grouts colors MOSAIC"
+        }
+      ],
+      "textLength": 10430
+    }
+  },
+  "opificio": {
+    "opificio-beat": {
+      "specs": {
+        "sizes": "20X50",
+        "thickness": "10 mm",
+        "material": "Extruded Porcelain",
+        "technology": "non rapida, così da consentire una cor-",
+        "finish": "features varying depths and heights, creating an articulated chiaroscuro effect. To facilitate grouting opera-",
+        "waterAbsorption": "≤3%",
+        "frostResistant": true
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "specSheet": "Beat\nProgetto - Project Debiasi Sandri – 2025\nMateriale - Material NeoClayTM\nCaratteristiche - Features Lavorato a mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 10 mm\nVariazione cromatica - Shade variation V1 Aspetto uniforme - V1 Uniform appearance\nFormati / Textures - Sizes / Textures Valori nominali - Nominal sizes\nUtilizzo - Use Rivestimento (interni ed esterni) - Wall (indoor and outdoor)\nFormati - Sizes Colori - Colours\nValori - nominali Nominal sizes\nSEED\n20x50\nSnow Stone Clay Ash\nRAIN\n20x50 Snow Stone Clay Ash\nIl prodotto è artigianale e fatto a mano, ogni piastrella ha volutamente una tolleranza di +/-3 mm. (tabella calibri lato lungo):\ncalibro 3: 49,5 / 49,8 cm\ncalibro 5: 49.8 / 50.1 cm\ncalibro 7 50.1 / 50.4 cm\nThe product is handcrafted and made by hand; each tile intentionally has a tolerance of +/- 3 mm.(Long side size chart):\nSize 3: 49.5 / 49.8 cm\nSize 5: 49.8 / 50.1 cm\nSize 7: 50.1 / 50.4 cm\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com",
+        "catalogue": "BEAT\nnoitcelloC\ntaeB\nBEAT\n“\nCon Beat volevamo\nraccontare il passare del\ntempo, le tracce che l’uomo\nlascia sulla natura, il valore\ndella materia ed il lavoro\nartigianale. Abbiamo\ncercato di esprimerlo con\nuna trama sottile, quasi\ncesellata, la cui impronta\nrimane impressa nella terra\ncruda.”\nDebiasi Sandri\n“With Beat we wanted to tell the story of the passage of time,\nthe traces that man leaves on nature, the value of matter and\ncraftsmanship. We tried to express it with a subtle, almost chiseled\ntexture, whose imprint remains impressed in raw earth.”\nDebiasi Sandri\nDEBIASI SANDRI\nDaniel Debiasi e Federico Sandri operano in diversi ambiti del\ndesign: prodotto industriale, interior design e direzione creativa. La\nloro collaborazione si sviluppa attraverso un dialogo continuo ed\nè alimentata da un’attenta osservazione degli spazi e degli aspetti\ndel vivere contemporaneo. La sperimentazione con materiali e\nprocessi differenti, così come l’interazione tra produzione industriale\ne artigianato, costituisce la base del loro approccio, che li porta a\nconsiderare ogni progetto come parte di un contesto più ampio.\nDEBIASI SANDRI\nDaniel Debiasi and Federico Sandri work in the fields of industrial design, interior\ndesign, and creative direction.Their collaboration evolves through a continuous\ndialogue, enriched by a careful observation of spaces and aspects of contemporary\nliving.Experimentation with different materials and processes, along with the\ninterplay between industrial production and craftsmanship, forms the basis of their\napproach—leading them to consider each project as part of a larger context.\n50.\nnoitcelloC\ntaeB\nBEAT\nBeat è la collezione disegnata dal duo composto da Daniel Debiasi e\nFederico Sandri. Trae origine da un’esplorazione sul passare del tempo\ne sulla scansione ritmica delle cose che uomo e natura producono: dai\nsolchi di un campo seminato alle facciate degli edifici, l’incresparsi\ndell’acqua o le impronte sulla neve. Nelle superfici realizzate con\nBeat si percepisce appieno l’intervento umano ma anche la reazione\ndell’elemento naturale alla volontà dell’artigiano di dominarla. Infatti,\nl’impasto ceramico in NeoClayTM è materia viva: si muove durante\nl’incisione, l’essicazione fino al passaggio in forno che lo cristallizza\nnella sua massima espressività recante microimperfezioni uniche ed\nirripetibili. La collezione si compone di un unico formato 20 x 50\ncm con 2 texture diverse, impresse nel materiale, una più leggera\n(Seed) l’altra più marcata (Rain), e disponibile in quattro colori: Ash\n(Antracite), Clay (Mattone), Stone (Sabbia) e Snow (Bianco).\nBeat is the collection designed by the duo Daniel Debiasi and Federico Sandri.\nIt originates from an exploration of the passage of time and the rhythmic patterns\nof things produced by man and nature: from the furrows of a plowed field to the\nfacades of buildings, the rippling of water, or footprints in the snow.\nIn surfaces created with Beat, one can fully perceive the human touch, as well"
+      },
+      "pdfCount": 2
+    },
+    "opificio-biolith": {
+      "specs": {
+        "technology": "e quindi non",
+        "slipRating": "R3",
+        "material": "Porcelain",
+        "sizes": "20X8, 3X7",
+        "finish": "with a natural surface"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "1020250",
+          "size": "",
+          "colorName": "(Patent Pending n."
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "0382770",
+          "size": "",
+          "colorName": "41121 Modena - Italy 41121 Modena - Italy Reg. Imp. MO C.F."
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F +39 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +39 059"
+        }
+      ],
+      "descriptions": {
+        "catalogue": "ECIDNI\nOVITATIBA\nTROFMOC\nLI\nDE\nERESSENEB\nLI\nREP\nELARUTAN\nOCINCET\nOTNEMITSEVIR\nOVOUN\nNU\n—\n20\nÀTILIBINETSOS\nE\nENOIZAVONNI\nART\nALLIGRA\nNI\nOCANOTNI\nNU\nID\nIGGATNAV\nE\nEHCITSIRETTARAC\n—\n60\nOPMET\nLEN\nENOIZNETUNAM\nE\nINOIZATSERP\n,EVITACILPPA\nEHCITSIRETTARAC\n—\n61\nNOISREV\nHSILGNE\n—\n81\novitatiba\ntrofmoc\nli\nde\neresseneb\nli\nrep\nelarutan\nocincet\notnemitsevir\novoun\nnU\n30\n20\nenotS\navaL\nBiolith è materia viva che nasce dall’argilla\nnaturale e porta negli ambienti un\nequilibrio autentico.\nGrazie alle sue proprietà, è in grado\ndi regolare umidità e temperatura,\ncontribuendo in modo concreto al\nbenessere quotidiano di chi vive gli spazi.\nScegliere Biolith significa costruire con\nconsapevolezza, affidandosi a una soluzione\npriva di chimica e compromessi: solo terra,\nsabbia e leganti vegetali danno forma a\nsuperfici sane, traspiranti e durevoli nel\ntempo.\nBiolith non è solo prestazione tecnica. È\nanche un elemento d’arredo capace di\ntrasformare le pareti in superfici espressive,\ngrazie a texture materiche, tonalità ispirate\nalla natura e finiture che donano carattere e\nprofondità agli ambienti.\nRappresenta un ritorno all’essenziale,\nalle origini della materia, reinterpretato\nattraverso la tecnologia contemporanea.\nDietro ogni applicazione ci sono ricerca,\ntest e certificazioni, che garantiscono un\nprodotto capace di unire i valori della\nbioedilizia con l’affidabilità e la qualità\nindustriale.\n50\n40\ndnaS\nàtilibinetsos\ne\nenoizavonni\nart\nalligra\nni\nocanotni\nnu\nid\niggatnav\ne\nehcitsirettaraC\n70\n60\nBiolith è un intonaco a base di argilla\ne sabbie di fiume, privo di additivi\nchimici e di emissioni di VOC, capace\ndi regolare l’umidità degli ambienti,\naumentare il comfort abitativo e valorizzare\nesteticamente ogni superficie.\nL’intonaco in argilla trasforma le pareti in\nsuperfici vive, unendo estetica, comfort e\nrispetto per l’ambiente.\nGli elementi che ne determinano le\nprestazioni e il valore sono:\n• Composizione naturale: miscela a base\ndi argilla, sabbie selezionate e fibre vegetali\n• Formulazione priva di cementi, leganti\nsintetici e di emissioni di VOC (Composti\nOrganici Volatili)\n• Stesura in una sola applicazione\n• Elevata elasticità e traspirabilità\n(alta permeabilità al vapore) con capacità\ndi regolazione igrometrica\n• Caratteristiche organolettiche naturali,\narricchite con fragranze naturali (essenze\ndi origine vegetale aggiunte).\n• Finitura estetica materica con resa\nsuperficiale naturale\n• Stabilità dimensionale con assenza di\nmicrofessurazioni nel tempo\n• Idoneità per applicazioni in ambienti a\nelevata umidità relativa\n• Non necessita di trattamenti\naggiuntivi (es. vernici o sigillanti)\n• Elevata durabilità\n• Manutenibilità elevata e facilità di\nintervento nel tempo\ntsuR\n90\n80\nklahC\n11\n01\nALLIGRA\nID\nOCANOTNI’L\nÈ\nHTILOIB\nE\nENOIZIDART\nECSINU\nEHC\nERIURTSOC\nREP\n,ENOIZAVONNI\n.ARUTAN\nAL\nNOC\nAINOTNIS\nNI\nynobE\n31\n21\nmaerC\n51\n41\nUN INTONACO\nCHE ARREDA.\nBIOLITH NON È\nSOLO TECNICA, MA\nANCHE BELLEZZA.\nTEXTURE TATTILI,\nCOLORI DELLA\nTERRA, FINITURE\nCHE DANNO\nANIMA AGLI SPAZI.\nop"
+      },
+      "pdfCount": 4
+    },
+    "opificio-firenze": {
+      "specs": {
+        "technology": "nze collections are extruded by hand from natural raw materials. So any",
+        "sizes": "16X16, 4X16, 77.8X96.5, 8X16, 8X24",
+        "thickness": "9,5 mm",
+        "waterAbsorption": "≤3%",
+        "slipRating": "R10",
+        "frostResistant": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "catalogue": "Firenze\namrof\nednerp\nehc\noreisnep\nè\nairetam\naL\nViaggio in Italia\nFIRENZE\nViaggio in Italia\nViaggio in Italia\nFIRENZE\nViaggio in Italia\nIl respiro profondo\ndella storia in un\nimpasto dalle tinte\nvelate che crea caldi\nintrecci marmorei\ne fiorisce in\nun amalgama\nsorprendente di colori.\nThe deep breath of history in a body\nwith sheer hues that creates\nwarm marbling and flourishes\nin an amazing combination of colours.\nnoitcelloC\nezneriF\nRODOLFO DORDONI\nRodolfo Dordoni, Architetto e Designer, nasce a Milano, dove\nsi laurea in Architettura. Responsabile nel corso degli anni della\ndirezione artistica di Artemide (collezione vetro), Cappellini (dal 1979\nal 1989), FontanaArte (collezione arredo), Foscarini, Minotti (dal 1997\na tutt’oggi) e Roda (dal 2006), disegna prodotti per diverse aziende tra\nle quali: Amini, Artemide, Cappellini, Cassina, Ceramica Flaminia,\nDada, Dornbracht, Driade, Effegibi, Emu, Ernestomeda, Fantini,\nFiam Italia, Flos, Flou, FontanaArte, Foscarini, Jab, Kartell, Kettal,\nknIndustrie, MDF Italia, Minotti, Molteni&C, Moroso, Olivari, Pamar,\nPoliform, Poltrona Frau, Roda, RB Rossana, Salvatori, Sambonet,\nSerralunga, Tecno, The Rug Company, Unifor, Venini, Zanotta.\nLo studio Dordoni Architetti opera nel campo dell’architettura e\ndell’interior design in ambito residenziale, commerciale ed allestitivo,\nsviluppando progetti di ville e abitazioni private, nonché di spazi retail,\nindustriali e commerciali, curando la realizzazione di showrooms,\nstand espositivi, ristoranti, hotels.\nRODOLFO DORDONI\nArchitect and designer Rodolfo Dordoni was born in Milan, where he graduated\nin Architecture. Responsible over the years for the art direction of Artemide (glass\ncollection), Cappellini (from 1979 to 1989), FontanaArte (furniture collection),\nFoscarini (lamps), Minotti (from 1997 until today) and Roda (since 2006), he\ndesigns for various companies, including: Amini, Artemide, Cappellini, Cassina,\nCeramica Flaminia, Dada, Dornbracht, Driade, Effegibi, Emu, Ernestomeda,\nFantini, Fiam Italia, Flos, Flou, FontanaArte, Foscarini, Jab, Kartell, Kettal,\nknIndustrie, MDF Italia, Minotti, Molteni&C, Moroso, Olivari, Pamar,\nPoliform, Poltrona Frau, Roda, RB Rossana, Salvatori, Sambonet, Serralunga,\nTecno, The Rug Company, Unifor, Venini, Zanotta. Dordoni Architetti works in\nthe field of architectural planning and interior design in the residential, commercial\nand exhibition areas designing projects of private houses and villas, as well as\nretail, industrial and commercial spaces overseeing the realization of showrooms,\nexhibition stands, restaurants, hotels.\n50.\nnoitcelloC\nezneriF\nnoitcelloC\nezneriF\nViaggio in Italia\n70.\nnoitcelloC\nezneriF\nFIRENZE\nViaggio in Italia\nGli impasti colorati sono i protagonisti della collezione Firenze. Sei\nnuances che, miscelate a due a due, creano trame differenti lasciando\ninalterata l’identità di base del colore. Ogni pezzo è un unicum\nvariegato che, una volta posato, rievoca le decorative carte fiorentine.\nI colori, ispirati a"
+      },
+      "pdfCount": 1
+    },
+    "opificio-matera": {
+      "specs": {
+        "technology": "ndo dove necessario con barra piatta. Stuccare con stucco cementizio in tinta, ad",
+        "sizes": "14X16, 20X20, 5.5X13.5, 5.5X27",
+        "thickness": "12 mm",
+        "waterAbsorption": "≤3%",
+        "slipRating": "R10",
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        }
+      ],
+      "descriptions": {
+        "catalogue": "MATERA\nViaggio in Italia\nnoitcelloC\naretaM\nnoitcelloC\naretaM\nMATERA\nViaggio in Italia\nLa pietra che ha preso\nforma dalle rocce\navvolte dal sole\narricchisce l’accogliente\natmosfera della casa.\nThe stone that has taken shape from the sun-shrouded\nrocks enriches the cozy atmosphere of the house.\nnoitcelloC\naretaM\nnoitcelloC\naretaM\nMATERA\nViaggio in Italia\nMatera è una collezione ceramica realizzata come un manufatto\nartigianale, ottenuta con argille refrattarie colorate. Ogni manufatto\nè un inedito mix tra argilla bagnata, riposta manualmente in formine\nmetalliche, ed il “colore in pasta” che, compenetrando l’impasto\numido argilloso, non solo rende il prodotto ricco di sfumature ma ne\ngarantisce anche la robustezza e l’impermeabilità, chiudendo ogni\nmicroporosità d’aria in superficie.\nLe nuances riportano alla città, dalla quale prende il nome: dal nero\ndella roccia lavica al verde della parietaria, dal rosso del mattone al\nsabbia dei tipici sassi. Per ogni colore sono previste 4 superfici diverse\nche differiscono tra loro in base a differenti miscele di graniglie\ncolorate e smalti.\nMatera is a collection of crafted ceramic products obtained from coloured refractory\nclays. Each product is an unprecedented mix of wet clay, stored manually in metal\nmolds, and the “coloured full body” that, permeating the clay wet, not only makes\nthe product rich in nuances but also guarantees the strength and impermeability,\nclosing any microporosity of air on the surface.\nThe nuances reflect the place from which it takes its name: from the black of the\nlava rock to the greens of the parietaria plant, from the red of the brick to the sand\nof the distinctive rocks. For each color there are 4 different surfaces that differ from\neach other according to different mixtures of coloured grits and glazes.\n50.\nnoitcelloC\naretaM\n70.\nnoitcelloC\naretaM\nSabbia\nnoitcelloC\naretaM\n90.\nnoitcelloC\naretaM\nCemento\nOnice\nnoitcelloC\naretaM\n11.\nnoitcelloC\naretaM\nMattone\nnoitcelloC\naretaM\n31.\nnoitcelloC\naretaM\nLava Pietra\nnoitcelloC\naretaM\n51.\nnoitcelloC\naretaM\nGesso\nnoitcelloC\naretaM\n71.\nnoitcelloC\naretaM\nEbano\nnoitcelloC\naretaM\n91.\nnoitcelloC\naretaM\nProgetto - Project\nOpificio CeramicoTM – 2022\nMateriale - Material\nArgilla refrattaria - Refractory Stone\nCaratteristiche - Features\nLavorato a Mano - Handmade\nProduzione - Production\nArtigianale per trafila - Artisanal extruded\nSpessore - Thickness\n12 mm\nUtilizzo - Use\nPavimento e rivestimento (interni e esterni) - Floor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation\nV3 Variazione sostanziale - V3 Substantial variation\nFormati - Sizes\nValori nominali - Nominal sizes\nA B\n5,5x13,5 esagono 14x16 20x20 5,5x27 5,5x27 chevron\nMATERA\nInformazioni tecniche / Technical information\nColori - Colours\nONICE GESSO PIETRA CEMENTO LAVA EBANO MATTONE SABBIA\nnoitcelloC\naretaM\n12.\nnoitcelloC\naretaM\nCARATTERISTICHE TECNICHE CONSIGLI DI POSA / PULIZIA E MANUTENZIONE\nTechnical specifications Installation advice / Cleaning maintenance\nI prodott",
+        "specSheet": "Matera\nProgetto - Project Opificio Ceramico TM – 2022\nMateriale - Material Argilla refrattaria - Refractory Stone\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 12 mm\nUtilizzo - Use Pavimento e rivestimento (interni - esterni) - Floor and wall (indoor - outdoor)\nVariazione cromatica - Shade variation V3 Variazione sostanziale - V3 Substantial variation\nFormati / Textures - Sizes / Textures Valori nominali - Nominal sizes\nA B\n5,5x13,5 esagono 14x16 20x20 5,5x27 5,5x27 chevron\nColori - Colours\nONICE GESSO PIETRA CEMENTO LAVA EBANO MATTONE SABBIA\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com"
+      },
+      "pdfCount": 2
+    },
+    "opificio-mediterranea": {
+      "specs": {
+        "sizes": "20X20, 7.5X30",
+        "thickness": "10 mm",
+        "material": "Extruded Porcelain",
+        "technology": "find a new balance.",
+        "waterAbsorption": "≤3%",
+        "slipRating": "R10",
+        "frostResistant": true
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "specSheet": "Mediterranea\nProgetto - Project Opificio CeramicoTM - 2025\nMateriale - Material NeoClayTM\nCaratteristiche - Features Lavorato a mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 10 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni) -\nFloor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation Malta, Elba, Lanzarote: V2 Lieve Variazione - V2 Slight Variation\nKos: V1 Aspetto uniforme - V1 Uniform appearance\nFormati - Sizes Colori - Colours\nValori - nominali Nominal sizes\n20x20 Kos Malta Elba Lanzarote\n7,5x30\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com",
+        "catalogue": "MEDITERRANEA\nnoitcelloC\naenarretideM\nMEDITERRANEA\nMediterranea evoca la\nbellezza senza tempo della\nterracotta mediterranea e la\nreinterpreta in superfici\ncontemporanee, dove\ntradizione artigianale e\ntecnologia NeoClay™\ntrovano un nuovo equilibrio.\nMediterranea evokes the timeless beauty of Mediterranean\nterracotta and reinterprets it through contemporary surfaces, where\nartisanal tradition and NeoClay™ technology find a new balance.\nnoitcelloC\naenarretideM\nMEDITERRANEA\nLa collezione Mediterranea si ispira alle superfici calde e\nmateriche del cotto tradizionale, reinterpretandole in chiave\ncontemporanea grazie all’uso di NeoClayTM, un materiale\nestruso innovativo che unisce estetica e prestazioni tecniche.\nDisponibile in due formati (7,5x30 cm e 20x20 cm) , e in\nuna palette di quattro colori accuratamente selezionati (Elba\n- mattone, Kos - bianco, Lanzarote - antracite e Malta –\nsabbia) , la collezione offre soluzioni in grado di valorizzare\nambienti residenziali e spazi contract, creando atmosfere\naccoglienti e ricercate. La texture morbida, le sfumature\nnaturali e la matericità delle superfici, evocano la tradizione\nartigianale, mentre la tecnologia NeoClayTM garantisce\nresistenza, durabilità e facilità di manutenzione, rendendo\nquesta collezione la sintesi perfetta tra memoria del passato e\ninnovazione del presente.\nThe Mediterranea collection is inspired by the warm, tactile surfaces of\ntraditional terracotta, reinterpreted in a contemporary key through the\nuse of NeoClay™, an extruded and innovative material that combines\naesthetics with technical performance. Available in two formats (7.5x30\ncm and 20x20 cm) and in a palette of four carefully selected colors\n(Elba – brick, Kos – white, Lanzarote – anthracite, and Malta – sand),\nthe collection offers solutions that enhance both residential interiors and\ncontract spaces, creating welcoming and refined atmospheres. The soft\ntexture, natural shading, and material depth of the surfaces evoke artisanal\ntradition, while NeoClay™ technology ensures strength, durability, and\neasy maintenance—making this collection the perfect synthesis between\nthe memory of the past and the innovation of the present.\n50.\nnoitcelloC\naenarretideM\n70.\nnoitcelloC\naenarretideM\nMalta\nKos\nnoitcelloC\naenarretideM\n90.\nnoitcelloC\naenarretideM\nMalta\nnoitcelloC\naenarretideM\n11.\nnoitcelloC\naenarretideM\nLanzarote\nnoitcelloC\naenarretideM\n31.\nnoitcelloC\naenarretideM\nParete / Wall: Rain Stone\nPavimento / Floor: Lanzarote collezione Mediterranea\nParete / Wall: Seed Clay\nPavimento / Floor: Elba collezione Mediterranea\nnoitcelloC\naenarretideM\n51.\nnoitcelloC\naenarretideM\nElba\nnoitcelloC\naenarretideM\n71.\nnoitcelloC\naenarretideM\nProgetto - Project Opificio CeramicoTM - 2025\nMateriale - Material NeoClayTM\nCaratteristiche - Features Lavorato a mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 10 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni) -\nFloor and wall (indoor and"
+      },
+      "pdfCount": 2
+    },
+    "opificio-murano": {
+      "specs": {
+        "technology": "n Stoneware",
+        "sizes": "16X16, 30X30, 32X32, 4X16, 8X16, 8X8",
+        "thickness": "9,5 mm",
+        "waterAbsorption": "≤3%",
+        "slipRating": "R10",
+        "frostResistant": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "catalogue": "Venezia\nMurano\namrof\nednerp\nehc\noreisnep\nè\nairetam\naL\nVENEZIA / MURANO\nViaggio in Italia\nVENEZIA MURANO\nViaggio in Italia Viaggio in Italia\nUna tela sospesa Le infinite sfumature\ntra acqua e cielo che di un mosaico di luce\nsi specchia leggera liquida, dove ogni\nin un gioco di forme linea si perde\nuguali e contrarie, negli abissi di un mare\nsuperficie immobile di vetro e argilla\neppure in continuo che gioca coi colori e\ndivenire. li trasforma.\nA canvas suspended between water and sky that The infinite nuances of a mosaic of liquid light,\nis mirrored lightly in a game of forms that are the where every line loses itself in the depths of a sea\nsame and opposite, a surface that is immobile or in of glass and clay that plays with the colours and\ncontinuous becoming. transforms them.\nVENEZIA / MURANO\nViaggio in Italia\n50.\nsnoitcelloC\nonaruM\n/\naizeneV\nVenezia / Murano Fondaco scuro / Laguna scuro\nVenezia è una collezione ceramica realizzata come un manufatto\nartigianale, ottenuta per estrusione con materie prime naturali ad\nimpasto colorato. Ogni singolo pezzo viene toccato e lavorato a mano\nda esperti artigiani per renderlo unico, spugnando lo smalto e creando\naccumuli che rendono sempre vibrante la superficie.\nTecniche diverse impreziosiscono la superfice, in cui le strutture si\nfondono con gli smalti creando una nuova identità.\nI colori sono quelli dell’acqua, i bassorilievi sono particolari\narchitettonici, realizzati in due formati, che si prestano ad interpretare\nuno spazio elegante e raffinato, contemporaneo ma al tempo stesso\nromantico. Le textures riportano alla città dalla quale prende il nome:\nFondaco, ispirato alle pavimentazioni dei vecchi magazzini e dei\ndepositi merci medievali; Rialto, con i bassorilievi che reinterpretano\nle botteghe dei commercianti del primo insediamento veneziano ed\ninfine Lido, con la sua superficie sfumata come l’acqua.\nLe superfici, i colori, i formati e gli stucchi in tinta, sono stati pensati\nper essere utilizzati in abbinamento alla collezione Murano, dando\nvita a molteplici soluzioni di posa.\nVenezia is a ceramic collection of handcrafted products obtained by extrusion, using\nnatural coloured raw materials. Every single tile is worked and finished by skilled\ncraftsmen to make it unique, by sponging the glaze and creating accumulations that\nensure the surface is always vibrant. Different techniques that enhance the surface so\nthat the structures blend with the glazes create a new identity.\nThe colours are water colours, the bas–reliefs are architectural details made in two\nsizes for interpreting an elegant and sophisticated space that is modern but romantic\nat the same time. The textures draw their inspiration from the city, Venezia (Venice)\nfrom which the collection takes its name: Fondaco takes its inspiration from the\nfloors of the old medieval storerooms and warehouses; Rialto with bas-reliefs that\nreinterpret merchants’ stalls, recalls the first Venetian settlement, and lastly there is\nLido with its surface "
+      },
+      "pdfCount": 2
+    },
+    "opificio-pantelleria": {
+      "specs": {
+        "technology": "nde il prodotto tecnicamente resistente ad ogni uso. La",
+        "finish": "outdoor-indoor, wall-floor coverings",
+        "sizes": "11X11, 11X44.4, 22X22",
+        "thickness": "10 mm",
+        "waterAbsorption": "≤3%",
+        "slipRating": "R10",
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        }
+      ],
+      "descriptions": {
+        "catalogue": "PANTELLERIA\nViaggio in Italia\nnoitcelloC\nairelletnaP\nPANTELLERIA\nViaggio in Italia\nLa potente dissonanza di\nluci e ombre, il mistero\ndel silenzio, la magia del\nmare, i profumi, i colori in\nperenne dialogo tra il\nMediterraneo e la vicina\nterra d’Africa, emanano\nuna forza seduttiva simile\nad un incanto.\nThe powerful dissonance of lights and shadows, the mystery of\nsilence, the magic of the sea, the scents, the colors in perpetual\ndialogue between the Mediterranean sea and the nearby land of\nAfrica, emanate a seductive force akin to enchantment.\nnoitcelloC\nairelletnaP\nnoitcelloC\nairelletnaP\nLa potente dissonanza di\nluci e ombre, il mistero\ndel silenzio, la magia del\nmare, i profumi, i colori in\nperenne dialogo tra il\nMediterraneo e la vicina\nterra d’Africa, emanano\nuna forza seduttiva simile\nad un incanto.\nThe powerful dissonance of lights and shadows, the mystery of\nsilence, the magic of the sea, the scents, the colors in perpetual\ndialogue between the Mediterranean sea and the nearby land of\nAfrica, emanate a seductive force akin to enchantment.\nnoitcelloC\nairelletnaP\nnoitcelloC\nairelletnaP\nATELIER MADREMATERIA\nMAdreMAteria è un atelier di ricerca e sperimentazione nato per dare\ncontinuità all’esperienza maturata nell’ambito della valorizzazione del\npatrimonio architettonico e paesaggistico di Pantelleria, dando voce\nalla visione creativa ed olistica di Elena Pancaldi, architetto e designer,\nisolana di adozione da oltre vent’anni.\nLaureata in Architettura al Politecnico di Milano nel 1997 apre\nELENAPANCALDISTUDIO a Modena ove vive e lavora alla guida\ndi un team composto da architetti, designers, paesaggisti e grafici\nimpegnati in progetti di architettura prevalentemente residenziale,\nluxury retail, hospitality, landascape e collectible design.\nNel tempo, una serie di lavori site specific studiati per Pantelleria hanno\nincoraggiato l’evolversi di un approccio molto personale ai temi del\nrecupero dell’architettura vernacolare pantesca ed alla conservazione\ndello spirito del luogo.\nATELIER MADREMATERIA\nMadreMateria is a research and experimentation workshop born to continue the\nexperience gained in the enhancement of Pantelleria’s architectural and landscape\nheritage, giving voice to the creative and holistic vision of Elena Pancaldi, architect\nand designer, who has been an islander by adoption for over twenty years.\nGraduated in Architecture from the Politecnico di Milano in 1997, she opened\nELENAPANCALDISTUDIO in Modena where she lives and works, leading a\nteam composed of architects, designers, landscapers, and graphic designers engaged in\npredominantly residential architecture projects, luxury retail, hospitality, landscape,\nand collectible design.\nOver time, a series of site-specific works studied for Pantelleria have encouraged the\ndevelopment of a very personal approach to the themes of recovering Pantelleria’s\nvernacular architecture and preserving the spirit of the place.\n50.\nnoitcelloC\nairelletnaP\n70.\nnoitcelloC\nairelletnaP\nAbitare un dammu",
+        "specSheet": "Pantelleria\nProgetto - Project Opificio CeramicoTM in collaborazione con MAdreMAteria 2024\nMateriale - Material Argilla refrattaria / Refractory stone\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 10 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni) - Floor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation V3 Variazione sostanziale - V3 Substantial variation\nBase: Formati - Sizes Base: Colori - Colours\nValori nominali - Nominal sizes\n22x22 OSSIDIANA OLTREMARE CAPPERO CALCE VENERE\n11x44,4\nTexture: Formati - Sizes Texture: Colori - Colours\nValori nominali - Nominal sizes\n11x11\nOSSIDIANA OLTREMARE CAPPERO CALCE VENERE\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com"
+      },
+      "pdfCount": 2
+    },
+    "opificio-polignano": {
+      "specs": {
+        "sizes": "16X16",
+        "thickness": "9 mm",
+        "material": "Extruded Porcelain",
+        "technology": "ndo dove necessario con barra piatta. Stuccare con stucco cementizio in tinta, ad",
+        "waterAbsorption": "≤3%",
+        "slipRating": "R10"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "specSheet": "noitcelloC\nonangiloP\nProgetto - Project Opificio CeramicoTM - 2024\nMateriale - Material Argilla refrattaria / Refractory stone\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 9 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni) -\nFloor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation V2 Lieve variazione - V3 Slight variation\nPuntinato: Formati - Sizes Puntinato: Colori - Colours\nValori nominali - Nominal sizes\n16x16 ARENARIA GRANITO CALCARE POMICE QUARZO BASALTO\nBase: Formati - Sizes Base: Colori - Colours\nValori nominali - Nominal sizes\n16x16 ARENARIA GRANITO CALCARE POMICE QUARZO BASALTO",
+        "catalogue": "POLIGNANO\nViaggio in Italia\nnoitcelloC\nonangiloP\nPOLIGNANO\nViaggio in Italia\nLe mutevoli texture della\nsabbia e le impronte\nnaturali scolpite dal\nperpetuo movimento del\nmare.\nThe shifting textures of sand and the natural imprints touched\nby the sea’s eternal rhythm.\nPOLIGNANO\nViaggio in Italia\nQuesta collezione di piastrelle artigianali celebra la bellezza naturale e\nautentica di Polignano a Mare, rinomata per i suoi paesaggi rocciosi e\nil fascino mediterraneo. Realizzate con un impasto in argilla refrattaria\ndi alta qualità, le piastrelle sono arricchite da scaglie di minerali che\ndonano profondità e texture alla superficie, richiamando le sfumature\ne le increspature delle scogliere pugliesi.\nLa collezione è proposta in un formato quadrato da 16x16 cm,\nideale sia per pavimenti che per rivestimenti. Grazie alla robustezza\ndel materiale, è adatta per ambienti interni ed esterni, offrendo una\nsoluzione resistente e duratura. Disponibile in una gamma di sei colori\nispirati alla palette naturale di Polignano, dalle tonalità sabbiose ai\ntoni più scuri della roccia, questa collezione è perfetta per chi desidera\nconferire agli spazi un’estetica autentica e senza tempo.\nThis collection of artisanal tiles celebrates the natural and authentic beauty of\nPolignano a Mare, renowned for its rocky landscapes and Mediterranean charm.\nMade with high-quality refractory clay, the tiles are enriched with mineral flakes\nthat add depth and texture to the surface, evoking the shades and ripples of the\nPuglian cliffs.\nThe collection is offered in a 16x16 cm square format, ideal for both flooring and\nwall cladding. Thanks to the strength of the material, it is suitable for both indoor\nand outdoor settings, providing a durable and lasting solution. Available in a range\nof six colors inspired by Polignano’s natural palette—from sandy and marine hues\nto the darker tones of rock—this collection is perfect for those who wish to bring an\nauthentic, timeless aesthetic to their spaces.\n50.\nnoitcelloC\nonangiloP\n70.\nnoitcelloC\nonangiloP\nBasalto Puntinato\nnoitcelloC\nonangiloP\n90.\nnoitcelloC\nonangiloP\nQuarzo Puntinato Pomice Puntinato\nnoitcelloC\nonangiloP\n11.\nnoitcelloC\nonangiloP\nArenaria Puntinato\nnoitcelloC\nonangiloP\n31.\nnoitcelloC\nonangiloP\nProgetto - Project Opificio CeramicoTM - 2024\nMateriale - Material Argilla refrattaria / Refractory stone\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 9 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni) -\nFloor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation V2 Lieve variazione - V2 Slight variation\nPuntinato: Formati - Sizes Puntinato: Colori - Colours\nValori nominali - Nominal sizes\n16x16 ARENARIA GRANITO CALCARE\nPOLIGNANO POMICE QUARZO BASALTO\nInformazioni tecniche / Technical information\nBase: Formati - Sizes Base: Colori - Colours\nValori nominali - Nominal sizes\n16x16\nARENARIA GRANITO CALCARE\nPOMICE QUARZO "
+      },
+      "pdfCount": 2
+    },
+    "opificio-repetit": {
+      "specs": {
+        "technology": "celain Tile",
+        "sizes": "18.5X18.5",
+        "thickness": "7,5 mm",
+        "material": "Porcelain",
+        "waterAbsorption": "≤0,5%",
+        "frostResistant": true
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "1020250",
+          "size": "",
+          "colorName": "data 11/09/2025 con numero"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "specSheet": "Repetit\nProgetto - Project Marco Spatti – 2025\nMateriale - Material Gres Porcellanato Smaltato - Glazed Porcelain Tile\nProduzione - Production Pressato a secco e smaltato - Dry pressed and glazed\nSpessore - Thickness 7,5 mm\nVariazione cromatica - Shade variation V1 Aspetto uniforme - V1 Uniform appearance\nFormati / Textures - Sizes / Textures Valori nominali - Nominal sizes\nBase: Formati - Sizes Base: Colori - Colours\n18,5x18,5 Pure White Silver Grey Brick\nStucchi suggeriti - Suggested grouts Kerapoxy\nMoon White Cement Grey London Grey Volcano Spelt Terracotta\n111 113 119 Sand 149 189 143\nIntonaco d’argilla - Clay plaster\nChalk Sand Cream Ebony Lava Stone Rust\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com",
+        "catalogue": "REPETIT\nnoitcelloC\ntitepeR\nREPETIT\n“\nL’ispirazione dietro a\nRepetit arriva dal mondo\ntessile. Mi interessava l’idea\ndi poter ricreare su una\nsuperficie l’esperienza visiva\ne tattile di un tessuto a\nmaglia grossa.\nCosì ceramica e stucco sono\ndiventati la trama e l’ordito\ncon cui tessere queste nuove\nsuperfici.”\nMarco Spatti\n“The inspiration behind Repetit comes from the textile world.\nI was interested in the idea of recreating on a surface the visual\nand tactile experience of a chunky knit fabric. Thus, ceramic and\nplaster became the warp and weft with which to weave these new\nsurfaces.” Marco Spatti\nMARCO SPATTI\nDopo aver conseguito un Master in Design del Prodotto nel 2007 pres-\nso l’Istituto d’Arte Applicata e Design di Torino, Marco Spatti viaggia\ne lavora per diversi studi specializzati principalmente in design d’ar-\nredi, complementi ed illuminazione; uno su tutti lo studio di Mario\nBellini. Nel 2015 fonda il proprio studio, dove coltiva l’interesse per\nla ricerca e la sperimentazione. Attraverso un approccio progettuale\nfatto di riflessione ed indagine continua, lo studio persegue l’obiettivo\ndella creazione di oggetti intelligenti e sostenibili che portino con sè\nun certo, imprescindibile, grado di innovazione.\nMARCO SPATTI\nMarco Spatti graduated in 2007 from the Institute of Applied Art and Design\nin Turin, Italy, obtaining his Master’s degree in Product Design. Since then, he\nhas traveled and worked for design studios, with a primary focus on furniture and\nlighting design, including the renowned Mario Bellini. In 2015, Marco opened his\nown studio, where he has been dedicated to developing smart and sustainable projects\nthrough meticulous research and experimentation. His design approach is characte-\nrized by tireless investigation and reflection, fostering a certain and inevitable degree\nof innovation.\n50.\nnoitcelloC\ntitepeR\nnoitcelloC\ntitepeR\nREPETIT\nIl nome Repetit nasce dall’unione del latino “repetita” (ripetere) e del\nfrancese “petit” (piccolo); a sottolineare l’essenza di un progetto che fa\ndella ripetizione dell’elemento minimo la propria cifra stilistica.\nUna superficie che sembra tessuta e che rivela la sua natura solo\nda vicino: è questa l’essenza di Repetit, firmata da Marco Spatti.\nL’ispirazione nasce dal mondo dei filati, in una proposta in ceramica\ne stucco che disegna un intreccio visivo e materico. Le mattonelle,\ncaratterizzate da piccoli grani dalla forma irregolare, una volta posate\ndanno vita a un rivestimento continuo e privo di fughe. Da lontano\nla superficie appare come un tessuto compatto e ritmico; da vicino\nemergono rilievi minuti, che invitano a un contatto diretto. La forza\ndel progetto di Repetit risiede nel ruolo attribuito allo stucco: non\npiù semplice dettaglio tecnico, ma elemento compositivo capace di\nmodulare l’estetica finale. Combinazioni tono su tono o contrasti\npiù audaci, fino all’alternanza sulla stessa parete di cromie diverse di\ngrani, unite da una stessa nuance di stucco, amplificano giochi otti"
+      },
+      "pdfCount": 2
+    },
+    "opificio-reverse": {
+      "specs": {
+        "technology": "nta adesione e stucco epossidico a contrasto, ad esempio Mapei. Preparare",
+        "sizes": "12X12, 12X24, 16X16, 17.5X29, 31X31",
+        "thickness": "8 mm",
+        "waterAbsorption": "≤3%",
+        "slipRating": "R10",
+        "peiRating": "PEI 1",
+        "frostResistant": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        }
+      ],
+      "descriptions": {
+        "catalogue": "REVERSE\nnoitcelloC\nesreveR\nnoitcelloC\nesreveR\nREVERSE\nUna spinta in direzioni\ninsolite, che accentua e\nvalorizza anche ciò che\nè secondario, ovvero lo\nstucco, attraverso un\npunto di vista “reverse”.\nA push in unusual directions, which accentuates and\nenhances even what is secondary through a “reverse” per-\nspective.\nnoitcelloC\nesreveR\nnoitcelloC\nesreveR\nCRISTINA PETTENUZZO - OTTO STUDIO\nFin da bambina disegnava piante di case immaginarie e dipingeva sui suoi vestiti.\nCrescendo, i suoi interessi hanno oscillato tra moda e design, affascinata al tempo\nstesso da arte, fotografia, antiquariato e dai gioielli contemporanei. Accumulatrice\nseriale di cose e oggetti scovate in giro per il mondo, ama viaggiare zaino in spalla con\nla bussola rivolta a Oriente, verso l’Asia, alla ricerca costante. Si occupa di direzione\ncreativa e progetta oggetti e accessori per la casa. Disegna superfici, tessuti, pattern e\nimmagina scenografie per gli interni e allestimenti effimeri. Con la sua passione per le\nimmagini, è gli occhi di Otto, curandone gli aspetti creativi e stilistici.\nCristina Pettenuzzo, con Domenico Diego e Gianpaolo Venier, è partner di OTTO\nStudio e sviluppa con Paola Navone progetti di interior, product design e art direction.\nTale collaborazione è fonte di sempre nuovi stimoli e permette di esplorare nuovi\nambiti di lavoro.\nOTTO Studio nasce dalla visione creativa dell’architetto Paola Navone. Studio di\ndesign multidisciplinare formato da un team di quindici persone, collabora con un\nvariegato portfolio di clienti internazionali. I team dedicati ai progetti di interior design\ne allo sviluppo dei progetti di product and graphic design alimentano una continua\ncontaminazione creativa, la chiave per poter realizzare la visione globale del progetto.\nDalla scala dell’architettura a quella del design di prodotto, sino al dettaglio dello stile\ne alla decorazione.\nCRISTINA PETTENUZZO OTTO STUDIO\nEven as a child, Cristina drew floor plans of imaginary houses and painted her clothes. Growing up,\nher interests alternated between fashion and design, fascinated at the same time by art, photography,\nantiques, and contemporary jewelry. A serial stasher of things and objects found around the world, she\nloves to go backpacking with her compass pointing East, towards Asia, constantly searching.\nShe designs objects and home accessories, surfaces, fabrics, and patterns. She develops creative directions\nand she devises sets for interiors and temporary installations. With her passion for images, she is Otto’s\neyes, dealing with the creative and stylistic aspects.\nCristina Pettenuzzo, with Domenico Diego and Gianpaolo Venier, is partner of OTTO Studio and\ndevelop interior, product design and art direction projects with Paola Navone. This collaboration is\nalways a source of new stimuli and allows you to explore new areas of work.\nOTTO Studio is born from the creative vision of architect and designer Paola Navone. Is a multi-\ndisciplinary design studio formed by a team of f",
+        "specSheet": "REVERSE - ZOO\nProgetto - Project Cristina Pettenuzzo OTTO Studio – 2023\nMateriale - Material NeoClayTM\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 8 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni) - Floor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation V1 Aspetto uniforme - V1 Uniform appearance\nFORMATI - SIZES\nnet 31x31\nCOLORI - COLOURS\nWHITE BLUE\nSTUCCHI - GROUTS\n111 SILVER GREY 125 CASTLE GREY 113 CEMENT GREY 177 SAGE 174 TORNADO 172 SPACE BLUE 144 CHOCOLATE 119 LONDON GREY\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com\nREVERSE - TRIM\nProgetto - Project Cristina Pettenuzzo OTTO Studio – 2023\nMateriale - Material NeoClayTM\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 8 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni) - Floor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation V1 Aspetto uniforme - V1 Uniform appearance\nFORMATI - SIZES\n12 x 12 12 x 24\nCOLORI - COLOURS\nWHITE BLUE GREEN DARK GREY\nSTUCCHI - GROUTS\n111 SILVER GREY 125 CASTLE GREY 113 CEMENT GREY 177 SAGE 174 TORNADO 172 SPACE BLUE 144 CHOCOLATE 119 LONDON GREY\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com\nREVERSE - TIKI\nProgetto - Project Cristina Pettenuzzo OTTO Studio – 2023\nMateriale - Material NeoClayTM\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 8 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni) - Floor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation V1 Aspetto uniforme - V1 Uniform appearance\nFORMATI - SIZES\n17,5 x 29\nCOLORI - COLOURS\nWHITE LIGHT GREY GREEN DARK GREY BLUE MUD\nSTUCCHI - GROUTS\n111 SILVER GREY 125 CASTLE GREY 113 CEMENT GREY 177 SAGE 174 TORNADO 172 SPACE BLUE 144 CHOCOLATE 119 LONDON GREY\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com\nREVERSE - HOP\nProgetto - Project Cristina Pettenuzzo OTTO Studio – 2023\nMateriale - Material NeoClayTM\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 8 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni) - Floor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation Colore - Colours White, Dark Grey: V2 Lieve variazione - V2 Slight variation\nColore - Colours Light Grey, Green, Mud, Blue: V1 Aspetto uniforme -\nFORMATI - SIZES\nA B C D\n16x16\nCOLORI - COLOURS\nA B A B D D\nLIGHT GREY GREEN\nC D C D D D\nWHITE DARK GREY MUD BLUE\nSTUCCHI - GROUTS\n111 SILVER GREY 125 CASTLE GREY 113 CEMENT GREY 177 SAGE 174 TORNADO 172 SPACE BLUE 144 CHOCOLATE 119 LONDON GREY\nShowroom and Offi"
+      },
+      "pdfCount": 2
+    },
+    "opificio-rondo": {
+      "specs": {
+        "sizes": "10X10",
+        "thickness": "7 mm",
+        "technology": "nta adesione per facilitare la sistemazione dei pezzi e",
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "specSheet": "Rondò\nProgetto - Project Opificio CeramicoTM – 2024\n12\nMateriale - Material Bicottura pressata smaltata / Glazed double-fired pressed ceramic\nProduzione - Production Ceramica pressata a secco, smaltata artigianalmente -\nArtisanal glazed dry-pressed ceramic\nSpessore - Thickness 7 mm\nUtilizzo - Use Rivestimento (interni) - Wall (indoor)\nVariazio 12ne cromatica - Shade variation Decoro: V1 Aspetto uniforme - V1 Uniform appearance\nBase: V2 Lieve variazione - V2 Slight variation\nDecoro: Formati - Sizes Decoro: Colori - Colours\nValori nominali - Nominal sizes\n10x10 PERLA ACQUAMARINA AGATA SMERALDO\nBase e Matita: F ormati - Sizes\nB a s e e Matita : C olo r i - C olo u r s\nValori nominali - Nominal sizes\n10x10 PERLA ACQUAMARINA AGATA SMERALDO\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com",
+        "catalogue": "RONDÒ\nnoitcelloC\nòdnoR\nnoitcelloC\nòdnoR\nRONDÒ\nUn’atmosfera magica si\ndipana, con la festa che\nesplode in colori vibranti e\nmoduli artistici.\nRondò è un tema musicale\nvisivo, dove pause eleganti\ned equilibrio interpretano\nuna danza avvolgente.\nUn vivace ritmo estetico\nnasce da dettagli che si\navvolgono come una\nmelodia senza fine.\nA magical atmosphere unfolds, with the celebration bursting\ninto vibrant colors and artistic patterns. Rondò is a visual\nmusical theme, where elegant pauses and balance interpret a\ncaptivating dance. A lively aesthetic rhythm arises from details\nthat intertwine like an endless melody.\nRONDÒ\nL’essenza della musica trova espressione visiva nella collezione. Ispirata\nai movimenti dinamici e alle composizioni armoniose del rondò\nmusicale, questa collezione cattura il ritmo e l’energia della danza.\nColori vibranti esplodono, riprendendo i crescendo vivaci di una\nsinfonia, mentre motivi molteplici danzano sulla superficie come note\nsu uno spartito musicale.\nProprio come un rondò intreccia senza soluzione di continuità diversi\nmotivi musicali, la collezione mescola due decori ed una base per\ncreare una composizione visiva armoniosa. La base liscia riflette la luce\ncome una melodia levigata mentre le piastrelle decorate aggiungono\nprofondità.\nI colori della collezione sono quattro: Perla (bianco rosato) –\nAcquamarina (azzurro chiaro) – Smeraldo (verde) ed Agata (blu).\nLe versioni sono due: Decoro (composto da due piastrelle) e Base.\nGli abbinamenti sono molteplici, in considerazione del fatto che\ni decori possono avere più orientamenti di posa e possono essere\nmiscelati con la Base.\nCompleta la collezione l’elemento di finitura Matita, disponibile nei\nquattro colori.\nLa collezione è realizzata con argilla bianca pressata a secco e cotta in\nbicottura a temperatura per la monoporosa (1.100°/1.150°).\nLa piastrella viene smaltata artigianalmente con smalti tradizionali\nmolto fondenti che permettono di formare ombre, accumuli di smalti\ne un naturale effetto craquelé.\nIl processo produttivo è una bicottura che coniuga la produzione\nindustriale del supporto con la smaltatura artigianale in superficie.\nThe essence of music finds visual expression in the collection. Inspired by the\ndynamic movements and harmonious compositions of musical rondò, this collection\ncaptures the rhythm and energy of dance.\nVibrant colors burst forth, echoing the lively crescendos of a symphony, while\nmultiple motifs dance across the surface like notes on a musical score.\nJust as a rondò seamlessly weaves together different musical motifs, the collection\nblends two decors and a base to create a harmonious visual composition. The smooth\nbase reflects light like a polished melody, while the decorated tiles add depth.\nThe collection features four colours: Perla (rosy white) – Aquamarina (light blue) –\nSmeraldo (green) and Agata (blue).\nThere are two versions: Decoro (composed of two tiles) and Base.\nThere are multiple combinations, considering that the decors can "
+      },
+      "pdfCount": 2
+    },
+    "opificio-sanremo": {
+      "specs": {
+        "thickness": "9,5 mm",
+        "material": "Extruded Porcelain",
+        "technology": "nta adesione per facilitare la sistemazione dei pezzi e",
+        "sizes": "31X31",
+        "waterAbsorption": "≤3%",
+        "slipRating": "R10",
+        "frostResistant": true
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "specSheet": "Sanremo\nProgetto - Project Opificio Ceramico TM – 2021\nMateriale - Material NeoClayTM / NeoClayTM Gloss\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 9,5 mm\nUtilizzo - Use NeoClayTM : Pavimento e rivestimento (interni e esterni) - Floor and wall (indoor and outdoor)\nNeoClayTM Gloss : Rivestimento (interni) - Wall (indoor)\nVariazione cromatica - Shade variation V1 Aspetto uniforme - V1 Uniform appearance\nFormati e Textures - Sizes and Textures Valori nominali - Nominal sizes\nBASE DECORO - DECORO GLOSS TRAMA\nF 16 io x re 16 S 14 te x ll 1 a 4 M Ne o t s 3 ai 1 c x o 31 F 16 io x re 16 S 14 te x ll 1 a 4 S 14 te x ll 1 a 4\nColori - Colours\nDALIA IRIS GIGLIO LOTO MOSAICO MIX\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com",
+        "catalogue": "snoitcelloC\nomernaS\nSANREMO\nViaggio in Italia\nsnoitcelloC\nomernaS\nsnoitcelloC\nomernaS\nSANREMO\nViaggio in Italia\nLa lieve brezza del mare\nscivola sui petali screziati.\nQuando tutto è chiaro, nel\nsilenzio, i fiori diventano\npennellate e accendono\nl’ispirazione.\nThe slight sea breeze glides over the mottled petals. When\neverything is clear, in silence, flowers become brushstrokes and\nignite inspiration.\nSANREMO\nViaggio in Italia\nLe terrazze sul mare, il paesaggio montuoso, gli agrumi, i fiori: questi\nsono solo alcuni accenni alla città ligure che ha ispirato la collezione.\nSanremo è un progetto innovativo soprattutto nelle forme, che si\nrifanno ad un fiore a quattro petali, che, accostato alla forma di una\nstella, permette la realizzazione di diversi pattern, colorati, freschi e\ninediti. La collezione è realizzata con impasto NeoClay TM ad elevato\ncontenuto tecnico, la gamma colori è ispirata alla Liguria e ad i suoi\nfiori. Sia la forma a Fiore che quella a Stella sono disponibili nella\nversione liscia (Base) o decorata (Decoro) in leggero altorilievo.\nQuest’ultima, solo per rivestimenti, viene anche proposta nella\nversione Gloss, rifinita con smalto lucido trasparente scurito nei bordi.\nLa forma Stella dispone anche di una versione Trama caratterizzata\nda una texture a rilievo.\nGli abbinamenti suggeriti sono molteplici, in considerazione del fatto\nche possono essere miscelati, oltre che più textures, anche più colori,\nrealizzando interessanti effetti degradè.\nStucchi e fughe impreziosiscono ulteriormente i pattern realizzati:\nstucchi a contrasto evidenziano le geometrie, mentre stucchi a tono\nconseguono un risultato estetico delicato e omogeneo.\nI colori della collezione sono quattro: bianco (Giglio), grigio (Iris), rosa\n(Dalia), grigio-verde (Loto).\nCompleta la collezione Sanremo la versione Mosaico su rete (31x31\ncm) in cui il fiore e la stella, entrambi solo nella versione liscia,\nhanno una dimensione ridotta rispettivamente a 5 cm e 4 cm. Per\nquest’ultima, oltre ai quattro colori della gamma, è disponibile anche\nuna variante Mix con i colori miscelati.\nThe terraces overlooking the sea, the mountainous landscape, the citrus fruits, the\nflowers: these are just a few hints to the Ligurian city that inspired the collection.\nSanremo is an innovative project, especially in the forms, which take their inspiration\nfrom a flower with four petals that form a star. Sanremo enables different coloured\nfresh patterns to be created that have never been seen before.\nThe collection has been created with NeoClay™ which has a high technical content.\nThe colour range takes its inspiration from Liguria and its flowers.\nBoth the Flower and the Star shape are available in the smooth or decorated slightly\nhigh-relief version. The latter is only for wall coverings and is available in the Gloss\nversion also finished with a clear, transparent and glossy glaze darkened at the edges\nfor a high-relief décor. The Star variant also has a Weft version.\nThe possibility to mix c"
+      },
+      "pdfCount": 2
+    },
+    "opificio-stromboli": {
+      "specs": {
+        "sizes": "1.5X11, 34.5X32, 5.5X27",
+        "thickness": "8 mm",
+        "material": "Extruded Porcelain",
+        "technology": "nta adesione per facilitare la sistemazione dei pezzi e stucco ce-",
+        "finish": "that adds luminosity and depth to the",
+        "waterAbsorption": "≤3%",
+        "frostResistant": true
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "specSheet": "noitcelloC\nilobmortS\nProgetto - Project Opificio CeramicoTM – 2024\nMateriale - Material Ceramica Vetrificata Smaltata - Fine Glazed Vitrified Ceramic\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 8 mm\nUtilizzo - Use Rivestimento (interni) - Wall (indoor)\nVariazione cromatica - Shade variation V2 Lieve Variazione - V2 Slight Variation\nFormati - Sizes Colori - Colours\nValori nominali - Nominal sizes\n5,5x27 Biscotto Cappuccino Seta Petrolio Grigio Artico Piombo\nBiscotto Cappuccino Seta Petrolio Grigio Artico Piombo\n1,5x11 Mosaico\nrete 34,5x32 - net 34,5x32",
+        "catalogue": "STROMBOLI\nViaggio in Italia\nnoitcelloC\nilobmortS\nSTROMBOLI\nViaggio in Italia\nFuoco e pietra nati dalle\nprofondità incandescenti\nplasmano un paesaggio in\nperpetuo mutamento.\nFire and stone born from molten depths, shaping a landscape\nthat never rests\nSTROMBOLI\nViaggio in Italia\nStromboli è una collezione di piastrelle prodotte artigianalmente,\ne ispirate alla bellezza unica dell’isola vulcanica. L’impasto con\ncui vengono realizzate è di argilla refrattaria, caratterizzata da una\nbase nera, che richiama la roccia lavica, e arricchita da una finitura\ngloss, che dona luminosità e profondità alla superficie, rievocando il\ncontrasto tra il buio delle rocce e i riflessi del mare sotto il sole.\nLa collezione è studiata esclusivamente per ambienti interni e\nprogettata come rivestimento, ideale per chi desidera conferire agli\nspazi una personalità decisa e contemporanea. Le piastrelle sono\ndisponibili in due formati: il formato rettangolare singolo da 5,5x27\ncm, perfetto per creare linee eleganti e pulite; e un mosaico composto\nda tessere di 1,5x11 cm, montato su rete, che consente una maggiore\nversatilità nella posa e si adatta a spazi più dinamici. Entrambi i\nformati sono disponibili in una gamma di sei colori intensi e vibranti,\nche vanno dal blu del mare e al marrone della terra.\nStromboli is a collection of artisanal tiles inspired by the unique beauty of the\nvolcanic island. Made with refractory clay, each tile features a black base reminiscent\nof lava rock, enhanced by a gloss finish that adds luminosity and depth to the\nsurface, evoking the contrast between the darkness of the rocks and the reflections of\nthe sunlit sea.\nDesigned exclusively for indoor spaces and intended as wall cladding, the collection\nis ideal for those looking to give their spaces a bold, contemporary character. The\ntiles are available in two formats: a single rectangular piece measuring 5.5x27\ncm, perfect for creating elegant, clean lines; and a mosaic composed of 1.5x11 cm\ntiles mounted on mesh, offering greater versatility in layout and adapting well to\nmore dynamic spaces. Both formats come in a range of six vibrant, intense colors,\nspanning from sea blues to earthy browns.\n50.\nnoitcelloC\nilobmortS\n70.\nnoitcelloC\nilobmortS\nPetrolio - Piombo\nGrigio Artico\nnoitcelloC\nilobmortS\n90.\nnoitcelloC\nilobmortS\nPiombo Petrolio\nnoitcelloC\nilobmortS\n11.\nnoitcelloC\nilobmortS\nSeta - Biscotto - Cappuccino\nSeta\nnoitcelloC\nilobmortS\n31.\nnoitcelloC\nilobmortS\nProgetto - Project Opificio CeramicoTM – 2024\nMateriale - Material Ceramica Vetrificata Smaltata - Fine Glazed Vitrified Ceramic\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 8 mm\nUtilizzo - Use Rivestimento (interni) - Wall (indoor)\nVariazione cromatica - Shade variation V2 Lieve Variazione - V2 Slight Variation\nFormati - Sizes Colori - Colours\nValori nominali - Nominal sizes\n5,5x27\nBiscotto Cappuccino Seta\nSTROMBOLI\nInformazioni tecniche / T"
+      },
+      "pdfCount": 2
+    },
+    "opificio-torino": {
+      "specs": {
+        "sizes": "24.2X40, 33.2X33.2",
+        "thickness": "10 mm",
+        "material": "Extruded Porcelain",
+        "technology": "ndo dove necessario",
+        "waterAbsorption": "≤3%",
+        "slipRating": "R10"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "specSheet": "noitcelloC\noniroT\nnoitcelloC\noniroT\nProgetto - Project Opificio CeramicoTM – 2024\nMateriale - Material Argilla Refrattaria - Refractory Stone\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 10 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni)\nFloor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation V3 Variazione sostanziale - V3 Substantial variation\nFormati - Sizes Colori - Colours\nValori nominali - Nominal sizes\nrete 33,2x33,2 - Net 33,2x33,2 Gianduia Nocciola Tè Verde Noir Latte\nTORINO\nCaratteristiche Tecniche / Technical Features\nrete 24,2x40 - net 24,2x40 Gianduia Nocciola Tè Verde Noir Latte",
+        "catalogue": "TORINO\nViaggio in Italia\nTORINO\nViaggio in Italia\nStrati che si svelano come\nuna delizia sublime, ispi-\nrati all’arte di creare una\nprelibatezza senza tempo.\nLayers unfold like the perfect bite, inspired by the artful creation\nof a timeless delicacy.\nTORINO\nViaggio in Italia\nQuesta collezione di piastrelle artigianali trae ispirazione dal celebre\ncremino torinese, reinterpretando l’eleganza e la raffinatezza del\ncioccolatino in un design versatile e contemporaneo. Ogni piastrella\nè realizzata a mano, rievocando i colori e le texture dei vari gusti\ndel cioccolato artigianale, con una palette di cinque tonalità calde e\navvolgenti, che spaziano dal cioccolato fondente a quello al latte,\ngianduia, nocciola e tè verde.\nLa collezione è disponibile in due formati su rete: il formato quadrato\n5,3x5,3 cm, ideale per creare pattern classici e linee regolari, e uno\nrettangolare di 2,6x13 cm, perfetto per superfici più dettagliate e giochi\ndi texture. Grazie alla qualità dei materiali, le piastrelle sono adatte sia\nper pavimentazioni che per rivestimenti, e possono essere utilizzate in\nambienti interni ed esterni.\nThis collection of artisanal tiles is inspired by the famous Turin cremino,\nreinterpreting the elegance and refinement of the chocolate in a versatile, contemporary\ndesign. Each tile is handcrafted, evoking the colors and textures of various flavors\nof artisanal chocolate, with a palette of five warm, enveloping shades ranging from\ndark chocolate to milk chocolate, gianduia, hazelnut, and green tea.\nThe collection is available in two mesh-mounted formats: a 5.3x5.3 cm square\nformat, ideal for creating classic patterns and regular lines, and a rectangular one\nwith 2.6x13 cm, perfect for more detailed surfaces and texture play. Thanks to the\nquality of the materials, the tiles are suitable for both flooring and wall applications\nand can be used in both indoor and outdoor spaces.\n50.\nnoitcelloC\noniroT\n70.\nnoitcelloC\noniroT\nGianduia\nLatte\nnoitcelloC\noniroT\n70.\nnoitcelloC\noniroT\nTè Verde\nnoitcelloC\noniroT\n90.\nnoitcelloC\noniroT\nNocciola Noir\nnoitcelloC\noniroT\n31.\nnoitcelloC\noniroT\nProgetto - Project Opificio CeramicoTM – 2024\nMateriale - Material Argilla Refrattaria - Refractory Stone\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 10 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni)\nFloor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation V3 Variazione sostanziale - V3 Substantial variation\nrete 33,2x33,2 - Net 33,2x33,2 Gianduia Nocciola\nTè Verde Noir Latte\nTORINO\nInformazioni tecniche / Technical information\nrete 24,5x40 - net 24,5x40 Gianduia Nocciola\nTè Verde Noir Latte\nnoitcelloC\noniroT\n51.\nnoitcelloC\noniroT\nCARATTERISTICHE TECNICHE CONSIGLI DI POSA / PULIZIA E MANUTENZIONE\nTechnical specifications Installation advice / Cleaning maintenance\nI prodotti della serie Torino sono manufatti artigianali realizzati per estrusione "
+      },
+      "pdfCount": 2
+    },
+    "opificio-venezia": {
+      "specs": {
+        "technology": "n Stonewareic",
+        "sizes": "16X16, 8X16",
+        "thickness": "9,5 mm",
+        "material": "Porcelain",
+        "finish": "is made with enamel quibble (craquelè), special enamel with very thin cracks to obtain an often imperceptible antique effect over time.",
+        "waterAbsorption": "≤3%",
+        "frostResistant": true
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "Via San Pietro, 4 41121 Modena Italy T +39 059"
+        },
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        }
+      ],
+      "descriptions": {
+        "specSheet": "Venezia\nProgetto - Project Opificio CeramicoTM\nMateriale - Material Gres Porcellanato Smaltato - Glazed Porcelain Stonewareic\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 9,5 mm\nUtilizzo - Use Pavimento e rivestimento (interni ed esterni)\nFloor and wall (indoor and outdoor)\nVariazione cromatica - Shade variation V2 Lieve Variazione - V2 Slight Variation\nFormati - Sizes Colori - Colours\nValori nominali - Nominal sizes\n8x16 RIALTO\nCHIARO\n16x16 FONDACO FONDACO\nCHIARO SCURO\nCALLE CALLE\nCHIARO SCURO\nShowroom and Offices\nVia San Pietro, 4 41121 Modena Italy T +39 059 4270330\nopificioceramico.com",
+        "catalogue": "VENEZIA\nViaggio in Italia\nsnoitcelloC\naizeneV\nsnoitcelloC\naizeneV\nVENEZIA\nViaggio in Italia\nLe infinite sfumature\ndi un mosaico di luce\nliquida, dove ogni\nlinea si perde\nnegli abissi di un mare\ndi vetro e argilla\nche gioca coi colori e\nli trasforma.\nThe infinite nuances of a mosaic of liquid light,\nwhere every line loses itself in the depths of a sea\nof glass and clay that plays with the colours and\ntransforms them.\nVenezia è una collezione ceramica realizzata come un manufatto\nartigianale, ottenuta per estrusione con materie prime naturali ad\nimpasto colorato. Ogni singolo pezzo viene toccato e lavorato a mano\nda esperti artigiani per renderlo unico, spugnando lo smalto e creando\naccumuli che rendono sempre vibrante la superficie.\nTecniche diverse impreziosiscono la superfice, in cui le strutture si\nfondono con gli smalti creando una nuova identità.\nI colori sono quelli dell’acqua, i bassorilievi sono particolari\narchitettonici, realizzati in due formati, che si prestano ad interpretare\nuno spazio elegante e raffinato, contemporaneo ma al tempo stesso\nromantico. Le textures riportano alla città dalla quale prende il nome:\nFondaco, ispirato alle pavimentazioni dei vecchi magazzini e dei\ndepositi merci medievali; Rialto, con i bassorilievi che reinterpretano\nle botteghe dei commercianti del primo insediamento veneziano ed\ninfine Lido, con la sua superficie sfumata come l’acqua.\nLe superfici, i colori, i formati e gli stucchi in tinta, sono stati pensati\nper essere utilizzati in abbinamento alla collezione Murano, dando\nvita a molteplici soluzioni di posa.\nVenezia is a ceramic collection of handcrafted products obtained by extrusion, using\nnatural coloured raw materials. Every single tile is worked and finished by skilled\ncraftsmen to make it unique, by sponging the glaze and creating accumulations that\nensure the surface is always vibrant. Different techniques that enhance the surface so\nthat the structures blend with the glazes create a new identity.\nThe colours are water colours, the bas–reliefs are architectural details made in two\nsizes for interpreting an elegant and sophisticated space that is modern but romantic\nat the same time. The textures draw their inspiration from the city, Venezia (Venice)\nfrom which the collection takes its name: Fondaco takes its inspiration from the\nfloors of the old medieval storerooms and warehouses; Rialto with bas-reliefs that\nreinterpret merchants’ stalls, recalls the first Venetian settlement, and lastly there is\nLido with its surface that is as nuanced as the water.\nAll the surfaces, the colours, the formats and the coloured stuccos have been designed\nto be used in combination with the Murano collection to permit an infinite number\nof tiling solutions.\nsnoitcelloC\naizeneV\nVENEZIA\nViaggio in Italia\n50.\nsnoitcelloC\naizeneV\nsnoitcelloC\naizeneV\nsnoitcelloC\naizeneV\nVenezia Rialto chiaro\n70.\nVenezia Rialto chiaro\nsnoitcelloC\naizeneV\n90.\nsnoitcelloC\naizeneV\nVenezia Calle scuro\nsnoitcelloC\naizeneV\n11.\nsnoitcelloC\na"
+      },
+      "pdfCount": 2
+    },
+    "opificio-venezia-cromie": {
+      "specs": {
+        "technology": "nta adesione per facilitare la sistemazione dei pezzi, livellando dove necessario con",
+        "sizes": "16X16, 4X16, 8X16",
+        "thickness": "9,5 mm",
+        "waterAbsorption": "≤3%",
+        "frostResistant": true,
+        "material": "Porcelain"
+      },
+      "skus": [
+        {
+          "skuCode": "4270330",
+          "size": "",
+          "colorName": "T. +39 059"
+        },
+        {
+          "skuCode": "2154763",
+          "size": "",
+          "colorName": "F. +30 059"
+        },
+        {
+          "skuCode": "4411112",
+          "size": "",
+          "colorName": "VViiaa SSaann PPiieettrroo,, 44"
+        }
+      ],
+      "descriptions": {
+        "catalogue": "noitcelloC\neimorC\naizeneV\nVENEZIA CROMIE\nViaggio in Italia\nnoitcelloC\neimorC\naizeneV\nnoitcelloC\neimorC\naizeneV\nVENEZIA CROMIE\nViaggio in Italia\nLe sfumature\nvariopinte si versano\nin grembo all’acqua,\ntra gli stucchi dei\npalazzi di una città\ngalleggiante. Sopra\ni canali, lontano dal\ntempo, appaiono i\ncolori.\nThe deep breath of history in a body\nwith sheer hues that creates\nwarm marbling and flourishes\nin an amazing combination of colours.\nnoitcelloC\nezneriF\n50.\nnoitcelloC\nezneriF\nVENEZIA CROMIE\nViaggio in Italia\nI colori della città di Venezia sono da sempre fonte di ispirazione\ninfinita per gli artisti di tutto il mondo.\nVenezia Cromie, l’approfondimento della collezione Venezia di\nOpificio Ceramico, vuole essere un omaggio alle bellezze della città\nunica al mondo. Ci siamo ispirati ai suoi bassorilievi iconici ed alle\ntonalità della Laguna per realizzare una nuova collezione, che richiama\nsolo alcune caratteristiche della precedente ma ne resta indipendente.\nIn Venezia Cromie si ritrovano le superfici lisce della versione “Lido”\ne quelle strutturate dei bassorilievi delle versioni “Calle”, “Fondaco” e\n“Rialto”. I colori sono 12, tutti ispirati alla città. Una gamma di azzurri\nriconducibili al cielo e al mare, di verdi che ricordano le sfumature\ndella Laguna, la varietà di bianco e cipria che ricordano gli stucchi dei\npalazzi nobili, i toni di grigio tipici dei “masegni” che caratterizzano\nla pavimentazione esterna della città.\nCiò che rende particolare la collezione è la profondità di smalto e i\nnumerosi effetti tonali che contraddistinguono ogni singola piastrella\nrigorosamente smaltata a mano. Ogni pezzo è un manufatto di\nceramica artistica con tutte le velature che le pennellate ad acquerello\ndonano all’impasto. L’acqua è l’elemento determinante della stesura\ndel colore su ogni pezzo, così come l’acqua è l’elemento iconico della\ncittà lagunare.\nLa versione Gloss arricchisce il progetto aggiungendo alla variante\nopaca satinata, una versione lucida in cui gli effetti tonali sono ancora\npiù profondi. Questa versione è disponibile nella versione liscia sia\nnella versione Lido, in tutti i suoi formati, che nelle versioni Rialto,\nCalle e Fondaco.\nThe colours of the city of Venice have always been an endless source of inspiration\nfor artists from all over the world.\nVenezia Cromie, the elaboration of the Venezia collection of Opificio Ceramico\nwants to be a homage to the beauty of this unique world city. We have drawn\ninspiration from its iconic bas reliefs and the tones of the Lagoon to create a new\ncollection that uses just a few characteristics of the previous collection but remains\nindependent of it.\nIn Venezia Cromie, we find the smooth surfaces of the “Lido” version and the\nstructured surfaces of the bas-reliefs of the “Calle”, “Fondaco” and “Rialto”\nversions. There are 12 colours, which all draw their inspiration from the city. An\nazur range that draws its inspiration of the sky and sea, greens that are reminiscent\nof the hues of the Lagoon, ",
+        "specSheet": "Venezia Cromie\nProgetto - Project Opificio Ceramico TM – 2021\nMateriale - Material Ceramica Vetrificata Smaltata/ Fine Glazed Vitrified Ceramic\nCaratteristiche - Features Lavorato a Mano - Handmade\nProduzione - Production Artigianale per trafila - Artisanal extruded\nSpessore - Thickness 9,5 mm\nUtilizzo - Use Lido: Pavimento e rivestimento (interni) - Floor and wall (indoor)\nFondaco, Calle, Rialto e Lido: Rivestimento (interni) - Wall (indoor)\nVariazione cromatica - Shade variation V2 Lieve variazione - V2 Slight variation\nFormati / Textures - Sizes / Textures Valori nominali - Nominal sizes\nLIDO FONDACO CALLE RIALTO\n4x16 8x16 16x16 16x16 16x16 8x16\nPezzi Speciali - Complementary Pieces\n16\nLato corto -\nShort side Sinistro -\nLeft\n16\n16 16 8 16 16 16\nLato lungo - 8 16\nLong side Destro -\nRight\nTerminale becco di civetta smaltato - Angolare becco di civetta smaltato - Raccordo parete -\nGlazed coved edge terminal Glazed coved edge corner Glazed coved base\n16 8 16 8\nColori - Colours\nCIPRIA BEIGE BIANCO ANTRACITE ARDESIA BLU\nSShhoowwrroooomm aanndd OOffffiicceess\nVViiaa SSaann PPiieettrroo,, 44 4411112211 MMooddeennaa IIttaallyy TT ++3399 005599 44227700333300\nooppiiffiicciioocceerraammiiccoo..ccoomm"
+      },
+      "pdfCount": 2
+    }
+  }
+}
