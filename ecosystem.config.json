@@ -2,9 +2,8 @@
   "apps": [
     {
       "name": "piccola",
-      "cwd": "./frontend",
-      "script": "node",
-      "args": ".next/standalone/server.js",
+      "cwd": "./frontend/.next/standalone",
+      "script": "server.js",
       "instances": 1,
       "exec_mode": "fork",
       "env": {
@@ -12,8 +11,8 @@
         "PORT": 3000,
         "HOSTNAME": "0.0.0.0"
       },
-      "error_file": "../logs/pm2-error.log",
-      "out_file": "../logs/pm2-out.log",
+      "error_file": "../../../logs/pm2-error.log",
+      "out_file": "../../../logs/pm2-out.log",
       "log_date_format": "YYYY-MM-DD HH:mm:ss",
       "merge_logs": true,
       "max_restarts": 10,

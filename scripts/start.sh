@@ -50,8 +50,11 @@ if command -v pm2 &> /dev/null; then
   echo "📦 使用 PM2 管理进程..."
   cd "$PROJECT_DIR"
 
+  # 删除旧进程（如果配置方式不同）
+  pm2 delete piccola 2>/dev/null || true
+
   PORT=$PORT HOSTNAME=$HOST \
-  pm2 startOrReload ecosystem.config.json --env production
+  pm2 start ecosystem.config.json
 
   pm2 save 2>/dev/null || true
 
