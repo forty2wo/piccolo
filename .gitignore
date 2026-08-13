@@ -72,6 +72,12 @@ scripts/_archive/
 .lesshst
 .bash_history
 
+# Dev backup files (revert versions / legacy)
+*.revert-v1.tsx
+*.revert-v1.ts
+*.legacy.tsx
+*.legacy.ts
+
 # Deploy archives
 *.tar.gz
 

@@ -4,6 +4,7 @@ import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useCart } from '@/lib/cart-context';
+import FadeIn from './FadeIn';
 import { OpificioCollection, FlatImage, getOpificioCollection, flattenImages } from '@/lib/opificio-collections';
 
 interface OpificioDetailProps {
@@ -96,7 +97,8 @@ export default function OpificioDetail({ collection, sourceBrand = 'opificio' }:
 
       {/* ===== 2. Concept - 设计概念引文 ===== */}
       {collection.designConcept && (
-        <section className="py-20 md:py-32 px-6 md:px-16">
+        <FadeIn delay={100} offset={70}>
+          <section className="py-20 md:py-32 px-6 md:px-16">
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-xs tracking-[0.3em] uppercase text-[#8a7a5a] mb-8">
               The Concept
@@ -111,11 +113,13 @@ export default function OpificioDetail({ collection, sourceBrand = 'opificio' }:
             )}
           </div>
         </section>
+        </FadeIn>
       )}
 
       {/* ===== 3. Variant 色卡 - 网格 + 色号 caption ===== */}
       {variant.length > 0 && (
-        <section className="py-12 md:py-20 px-6 md:px-16 bg-white">
+        <FadeIn delay={100} offset={70}>
+          <section className="py-12 md:py-20 px-6 md:px-16 bg-white">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <p className="text-xs tracking-[0.3em] uppercase text-[#8a7a5a] mb-3">
@@ -155,11 +159,14 @@ export default function OpificioDetail({ collection, sourceBrand = 'opificio' }:
             </div>
           </div>
         </section>
+        </FadeIn>
       )}
 
       {/* ===== 4. Lifestyle 故事板 - 拼贴 ===== */}
+      {/* ===== 4. Lifestyle 故事板 - 拼贴 ===== */}
       {lifestyle.length > 0 && (
-        <section className="py-12 md:py-20 px-6 md:px-16">
+        <FadeIn delay={100} offset={70}>
+          <section className="py-12 md:py-20 px-6 md:px-16">
           <div className="max-w-7xl mx-auto">
             <div className="mb-12">
               <p className="text-xs tracking-[0.3em] uppercase text-[#8a7a5a] mb-3">
@@ -221,11 +228,13 @@ export default function OpificioDetail({ collection, sourceBrand = 'opificio' }:
             </div>
           </div>
         </section>
+        </FadeIn>
       )}
 
       {/* ===== 5. Detail 单品图条 ===== */}
       {detail.length > 0 && (
-        <section className="py-12 md:py-20 px-6 md:px-16 bg-white">
+        <FadeIn delay={100} offset={70}>
+          <section className="py-12 md:py-20 px-6 md:px-16 bg-white">
           <div className="max-w-7xl mx-auto">
             <p className="text-xs tracking-[0.3em] uppercase text-[#8a7a5a] mb-6">
               Product Detail
@@ -249,10 +258,12 @@ export default function OpificioDetail({ collection, sourceBrand = 'opificio' }:
             </div>
           </div>
         </section>
+        </FadeIn>
       )}
 
       {/* ===== 6. Specs + CTA ===== */}
-      <section className="py-20 md:py-32 px-6 md:px-16 bg-[#1a1a1a] text-white">
+      <FadeIn delay={100} offset={80}>
+        <section className="py-20 md:py-32 px-6 md:px-16 bg-[#1a1a1a] text-white">
         <div className="max-w-6xl mx-auto">
           <div className="grid md:grid-cols-2 gap-16">
             {/* 规格表 */}
@@ -350,7 +361,8 @@ export default function OpificioDetail({ collection, sourceBrand = 'opificio' }:
             </div>
           </div>
         </div>
-      </section>
+        </section>
+      </FadeIn>
 
       {/* ===== Lightbox ===== */}
       {lightbox && (

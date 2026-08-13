@@ -4,47 +4,62 @@ import Link from 'next/link'
 import Header from '@/components/Header'
 import HeroSection from '@/components/HeroSection'
 import FeaturedCollections from '@/components/FeaturedCollections'
-import ConsultationCTA from '@/components/ConsultationCTA'
 import Footer from '@/components/Footer'
+import FloatingCTA from '@/components/FloatingCTA'
+import FadeIn from '@/components/FadeIn'
 
 function ConsultationBanner() {
   return (
-    <section className="bg-warm-cream border-y border-warm-line">
-      <div className="container px-6 md:px-12 py-16 md:py-20">
-        <div className="grid grid-cols-1 md:grid-cols-[1.4fr_1fr] gap-10 md:gap-16 items-end">
-          {/* 左侧文案区 */}
-          <div className="max-w-2xl">
-            <p className="text-[10px] md:text-xs tracking-[0.3em] uppercase text-accent mb-3">
-              Exclusive Service
+    <section className="py-20 md:py-28 bg-[#f7f4f0]">
+      <div className="max-w-[1120px] mx-auto px-6 md:px-8">
+        <div
+          className="grid items-center gap-10 md:gap-12"
+          style={{
+            gridTemplateColumns: '1.5fr 1fr',
+            background: '#1c1c1c',
+            borderRadius: '2px',
+            padding: '56px 60px',
+          }}
+        >
+          {/* 左侧文案 */}
+          <div className="max-w-xl">
+            <p
+              className="text-[10px] tracking-[0.35em] uppercase mb-4 font-medium"
+              style={{ color: '#d4c5b0' }}
+            >
+              Personal Service
             </p>
-            <h3 className="text-2xl md:text-3xl font-display text-primary leading-tight mb-4">
-              为您的项目定制专属方案
-            </h3>
-            <p className="text-sm md:text-[15px] text-primary-light leading-relaxed">
-              样品寄送、设计咨询、项目报价——我们的顾问为每个项目单独跟进。
+            <h2
+              className="font-serif font-medium text-white tracking-tight mb-5 leading-tight"
+              style={{ fontSize: 'clamp(26px, 3.2vw, 40px)' }}
+            >
+              为您的项目定制专属瓷砖方案
+            </h2>
+            <p className="text-white/60 text-[15px] leading-relaxed">
+              从空间风格建议、样品寄送、到项目报价——我们的设计顾问为每个项目提供一对一的专属服务，
+              帮你找到最契合的那一片砖。
             </p>
           </div>
 
-          {/* 右侧三级转化入口：主 / 次 / 轻量。
-              主按钮是重动作（打开表单），次按钮是轻动作（跳转），三级链接是入门动作。 */}
-          <div className="flex flex-col items-stretch md:items-end gap-3">
+          {/* 右侧 CTA 组 */}
+          <div className="flex flex-col gap-4">
             <Link
-              href="/contact"
-              className="inline-flex items-center justify-center px-8 py-3.5 bg-primary text-white text-xs tracking-[0.15em] uppercase hover:bg-warm-text transition-colors duration-300 whitespace-nowrap"
+              href="/contact?intent=quote"
+              className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white text-[#1c1c1c] rounded-full text-xs tracking-[0.15em] uppercase font-medium hover:-translate-y-0.5 hover:shadow-[0_12px_32px_rgba(0,0,0,0.2)] transition-all duration-[450ms] ease-out"
             >
-              联系顾问
-            </Link>
-            <Link
-              href="/contact?intent=catalog"
-              className="inline-flex items-center justify-center md:justify-end px-1 py-2 text-xs tracking-[0.15em] uppercase text-primary border-b border-primary md:border-0 md:border-b md:border-primary hover:text-accent hover:border-accent transition-colors duration-300"
-            >
-              下载图册
+              项目询价 →
             </Link>
             <Link
               href="/contact?intent=sample"
-              className="inline-flex items-center justify-center md:justify-end px-1 py-1 text-[11px] tracking-[0.15em] uppercase text-primary-light hover:text-accent transition-colors duration-300"
+              className="inline-flex items-center justify-center gap-2 px-8 py-4 border border-white/30 text-white rounded-full text-xs tracking-[0.15em] uppercase hover:border-white/60 hover:bg-white/[0.05] transition-all duration-300"
             >
-              申请样品 →
+              申请样品
+            </Link>
+            <Link
+              href="/collections"
+              className="text-[12px] text-white/50 hover:text-white/80 tracking-wide transition-colors text-center"
+            >
+              先逛逛系列 →
             </Link>
           </div>
         </div>
@@ -55,13 +70,17 @@ function ConsultationBanner() {
 
 export default function Home() {
   return (
-    <main className="min-h-screen">
+    <main id="main-content" className="min-h-screen bg-[#f7f4f0]">
       <Header />
       <HeroSection />
-      <FeaturedCollections />
-      <ConsultationBanner />
-      <ConsultationCTA />
+      <FadeIn delay={100}>
+        <FeaturedCollections />
+      </FadeIn>
+      <FadeIn delay={100}>
+        <ConsultationBanner />
+      </FadeIn>
       <Footer />
+      <FloatingCTA />
     </main>
   )
 }

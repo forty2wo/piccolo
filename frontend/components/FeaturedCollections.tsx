@@ -1,17 +1,20 @@
 'use client'
 
-import { useState, useEffect, useMemo, useRef, useCallback } from 'react'
+import { useState, useEffect, useMemo, useRef } from 'react'
 import Link from 'next/link'
-import Image from 'next/image'
+import FadeImage from './FadeImage'
+import FadeIn from './FadeIn'
 import { products } from '@/lib/brand-products'
 import imageRatios from '@/lib/image-ratios.json'
 import ProductDetailDrawer from '@/components/ProductDetailDrawer'
 
 /* ============================================================
- * Curated Gallery v13
+ * Curated Gallery v16 — CSS Grid 变宽瀑布流
  *
- * 交互: 点击 tile → 原地展开抽屉式详情 (不跳转页面)
- * 布局: CSS columns (纯 CSS)
+ * 交互: 点击 tile → 原地展开抽屉式详情
+ * 布局: CSS Grid 12 列 + grid-column span + dense 自动填充
+ *   宽图占 8 列 (大卡片), 普通图占 4 列 (标准卡片)
+ *   类 41zero42 视觉效果, 每行列数不固定
  * 图片: 真实宽高比 + 盖帽
  * ============================================================ */
 
@@ -51,17 +54,6 @@ function mulberry32(seed: number): () => number {
     t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t
     return ((t ^ (t >>> 14)) >>> 0) / 4294967296
   }
-}
-
-function hashSeed(str: string): number {
-  let h = 0
-  for (let i = 0; i < str.length; i++) h = (Math.imul(31, h) + str.charCodeAt(i)) | 0
-  return h
-}
-
-function getDailySeed(): string {
-  const d = new Date()
-  return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}|featured`
 }
 
 function shuffle<T>(arr: T[], rng: () => number): T[] {
@@ -110,64 +102,66 @@ function buildTiles(
 const BLUR_PLACEHOLDER =
   'data:image/webp;base64,UklGRiIAAABXRUJQVlA4IBYAAAAwAQCdASoIAAUAAUAmJZQAA3AA/vJzGgA='
 
+// 宽高比阈值: 大于此值判定为宽幅图, 占更多列宽
+const WIDE_RATIO_THRESHOLD = 1.3
+
 export default function FeaturedCollections() {
   const pool = useMemo(() => buildImagePool(), [])
   const ratios = imageRatios as Record<string, { w: number; h: number; r: number }>
 
+  const rng = useMemo(() => mulberry32(42), [])
+
   const [tiles, setTiles] = useState<Tile[]>(() => {
-    const seed = hashSeed(getDailySeed())
-    return buildTiles(pool, ratios, INITIAL_BATCH, 0, mulberry32(seed))
+    return buildTiles(pool, ratios, INITIAL_BATCH, 0, rng)
   })
 
   const [loading, setLoading] = useState(false)
   const sentinelRef = useRef<HTMLDivElement | null>(null)
 
-  // 抽屉状态
-  const [drawer, setDrawer] = useState<{ brand: string; collection: string } | null>(null)
+  const [drawer, setDrawer] = useState<{ brand: string; collection: string; heroImage?: string } | null>(null)
 
-  // 用 ref 存储 loading 状态, 避免 loadMore 依赖变化导致 IntersectionObserver 重建
-  // 注意: 不要在这里同步 loading state 到 ref — 由 loadMore 内部直接操作 ref
   const loadingRef = useRef(false)
-  const tilesLenRef = useRef(tiles.length)
-
-  const loadMore = useCallback(() => {
-    if (loadingRef.current || tilesLenRef.current >= MAX_TILES) return
-    loadingRef.current = true
-    setLoading(true)
-    setTimeout(() => {
-      const seed = hashSeed(getDailySeed()); const rng = mulberry32(seed)
-      setTiles(prev => {
-        const next = buildTiles(pool, ratios, MORE_BATCH, prev.length, rng)
-        const existing = new Set(prev.map(t => `${t.collection}-${t.image}`))
-        const merged = prev.concat(next.filter(t => !existing.has(`${t.collection}-${t.image}`)))
-        tilesLenRef.current = merged.length
-        return merged
-      })
-      loadingRef.current = false
-      setLoading(false)
-    }, 120)
-  }, [pool, ratios])
+  const tilesRef = useRef(tiles)
+  tilesRef.current = tiles
 
   useEffect(() => {
     const sentinel = sentinelRef.current
     if (!sentinel) return
+
     const obs = new IntersectionObserver(
       (entries) => {
-        if (entries[0]?.isIntersecting) loadMore()
+        if (!entries[0]?.isIntersecting) return
+        if (loadingRef.current) return
+        if (tilesRef.current.length >= MAX_TILES) {
+          obs.unobserve(sentinel)
+          return
+        }
+
+        loadingRef.current = true
+        setLoading(true)
+
+        setTimeout(() => {
+          setTiles(prev => {
+            const next = buildTiles(pool, ratios, MORE_BATCH, prev.length, rng)
+            const existing = new Set(prev.map(t => `${t.collection}-${t.image}`))
+            const merged = prev.concat(next.filter(t => !existing.has(`${t.collection}-${t.image}`)))
+            loadingRef.current = false
+            return merged
+          })
+          setLoading(false)
+        }, 120)
       },
-      { rootMargin: '200px 0px' },
+      { rootMargin: '0px 0px 300px 0px' },
     )
     obs.observe(sentinel)
     return () => obs.disconnect()
-  }, [loadMore])
+  }, [pool, ratios, rng])
 
-  const handleTileClick = (e: React.MouseEvent, href: string) => {
+  const handleTileClick = (e: React.MouseEvent, tile: Tile) => {
     e.preventDefault()
-    // 从 href 解析 brand + collection
-    // href 格式: /products/{brand}/{collection}
-    const parts = href.split('/').filter(Boolean)
+    const parts = tile.href.split('/').filter(Boolean)
     if (parts.length >= 3 && parts[0] === 'products') {
-      setDrawer({ brand: parts[1], collection: parts[2] })
+      setDrawer({ brand: parts[1], collection: parts[2], heroImage: tile.image })
     }
   }
 
@@ -182,29 +176,39 @@ export default function FeaturedCollections() {
           </p>
         </div>
 
-        <div className="columns-1 sm:columns-2 md:columns-3 gap-6 md:gap-10">
-          {tiles.map((tile) => {
+        {/* CSS Grid 变宽瀑布流 — 响应式: 移动端2列 / 平板6列 / 桌面12列 */}
+        <div className="grid grid-cols-2 sm:grid-cols-6 md:grid-cols-12 gap-3 md:gap-4 grid-flow-dense">
+          {tiles.map((tile, index) => {
             const ratio = tile.width / tile.height
             const clampedRatio = Math.max(ratio, 0.55)
+            const isWide = ratio > WIDE_RATIO_THRESHOLD
+            // 响应式 span: 手机全宽 / 平板占4列 / 桌面占8列 (宽图); 手机1列 / 平板3列 / 桌面4列 (普通图)
+            const colSpanClass = isWide
+              ? 'col-span-2 sm:col-span-4 md:col-span-8'
+              : 'col-span-1 sm:col-span-3 md:col-span-4'
             return (
-              <a
+              <FadeIn
                 key={tile.id}
-                href={tile.href}
-                onClick={(e) => handleTileClick(e, tile.href)}
-                className="group block mb-6 md:mb-10 break-inside-avoid overflow-hidden bg-warm-ivory"
+                delay={Math.min((index % 6) * 60, 300)}
+                offset={50}
+                duration={700}
+                className={`group relative block overflow-hidden bg-warm-ivory ${colSpanClass}`}
               >
-                <div style={{ aspectRatio: String(clampedRatio) }} className="relative w-full">
-                  <Image
-                    src={tile.image}
-                    alt={`${tile.name} - ${tile.nameEn}`}
-                    fill
-                    sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
-                    loading="lazy"
-                    placeholder="blur"
-                    blurDataURL={BLUR_PLACEHOLDER}
-                    className="object-cover transition-transform duration-[1200ms] ease-out group-hover:scale-[1.05]"
-                  />
-                </div>
+                <a
+                  href={tile.href}
+                  onClick={(e) => handleTileClick(e, tile)}
+                  className="block w-full h-full"
+                  style={{ aspectRatio: String(clampedRatio) }}
+                >
+                <FadeImage
+                  src={tile.image}
+                  alt={`${tile.name} - ${tile.nameEn}`}
+                  fill
+                  sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
+                  loading="lazy"
+                  unoptimized
+                  className="object-cover transition-transform duration-[1200ms] ease-out group-hover:scale-[1.05]"
+                />
 
                 <span className="absolute top-3 right-3 text-[9px] tracking-[0.25em] uppercase text-white/85 mix-blend-difference">
                   {tile.brand}
@@ -214,7 +218,8 @@ export default function FeaturedCollections() {
                   <h3 className="text-white text-xs md:text-sm font-light leading-tight">{tile.name}</h3>
                   <p className="text-white/70 text-[9px] md:text-[10px] tracking-wider mt-0.5">{tile.nameEn}</p>
                 </div>
-              </a>
+                </a>
+              </FadeIn>
             )
           })}
         </div>
@@ -248,11 +253,11 @@ export default function FeaturedCollections() {
         </div>
       </div>
 
-      {/* 抽屉式详情 */}
       {drawer && (
         <ProductDetailDrawer
           brand={drawer.brand}
           collection={drawer.collection}
+          heroImage={drawer.heroImage}
           onClose={() => setDrawer(null)}
         />
       )}

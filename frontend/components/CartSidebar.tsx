@@ -1,108 +1,134 @@
-'use client';
+'use client'
 
-import { useCart } from '@/lib/cart-context';
-import Image from 'next/image';
-import Link from 'next/link';
+import { useCart } from '@/lib/cart-context'
+import Image from 'next/image'
+import Link from 'next/link'
 
 export default function CartSidebar() {
-  const { items, isOpen, setIsOpen, removeFromCart, updateQuantity, clearCart, totalItems } = useCart();
+  const { items, isOpen, setIsOpen, removeFromCart, updateQuantity, clearCart, totalItems } = useCart()
 
-  if (!isOpen) return null;
+  if (!isOpen) return null
 
   return (
     <>
       {/* 背景遮罩 */}
-      <div 
-        className="fixed inset-0 bg-black/50 z-40 transition-opacity"
+      <div
+        className="fixed inset-0 bg-black/50 backdrop-blur-[4px] z-40"
         onClick={() => setIsOpen(false)}
       />
 
-      {/* 购物车侧边栏 */}
-      <div className="fixed right-0 top-0 h-full w-full max-w-md bg-white z-50 shadow-2xl flex flex-col">
+      {/* 侧边栏 */}
+      <div
+        className="fixed right-0 top-0 h-full w-full max-w-md bg-[#f7f4f0] z-50 shadow-[0_20px_60px_rgba(0,0,0,0.12)] flex flex-col"
+        style={{ animation: 'slideIn 0.35s cubic-bezier(0.16, 1, 0.3, 1)' }}
+      >
+        <style jsx global>{`
+          @keyframes slideIn {
+            from { transform: translateX(100%); }
+            to { transform: translateX(0); }
+          }
+        `}</style>
+
         {/* 头部 */}
-        <div className="flex items-center justify-between p-6 border-b">
+        <div className="flex items-center justify-between p-6 md:p-8 border-b border-black/[0.06]">
           <div>
-            <h2 className="text-2xl font-bold text-[#1a1a1a]">选材清单</h2>
-            <p className="text-sm text-gray-500 mt-1">{totalItems} 个系列</p>
+            <h2 className="font-serif text-xl md:text-2xl font-medium text-[#1c1c1c] tracking-wide">
+              选材清单
+            </h2>
+            <p className="text-sm text-[#8a8a8a] mt-1">{totalItems} 个系列</p>
           </div>
           <button
             onClick={() => setIsOpen(false)}
-            className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
-            aria-label="关闭购物车"
+            className="p-2 text-[#8a8a8a] hover:text-[#1c1c1c] transition-colors"
+            aria-label="关闭"
           >
-            <svg className="w-6 h-6 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" strokeWidth={1.5} viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
         </div>
 
-        {/* 商品列表 */}
-        <div className="flex-1 overflow-y-auto p-6">
+        {/* 列表 */}
+        <div className="flex-1 overflow-y-auto p-6 md:p-8">
           {items.length === 0 ? (
-            <div className="text-center py-12">
-              <div className="text-6xl mb-4">📋</div>
-              <p className="text-gray-500 mb-6">选材清单还是空的</p>
+            <div className="text-center py-16">
+              <div
+                className="w-20 h-20 mx-auto mb-6 rounded-full bg-white flex items-center justify-center"
+              >
+                <svg className="w-10 h-10 text-[#b8a088]" fill="none" stroke="currentColor" strokeWidth={1.25} viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
+                </svg>
+              </div>
+              <p className="text-[#8a8a8a] mb-6">选材清单还是空的</p>
               <Link
                 href="/collections"
-                className="inline-block px-6 py-3 bg-[#1a1a1a] text-white rounded-lg hover:bg-[#4a4a4a] transition-colors"
                 onClick={() => setIsOpen(false)}
+                className="inline-flex items-center gap-2 px-6 py-3 bg-[#1c1c1c] text-white rounded-full text-sm tracking-wide hover:bg-[#2a2a2a] transition-colors"
               >
-                去逛逛
+                去逛逛 →
               </Link>
             </div>
           ) : (
-            <div className="space-y-6">
+            <div className="space-y-4">
               {items.map((item) => (
-                <div key={item.id} className="flex gap-4 bg-gray-50 rounded-lg p-4">
-                  {/* 商品图片 */}
-                  <div className="w-24 h-24 flex-shrink-0 rounded-lg overflow-hidden bg-gray-100">
+                <div key={item.id} className="flex gap-4 bg-white p-4 rounded-[2px]">
+                  {/* 图片 */}
+                  <div className="w-20 h-20 flex-shrink-0 rounded-[2px] overflow-hidden bg-[#f0ebe3]">
                     <Image
                       src={item.image}
                       alt={item.collectionName}
                       className="w-full h-full object-cover"
-                      width={96}
-                      height={96}
+                      width={80}
+                      height={80}
                     />
                   </div>
 
-                  {/* 商品信息 */}
+                  {/* 信息 */}
                   <div className="flex-1 min-w-0">
-                    <h3 className="font-semibold text-[#1a1a1a] truncate">{item.collectionName}</h3>
-                    <p className="text-sm text-gray-500 truncate">{item.collectionNameEn}</p>
-                    <p className="text-xs text-gray-400 mt-1">{item.brand}</p>
+                    <h3 className="font-medium text-[#1c1c1c] truncate text-[15px]">
+                      {item.collectionName}
+                    </h3>
+                    <p className="text-xs text-[#8a8a8a] truncate mt-0.5">
+                      {item.collectionNameEn}
+                    </p>
+                    <p className="text-[11px] text-[#b8a088] tracking-wider uppercase mt-1">
+                      {item.brand}
+                    </p>
 
-                    {/* 数量控制 */}
-                    <div className="flex items-center gap-3 mt-3">
+                    {/* 数量 */}
+                    <div className="flex items-center gap-2 mt-3">
                       <button
                         onClick={() => updateQuantity(item.id, item.quantity - 1)}
-                        className="w-8 h-8 flex items-center justify-center bg-white border border-gray-200 rounded-lg hover:bg-gray-100 transition-colors"
-                        aria-label="减少数量"
+                        className="w-7 h-7 flex items-center justify-center bg-[#f7f4f0] border border-black/[0.06] rounded-full hover:bg-white transition-colors"
+                        aria-label="减少"
                       >
-                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 12H4" />
+                        <svg className="w-3.5 h-3.5 text-[#4a4a4a]" fill="none" stroke="currentColor" strokeWidth={1.5} viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" d="M20 12H4" />
                         </svg>
                       </button>
-                      <span className="w-8 text-center font-medium">{item.quantity}</span>
+                      <span className="w-6 text-center text-sm text-[#1c1c1c]">
+                        {item.quantity}
+                      </span>
                       <button
                         onClick={() => updateQuantity(item.id, item.quantity + 1)}
-                        className="w-8 h-8 flex items-center justify-center bg-white border border-gray-200 rounded-lg hover:bg-gray-100 transition-colors"
-                        aria-label="增加数量"
+                        className="w-7 h-7 flex items-center justify-center bg-[#f7f4f0] border border-black/[0.06] rounded-full hover:bg-white transition-colors"
+                        aria-label="增加"
                       >
-                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
+                        <svg className="w-3.5 h-3.5 text-[#4a4a4a]" fill="none" stroke="currentColor" strokeWidth={1.5} viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" d="M12 4v16m8-8H4" />
                         </svg>
                       </button>
                     </div>
                   </div>
 
-                  {/* 删除按钮 */}
+                  {/* 删除 */}
                   <button
                     onClick={() => removeFromCart(item.id)}
-                    className="p-2 text-gray-400 hover:text-red-500 transition-colors"
-                    aria-label="删除商品"
+                    className="p-1 text-[#b8a088]/60 hover:text-[#b8a088] transition-colors self-start"
+                    aria-label="删除"
                   >
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth={1.5} viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
                     </svg>
                   </button>
                 </div>
@@ -113,26 +139,29 @@ export default function CartSidebar() {
 
         {/* 底部操作 */}
         {items.length > 0 && (
-          <div className="border-t p-6 space-y-4">
-            {/* 询价提示 */}
-              <div className="bg-blue-50 rounded-lg p-4">
-              <p className="text-sm text-blue-700">
-                💡 温馨提示：提交选材清单后，我们的设计师团队会尽快与您联系，提供报价和样品
+          <div className="border-t border-black/[0.06] p-6 md:p-8 space-y-4">
+            {/* 提示 */}
+            <div
+              className="p-4 rounded-[2px]"
+              style={{ background: 'rgba(184,160,136,0.08)' }}
+            >
+              <p className="text-[13px] text-[#5a4a3a] leading-relaxed">
+                💡 提交选材清单后，我们的设计师团队会尽快与您联系，提供专属报价与样品支持。
               </p>
             </div>
 
-            {/* 操作按钮 */}
-            <div className="flex gap-4">
+            {/* 按钮 */}
+            <div className="flex gap-3">
               <button
                 onClick={clearCart}
-                className="flex-1 px-6 py-3 border-2 border-gray-200 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors font-medium"
+                className="flex-1 py-3 border border-black/[0.06] text-[#4a4a4a] rounded-full hover:bg-white transition-colors text-sm tracking-wide"
               >
                 清空
               </button>
               <Link
                 href="/contact"
-                className="flex-1 px-6 py-3 bg-[#1a1a1a] text-white text-center rounded-lg hover:bg-[#4a4a4a] transition-colors font-medium"
                 onClick={() => setIsOpen(false)}
+                className="flex-1 py-3 bg-[#1c1c1c] text-white text-center rounded-full hover:bg-[#2a2a2a] transition-colors text-sm tracking-wide"
               >
                 提交询价
               </Link>
@@ -141,5 +170,5 @@ export default function CartSidebar() {
         )}
       </div>
     </>
-  );
+  )
 }

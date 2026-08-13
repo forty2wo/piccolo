@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'standalone',
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -12,7 +13,6 @@ const nextConfig = {
         hostname: 'images.pexels.com',
       },
     ],
-    // unoptimized disabled - using Next.js Image optimization for WebP conversion & lazy loading
   },
   // 开发模式下禁用严格检查
   reactStrictMode: false,
