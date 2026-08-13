@@ -15,10 +15,12 @@ if [ -d ".git" ]; then
   echo "📥 拉取最新代码..."
   # 确保使用 HTTPS 协议（服务器上可能没有 SSH 密钥）
   CURRENT_REMOTE=$(git remote get-url origin 2>/dev/null || echo "")
-  if [[ "$CURRENT_REMOTE" == git@github.com* ]]; then
-    HTTPS_REMOTE=$(echo "$CURRENT_REMOTE" | sed 's|git@github.com:|https://github.com/|')
-    git remote set-url origin "$HTTPS_REMOTE"
-  fi
+  case "$CURRENT_REMOTE" in
+    git@github.com*)
+      HTTPS_REMOTE=$(echo "$CURRENT_REMOTE" | sed 's|git@github.com:|https://github.com/|')
+      git remote set-url origin "$HTTPS_REMOTE"
+      ;;
+  esac
   git pull
 fi
 
