@@ -1,3 +1,4 @@
+import { Suspense } from 'react'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import CollectionsGrid from '@/components/CollectionsGrid'
@@ -12,7 +13,9 @@ export default function CollectionsPage() {
   return (
     <main className="min-h-screen">
       <Header />
-      <CollectionsGrid />
+      <Suspense fallback={<div className="p-8 text-center">加载中...</div>}>
+        <CollectionsGrid />
+      </Suspense>
       <Footer />
     </main>
   )
